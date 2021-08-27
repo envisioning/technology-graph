@@ -3,12 +3,13 @@
 c. 1.5 mya
 
 Enables:
-- [[Cooking]]
+- Source of [[Warmth]] and [[Lighting]].
+- [[Protection]] from predators (especially at night).
+- A way to create more advanced [[Hunting]] tools.
+- A method for [[Cooking]] food. 
+- 
+
 - [[Cremation]]
-- [[Steam Engine]]
-- [[Gunpowder]]
-- [[Baking]]
 
 
 
-https://www.beyondveg.com/nicholson-w/hb/hb-interview2c.shtml

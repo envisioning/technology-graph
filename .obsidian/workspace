@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "technology/Control of Fire.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "technology/Control of Fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "3700e1a7c7deb675",
   "lastOpenFiles": [
+    "technology/Control of Fire.md",
     "README.md",
     "technology/Untitled 2.md",
     "technology/Solid State Drive (SSD).md",
