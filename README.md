@@ -7,7 +7,8 @@
 ### Objective
 - Index all publically disclosed technologies.
 - Indicate relationships between them, such as dependencies or enablers
-- Create a comprehensive knowledge graph of the [technium](https://kk.org/thetechnium/the-seventh-kin/).
+- Create a comprehensive knowledge graph of Kevin Kelly's [Technium](https://kk.org/thetechnium/the-seventh-kin/).
+- Identify the interdependency between *all* technologies, as per James Burke's [Connections](https://archive.org/details/james-burke-connections_s01e01).
 - Provide a standardized framework around which anyone can analyze the *technologial ecosystem*.
 - Help non-experts undertand the *nature* of technology and its fundamental interconnectedness.
 - Publish research findings on [GitHub](https://github.com/mz-000/TG).
@@ -25,7 +26,7 @@
 ---
 
 ### Collaboration
-- Feel free to create (*push*) new Technologies entries to the main branch.
+- Feel free to create new Technologies entries to the main branch.
 - Also consider adding \[[ Links \]] between existing Technologies.
 - For all new Entires, please indicate at least one Relationship and Source.
 
