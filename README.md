@@ -17,8 +17,7 @@
 
 ### Instructions
 - Navigate the research by loading this repository locally in [Obsidian](https://obsidian.md).
-- Either [download the Vault](https://github.com/mz-000/TG/archive/refs/heads/main.zip) as a [[ZIP File]] or install a GitHub client on your [[Computer]].
-- After installation, start here: [[Control of Fire]] 🔥
+- Either [download the Vault](https://github.com/mz-000/TG/archive/refs/heads/main.zip) as a ZIP File or install a GitHub client on your Computer.
 
 ![TG](/•/img/TG.png)
 
