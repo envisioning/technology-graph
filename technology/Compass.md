@@ -1,0 +1,3 @@
+[[Astronomy]]
+[[Magnetism]]
+-> [[Magnetic Compass]]

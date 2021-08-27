@@ -1,0 +1,3 @@
+#Method 
+
+Cloudseeding traditionally refers to a set of weather-modification techniques in which a substance — salt, or silver iodide, or dry ice — is fired into a cloud to enhance precipitation, not single-handedly create it. For years, this has been done by planes; more recently, unmanned drones have been tried, releasing electrical charges that can have a similar effect. In theory, the seeding creates an attractive substrate for water molecules to coalesce around, forming droplets or crystals dense enough to fall to the ground without evaporating.

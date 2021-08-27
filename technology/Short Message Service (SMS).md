@@ -1,0 +1,3 @@
+-> Texting
+[[GPRS]]
+[[Smartphone]]
