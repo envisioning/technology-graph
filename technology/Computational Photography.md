@@ -1,2 +1,2 @@
 [[Machine Vision]]
-[[Camera]]
+[[Digital Camera System]]

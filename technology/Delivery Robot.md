@@ -3,7 +3,7 @@
 [[Global Positioning System (GPS)]]
 [[Light Detection and Ranging (LiDAR)]]
 [[Sensor]]
-[[Camera]]
+[[Digital Camera System]]
 [[Deep Learning]]
 
 [[Cargo Department]]

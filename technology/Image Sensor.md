@@ -2,5 +2,5 @@
 
 Used by:
 - [[Machine Vision]]
-- [[Camera]]
+- [[Digital Camera System]]
 - [[Sensor-Shift Optical Image Stabilization]]

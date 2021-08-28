@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Fast Charge.md",
+            "file": "product/Apple iPhone 12 Pro (2020).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Fast Charge.md",
+                "file": "product/Apple iPhone 12 Pro (2020).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/Fast Charge.md",
+                "file": "product/Apple iPhone 12 Pro (2020).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,15 +111,15 @@
   },
   "active": "f600c0387eb5f0d4",
   "lastOpenFiles": [
-    "technology/Fast Charge.md",
     "product/Apple iPhone 12 Pro Max (2020).md",
+    "technology/Digita-  Camera System.md",
+    "technology/Camera Lens.md",
+    "technology/Digital Camera System.md",
+    "technology/Camera.md",
+    "technology/Fast Charge.md",
     "technology/Lightning.md",
     "technology/Wireless Charging.md",
     "technology/resonant inductive coupling.md",
-    "technology/Qi Wireless.md",
-    "technology/Wireless charging.md",
-    "technology/Power Connector.md",
-    "technology/Computer Bus.md",
-    "technology/Lithium-ion Battery.md"
+    "technology/Qi Wireless.md"
   ]
 }

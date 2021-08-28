@@ -1,4 +1,4 @@
-[[Camera]]
+[[Digital Camera System]]
 [[Machine Vision]]
 
 

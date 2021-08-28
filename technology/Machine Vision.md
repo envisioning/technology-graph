@@ -1,6 +1,6 @@
 #Method 
 
-[[Camera]]
+[[Digital Camera System]]
 [[Sensor]]
 
 [[Object Detection]]

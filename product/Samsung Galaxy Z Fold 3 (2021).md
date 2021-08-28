@@ -4,7 +4,7 @@
 
 [[Folding Screen]]
 
-[[Camera]]
+[[Digital Camera System]]
 
 [[USB-C]]
 

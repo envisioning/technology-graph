@@ -1,2 +1,2 @@
-[[Camera]]
+[[Digital Camera System]]
 [[Internet]]
