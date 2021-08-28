@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "product/Apple iPhone 12 Pro Max (2020).md",
+            "file": "technology/Fast Charge.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product/Apple iPhone 12 Pro Max (2020).md",
+                "file": "technology/Fast Charge.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product/Apple iPhone 12 Pro Max (2020).md",
+                "file": "technology/Fast Charge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,19 +107,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344
   },
   "active": "f600c0387eb5f0d4",
   "lastOpenFiles": [
+    "technology/Fast Charge.md",
     "product/Apple iPhone 12 Pro Max (2020).md",
-    "technology/4K.md",
-    "technology/Digital Video Format.md",
-    "technology/Digital Video Disc.md",
-    "technology/High Definition (HD).md",
-    "technology/1080p.md",
-    "technology/720p.md",
-    "technology/3G Mobile Network.md",
-    "technology/Application Store.md",
-    "technology/2G Mobile Network.md"
+    "technology/Lightning.md",
+    "technology/Wireless Charging.md",
+    "technology/resonant inductive coupling.md",
+    "technology/Qi Wireless.md",
+    "technology/Wireless charging.md",
+    "technology/Power Connector.md",
+    "technology/Computer Bus.md",
+    "technology/Lithium-ion Battery.md"
   ]
 }

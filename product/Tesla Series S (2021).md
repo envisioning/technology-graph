@@ -3,7 +3,7 @@
 
 
 [[USB-C]]
-[[Wireless Charging]]
+[[Wireless Power Transfer (WPT)]]
 [[Bluetooth]]
 [[Global Positioning System (GPS)]]
 

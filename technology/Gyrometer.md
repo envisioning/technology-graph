@@ -1,2 +1,2 @@
-[[Microelectromechanical systems (MEMS)]]
+[[Microelectromechanical System (MEMS)]]
 [[Gyroscope]]

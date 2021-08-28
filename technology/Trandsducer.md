@@ -1,0 +1,1 @@
+> A device that converts energy from one form to another.

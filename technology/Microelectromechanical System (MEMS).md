@@ -9,7 +9,7 @@ MEMS are also referred to as micromachines in Japan and microsystem technology (
 
 
 
-[[Nanoelectromechanical systems (NEMS)]]
+[[Nanoelectromechanical System (NEMS)]]
 
 
 

@@ -14,6 +14,7 @@ Chip
 	[[Image Processor]]
 	[[Digital Storage]]
 	[[Random Access Memory (RAM)]]
+	[[Secure Enclave]]
 
 [[Camera]]
 Optics
@@ -44,7 +45,6 @@ Hardware
 
 Video
 	[[High Dynamic Range (HDR)]]
-	[[Dolby Vision]]
 	[[4K]]
 	[[1080p]]
 	[[720p]]
@@ -52,7 +52,7 @@ Video
 	[[Digital Audio Zoom]]
 
 Face ID
-	[[Face Recognition]]
+	[[Facial Recognition System]]
 	[[Attention Awareness]]
 	[[Gaze Detection]]
 	[[Face Unlock]]
@@ -67,7 +67,7 @@ Cellular and Wireless
 	[[5G Mobile Network]]
 	[[Gigabit LTE]]
 	[[CDMA EV-DO]]
-	[[UMTS]]
+	[[Universal Mobile Telecommunications System (UMTS)]]
 	[[Global System for Mobile Communications (GSM)]]
 	[[Wi‑Fi 6]]
 	[[Bluetooth 5]]
@@ -85,9 +85,9 @@ Location
 	
 Connectivity
 	[[Cellular Network]]
-	[[iBeacon microlocation]]
+	[[iBeacon]]
 	[[Voice over LTE (VoLTE)]]
-	[[Wi‑Fi calling]]
+	[[Wi‑Fi Calling]]
 	[[Microphone]]
 	[[Loudspeaker]]
 	[[Voice Recognition]]
@@ -102,7 +102,7 @@ Power and [[Battery]]
 	[[Fast Charge]]
 
 MagSafe
-	[[Wireless charging]]
+	[[Wireless Power Transfer (WPT)]]
 	[[Near-Field Communication (NFC)]]
 	[[Magnet]]
 	[[Magnetometer]]
