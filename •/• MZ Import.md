@@ -6,7 +6,7 @@ https://news.ycombinator.com/item?id=28299053
 
 
 ---
-[[Quantum Machine Learning]]
+[[Quantum Machine Learning (QML)]]
 
 [[Acheulean Stone Technology (Hand Axe)]]
 [[AI-generated Art]]	

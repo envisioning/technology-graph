@@ -1,0 +1,6 @@
+https://blogs.gartner.com/roger-williams/2021/04/07/digital-platform-conductor-tools-a-new-term-for-what-io-leaders-need-now/
+
+[[Cloud]]
+[[Data Center]]
+
+> “Digital Platform Conductor tool” is the term Gartner is using to describe the rise of tools that enable I&O leaders to strategically manage across their infrastructure, regardless of environment or location. This is a trend we are seeing emerge from many different markets. Vendors in segments/subsegments such Cloud Infrastructure & Service Providers, Experience Management, Performance Analysis Tools, Data Center Technologies and Managed Service Providers, and Delivery Automation are all adding features for managing infrastructure outside of their traditional scope. While many of these vendors may want to become the “one tool to rule them all”, the breadth and depth required to play this role for all infrastructure now and in the future makes this impossible. Furthermore, the I&O leaders we talk to have heard those promises before, and they also realize a “magic tool” can’t save them.

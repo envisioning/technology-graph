@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Agriculture.md",
+            "file": "•/• Gartner 2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Agriculture.md",
+                "file": "•/• Gartner 2021.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/Agriculture.md",
+                "file": "•/• Gartner 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,15 +110,15 @@
   },
   "active": "f600c0387eb5f0d4",
   "lastOpenFiles": [
-    "technology/Agriculture.md",
     "•/• Gartner 2021.md",
-    "technology/Touchstone.md",
-    "technology/alloys.md",
-    "technology/precious metal.md",
-    "technology/Assay.md",
-    "technology/Precious Metals as Currency.md",
-    "technology/Civilization.md",
-    "technology/Money.md",
-    "technology/Store of Value.md"
+    "technology/Machine-Readable Legislation.md",
+    "technology/Influence Engineering.md",
+    "technology/AI-Augmented Design.md",
+    "technology/Digital Platform Conductor Tool.md",
+    "technology/Data Center.md",
+    "technology/Physics-Informed Neural Network (PINN).md",
+    "technology/Quantum Machine Learning.md",
+    "technology/Physics-Informed AI.md",
+    "technology/Named Data Networking.md"
   ]
 }

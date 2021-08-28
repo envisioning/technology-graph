@@ -3,13 +3,14 @@
 
 # Emerging Tech
 
-[[Quantum Machine Learning]]
-[[Named Data Networking]]
-[[Physics-Informed AI]]
+[[Quantum Machine Learning (QML)]]
+[[Named Data Networking (NDN)]]
+[[Physics-Informed Neural Network (PINN)]]
 [[Digital Platform Conductor Tool]]
 [[AI-Augmented Design]]
 [[Influence Engineering]]
 [[Machine-Readable Legislation]]
+
 [[Sovereign Cloud]]
 [[Homomorphic Encryption]]
 [[Self-Integrating Applications]]

@@ -1,2 +1,0 @@
-[[Quantum Computer]]
-[[Machine Learning]]
