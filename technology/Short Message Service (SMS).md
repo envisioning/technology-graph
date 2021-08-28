@@ -1,3 +1,3 @@
 -> Texting
-[[GPRS]]
+[[General Packet Radio Service (GPRS)]]
 [[Smartphone]]

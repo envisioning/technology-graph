@@ -1,6 +1,6 @@
 Enabled by: [[Radio]]
-[[GPRS]]
-
+[[General Packet Radio Service (GPRS)]]
+[[Universal Mobile Telecommunications System (UMTS)]]
 
 Enables:
 [[4G Mobile Network]]

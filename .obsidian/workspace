@@ -7,8 +7,11 @@
         "id": "f600c0387eb5f0d4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "product/Apple iPhone 12 Pro Max (2020).md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,8 +68,9 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "product/Apple iPhone 12 Pro Max (2020).md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -81,8 +85,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "product/Apple iPhone 12 Pro Max (2020).md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -97,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,15 +111,15 @@
   },
   "active": "f600c0387eb5f0d4",
   "lastOpenFiles": [
-    "technology/Combustion.md",
-    "domain/• applications.md",
-    "domain/Geoengineering.md",
-    "domain/Internet-of-Things.md",
-    "domain/Nanotechnology.md",
-    "domain/Electronics.md",
-    "domain/Untitled.md",
-    "domain/• application.md",
-    "domain/Drone.md",
-    "domain/Computing.md"
+    "product/Apple iPhone 12 Pro Max (2020).md",
+    "technology/4K.md",
+    "technology/Digital Video Format.md",
+    "technology/Digital Video Disc.md",
+    "technology/High Definition (HD).md",
+    "technology/1080p.md",
+    "technology/720p.md",
+    "technology/3G Mobile Network.md",
+    "technology/Application Store.md",
+    "technology/2G Mobile Network.md"
   ]
 }

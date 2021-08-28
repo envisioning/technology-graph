@@ -1,4 +1,4 @@
-[[GSM-EDGE]]
+[[Global System for Mobile Communications (GSM)]]
 [[LTE]]
 [[WiMAX]]
 [[WiFi]]

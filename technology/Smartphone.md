@@ -5,7 +5,7 @@
 [[Multi-Touch LCD Screen]]
 [[Internet]]
 [[Telephone]]
-[[GPRS]]
+[[General Packet Radio Service (GPRS)]]
 [[4G Mobile Network]]
 [[5G Mobile Network]]
 

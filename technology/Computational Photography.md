@@ -1,0 +1,2 @@
+[[Machine Vision]]
+[[Camera]]

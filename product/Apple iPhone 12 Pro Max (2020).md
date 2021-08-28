@@ -1,6 +1,6 @@
 #Product
 
-Display
+[[Display]]
 	[[Organic Light-Emitting Diode (OLED)]]
 	[[High Dynamic Range (HDR)]]
 	[[Haptic Touch]]
@@ -15,7 +15,7 @@ Chip
 	[[Digital Storage]]
 	[[Random Access Memory (RAM)]]
 
-Camera
+[[Camera]]
 Optics
 	[[Ultra Wide Lens]]
 	[[Camera Lens]]
@@ -23,7 +23,7 @@ Optics
 	[[Light Detection and Ranging (LiDAR)]]
 	[[Optical Zoom Lens]]
 
-Software
+[[Software]]
 	[[Autofocus]]
 	[[Computational Photography]]
 	[[Portrait Mode]]
@@ -68,7 +68,7 @@ Cellular and Wireless
 	[[Gigabit LTE]]
 	[[CDMA EV-DO]]
 	[[UMTS]]
-	[[GSM-EDGE]]
+	[[Global System for Mobile Communications (GSM)]]
 	[[Wi‑Fi 6]]
 	[[Bluetooth 5]]
 	[[Ultra Wideband (UWB)]]
@@ -95,7 +95,7 @@ Connectivity
 	[[Nano‑SIM]]
 	[[eSIM]]
 
-Power and Battery
+Power and [[Battery]]
 	[[Lithium-ion Battery]]
 	[[Qi Wireless]]
 	[[Lightning]]
@@ -111,12 +111,12 @@ Sensors
 	[[Biometric Identification]]
 	[[Light Detection and Ranging (LiDAR)]]
 	[[Barometer]]
-	[[Gyroscope]]
+	[[Gyrometer]]
 	[[Accelerometer]]
 	[[Proximity Sensor]]
-	[[Ambient Ligth Sensor]]
+	[[Ambient Light Sensor]]
 
-Software
+[[Software]]
 	[[Operating System (OS)]]
 	[[Web Browser]]
 	[[Email]] Client

@@ -125,7 +125,7 @@ https://news.ycombinator.com/item?id=28299053
 [[Diesel Engine]]
 [[Digital Image Sensor]]
 [[Digital Press]]
-[[Digital Video Disc]]
+[[Digital Video Disc (DVD)]]
 [[Diode]]
 [[Dirigible]]
 [[Dish Washer]]
