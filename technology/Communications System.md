@@ -1,0 +1,7 @@
+[[GSM-EDGE]]
+[[LTE]]
+[[WiMAX]]
+[[WiFi]]
+[[4G Mobile Network]]
+[[3G Mobile Network]]
+[[5G Mobile Network]]

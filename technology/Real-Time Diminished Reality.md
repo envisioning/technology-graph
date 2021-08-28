@@ -1,3 +1,3 @@
 #Technology 
 
-[[Augmented Reality (AR)]]
+[[technology/Augmented Reality (AR)]]

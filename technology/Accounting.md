@@ -1,2 +1,2 @@
-[[Double-entry Bookkeeping]]
+[[Double-Entry Bookkeeping]]
 [[Triple-Entry Accounting]]

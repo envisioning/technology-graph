@@ -1,3 +1,3 @@
 [[Powertrain]]
 
-[[- Tesla Series S (2021)]]
+[[Tesla Series S (2021)]]

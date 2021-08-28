@@ -1,1 +1,4 @@
 #Method 
+
+
+A complimentary layer of machine learning that aims to achieve abstract thinking as a computational system. Machine reasoning systems are composed of a knowledge base that contains declarative and procedural knowledge and a reasoning engine that employs logical techniques such as deduction and induction to generate conclusions. The process starts with sensory and measured inputs, which gradually transform into different abstraction levels: from perceptual unstructured data, such as sensor measurements, to semi-structured and linked information, amounting to contextualized categorical descriptions of the data. This information is then transformed and fused with declarative and procedural knowledge.

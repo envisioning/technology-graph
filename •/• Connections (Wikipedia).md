@@ -1,3 +1,5 @@
+#Note
+
 1. 
 "The Trigger Effect" details the world's present dependence on complex technological networks through a detailed narrative of New York City and the power blackout of 1965. Agricultural technology is traced to its origins in ancient Egypt and the invention of the plough. The segment ends in Kuwait where, because of oil, society leapt from traditional patterns to advanced technology in a period of only about 30 years.
 

@@ -1,1 +1,3 @@
 #Method 
+
+A method of image analysis and classification based on an algorithm that classifies each pixel in a raster with the maximum likelihood of corresponding to a class. This method is widely used in remote sensing. When satellites collect information from Earth, the data is organized in a raster, or a matrix of cells, with rows and columns containing values representing information. For instance, land-use and soil data can be crossed with continuous data such as temperature, elevation, or spectral data. After performing a maximum likelihood classification on a set of raster bands, a classified raster is algorithmically created as the output according to pre-trained data. This helps to improve multi-layer remote sensing imaging and supports spatial analysis.

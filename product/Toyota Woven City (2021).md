@@ -13,7 +13,7 @@ It’s now broken ground on the model smart city, bringing the “living laborat
 
 Toyota is building Woven City in the shadow of Mount Fuji, on Honshu, Japan’s main island. Danish architect Bjarke Ingels is designing the futuristic city on the 175-acre site of a former factory, and the plan is for it to be environmentally sustainable.
 
-The buildings will be constructed mostly from [[wood]], [[solar panels]] will [[cover their rooftops]], and [[hydrogen fuel cells]] will provide additional power to the city’s residents.
+The buildings will be constructed mostly from [[wood]], [[Solar Panel]] will [[cover their rooftops]], and [[hydrogen fuel cells]] will provide additional power to the city’s residents.
 
 “The homes will use [[sensor-based AI]] to check occupants’ health, take care of basic needs and enhance daily life, creating an opportunity to deploy connected technology with integrity and trust, securely and positively,” Toyoto wrote in 2020.
 

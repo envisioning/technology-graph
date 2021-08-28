@@ -1,3 +1,6 @@
+#Note
+
+
 https://news.ycombinator.com/item?id=28299053
 
 
@@ -131,7 +134,7 @@ https://news.ycombinator.com/item?id=28299053
 [[Dock]]
 [[Door]]
 [[Doorbell]]
-[[Double-entry Bookkeeping]]
+[[Double-Entry Bookkeeping]]
 [[Dry Dock]]
 [[Dynamite]]
 [[Ejector Seat]]

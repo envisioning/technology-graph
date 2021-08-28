@@ -1,6 +1,7 @@
 # Technology Graph
 
-## An experiment in identifying relationships between technologies.
+## An experiment in identifying relationships between all technologies.
+
 
 
 

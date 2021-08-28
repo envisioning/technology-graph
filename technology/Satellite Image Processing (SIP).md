@@ -1,1 +1,3 @@
 #Method 
+
+A data processing method that efficiently processes a large collection of satellite images to produce actionable information for decision-making procedures. By consolidating spatial, temporal, spectral, and radiometric resolution data gathered from open-access satellites, this method aims to follow land-use management in a timely and accurate manner. This is done by applying sequential image processing, extracting meaningful statistical information from agricultural fields, and storing them in a crop spectrotemporal signature library.

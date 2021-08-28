@@ -1,3 +1,6 @@
+#Note
+
+
 # Emerging Tech
 
 [[Quantum ML]]
