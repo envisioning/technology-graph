@@ -6,6 +6,6 @@ Enabled by:
 [[Secure Multi-Party Computation (SMPC)]]
 [[Private Set Intersection]]
 [[Homomorphic Encryption]]
-[[2-Factor Authentication]]
+[[Multi-Factor Authentication (MFA)]]
 
 

@@ -1,1 +1,4 @@
 #Method 
+
+[[Battery]]
+[[Electricity]]

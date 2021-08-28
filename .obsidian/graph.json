@@ -1,12 +1,41 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Product",
+      "color": {
+        "a": 1,
+        "rgb": 16743034
+      }
+    },
+    {
+      "query": "tag:#Application",
+      "color": {
+        "a": 1,
+        "rgb": 16765818
+      }
+    },
+    {
+      "query": "tag:#Domain",
+      "color": {
+        "a": 1,
+        "rgb": 8912732
+      }
+    },
+    {
+      "query": "tag:#Method",
+      "color": {
+        "a": 1,
+        "rgb": 707814
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.14703150935992182,
-  "close": false
+  "scale": 1.214933171352377,
+  "close": true
 }

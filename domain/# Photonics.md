@@ -1,6 +1,3 @@
-#Domain 
-
-
 Method:
 [[Nanophotonic Water Desalination]]
 

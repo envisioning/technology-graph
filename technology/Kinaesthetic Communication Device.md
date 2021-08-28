@@ -1,2 +1,11 @@
 #Application 
-#TRL7 
+
+
+[[Video Game Controller]]
+[[Haptic Feedback]]
+[[Button Input]]
+[[Piezoelectric Actuator]]
+[[Biometric Sensor]]
+[[Motion Capture]]
+
+

@@ -13,14 +13,21 @@
 - Help non-experts undertand the *nature* of technology and its fundamental interconnectedness.
 - Publish research findings on [GitHub](https://github.com/mz-000/TG).
 
+
+---
+
+
+![TG](technology-graph.png)
+
+
 ---
 
 ### Instructions
-- Navigate the research by loading this repository locally in [Obsidian](https://obsidian.md).
-- Either [download the Vault](https://github.com/mz-000/TG/archive/refs/heads/main.zip) as a ZIP File or install a GitHub client on your Computer.
-
-![TG](/•/img/TG.png)
-
+- Navigate the graph on the web:
+	- https://envisioning.app/
+- Download Vault on Github and navigate it in Obsidian:
+	- https://github.com/envisioning/technology-graph/ 
+	- https://obsidian.md/
 
 ---
 
