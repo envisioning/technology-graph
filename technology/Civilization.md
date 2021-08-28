@@ -8,8 +8,10 @@ Enabled by:
 - [[Literacy]]
 - [[Metallurgy]]
 - [[Tax]]
+- [[Architecture]]
 
 
 Enables:
 - [[Astronomy]]
 - [[Book Library]]
+- [[Stocks & Bonds]]

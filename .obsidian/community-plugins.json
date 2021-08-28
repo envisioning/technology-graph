@@ -1,4 +1,7 @@
 [
   "obsidian-hider",
-  "tag-wrangler"
+  "tag-wrangler",
+  "oz-image-plugin",
+  "obsidian-sort-and-permute-lines",
+  "find-unlinked-files"
 ]

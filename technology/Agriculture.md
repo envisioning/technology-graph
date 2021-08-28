@@ -3,6 +3,7 @@ Enabled by:
 - [[Hoe]]
 - [[Ard]]
 
+
 Variants:
 - [[Fire-stick Farming]]
 - [[Forest Gardening]]
