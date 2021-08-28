@@ -4,9 +4,6 @@ https://www.freethink.com/technology/futuristic-city
 https://outline.com/npVjkC
 
 
-![[https://www.freethink.com/wp-content/uploads/2021/04/futuristic-city_banner.jpg]]
-Lead Image Courtesy of Toyota
-
 Last year, Toyota announced plans to build “Woven City,” a futuristic city where the technologies of tomorrow — [[autonomous cars]], [[in-home robots]], [[AI health monitors]], etc. — can be tested en masse, today.
 
 It’s now broken ground on the model smart city, bringing the “living laboratory” one small step closer to fruition.

@@ -31,7 +31,7 @@
 [[Conductive Polymers]]
 [[Cryogenic Treatment]]
 
-[[Decentralized Finance]]
+[[Decentralized Finance (DeFi)]]
 
 [[Digital Scent Technology]]
 [[Directed Energy Weapon]]

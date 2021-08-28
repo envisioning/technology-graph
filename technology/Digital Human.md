@@ -1,0 +1,3 @@
+Source: [Gartner](https://www.gartner.com/en/documents/4000073/maverick-research-digital-humans-will-drive-digital-tran)
+
+> A digital human economy provides the opportunity for a new digital ecosystem, underpinned by technology that brings individuals and organizations together to innovate and interact in new ways. This collaboration will enable organizations to differentiate and compete in the world of digital humans.

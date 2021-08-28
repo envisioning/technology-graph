@@ -7,11 +7,8 @@
         "id": "f600c0387eb5f0d4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "•/• Gartner 2021.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "•/• Gartner 2021.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "•/• Gartner 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,14 +106,14 @@
   "active": "f600c0387eb5f0d4",
   "lastOpenFiles": [
     "•/• Gartner 2021.md",
-    "technology/Machine-Readable Legislation.md",
-    "technology/Influence Engineering.md",
-    "technology/AI-Augmented Design.md",
-    "technology/Digital Platform Conductor Tool.md",
-    "technology/Data Center.md",
-    "technology/Physics-Informed Neural Network (PINN).md",
-    "technology/Quantum Machine Learning.md",
-    "technology/Physics-Informed AI.md",
-    "technology/Named Data Networking.md"
+    "technology/Multiexperience.md",
+    "technology/Digital Human.md",
+    "technology/Active Metadata Management.md",
+    "technology/Metadata.md",
+    "technology/Real-Time Incident Center-aaS.md",
+    "technology/Decentralized Finance (DeFi).md",
+    "technology/Smart Contract.md",
+    "technology/Smart contracts.md",
+    "technology/Decentralized Finance.md"
   ]
 }
