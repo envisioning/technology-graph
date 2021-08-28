@@ -1,8 +1,12 @@
 #Note
 
 # Series 1
+## Episode 1
+[[Plough]]
 
-## Episode xx
+
+
+## Episode 7
 [[Brewing]]
 [[Soda Water]]
 [[methane]]

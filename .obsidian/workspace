@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "product/Apple iPhone 12 Pro (2020).md",
+            "file": "technology/Civilization.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216
   },
   "right": {
     "id": "477344dabbbeeece",
@@ -68,8 +68,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product/Apple iPhone 12 Pro (2020).md",
-                "collapseAll": false,
+                "file": "technology/Civilization.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product/Apple iPhone 12 Pro (2020).md",
+                "file": "technology/Civilization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -102,24 +102,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 192
   },
   "active": "f600c0387eb5f0d4",
   "lastOpenFiles": [
-    "product/Apple iPhone 12 Pro Max (2020).md",
-    "technology/Digita-  Camera System.md",
-    "technology/Camera Lens.md",
-    "technology/Digital Camera System.md",
-    "technology/Camera.md",
-    "technology/Fast Charge.md",
-    "technology/Lightning.md",
-    "technology/Wireless Charging.md",
-    "technology/resonant inductive coupling.md",
-    "technology/Qi Wireless.md"
+    "technology/Civilization.md",
+    "technology/Literacy.md",
+    "technology/Astronomy.md",
+    "technology/Sailing.md",
+    "technology/Book Library.md",
+    "technology/Weapon.md",
+    "technology/Precious Metals as Currency.md",
+    "technology/Touchstone.md",
+    "technology/Money.md",
+    "technology/Untitled.md"
   ]
 }

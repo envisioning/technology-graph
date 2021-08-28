@@ -3,7 +3,7 @@
 
 # Emerging Tech
 
-[[Quantum ML]]
+[[Quantum Machine Learning]]
 [[Named Data Networking]]
 [[Physics-Informed AI]]
 [[Digital Platform Conductor Tool]]

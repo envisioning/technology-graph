@@ -6,3 +6,6 @@ Enables:
 - [[Hemicycle]]
 - [[Clock]]
 - [[Gnomon]]
+
+Enables:
+- [[Sailing]]

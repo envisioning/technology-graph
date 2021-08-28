@@ -1,0 +1,2 @@
+[[Laser Weapon]]
+[[Sonic Weapon]]

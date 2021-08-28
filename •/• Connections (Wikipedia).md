@@ -1,9 +1,10 @@
 #Note
 
 1. 
-"The Trigger Effect" details the world's present dependence on complex technological networks through a detailed narrative of New York City and the power blackout of 1965. Agricultural technology is traced to its origins in ancient Egypt and the invention of the plough. The segment ends in Kuwait where, because of oil, society leapt from traditional patterns to advanced technology in a period of only about 30 years.
+[[Plough]] → [[Oil]]
 
-2. 
+
+
 "Death in the Morning" examines the standardisation of precious metal with the touchstone in the ancient world. This innovation stimulated trade from Greece to Persia, ultimately causing the construction of a huge commercial center and library at Alexandria which included Ptolemy's star tables. This wealth of astronomical knowledge aided navigators during the age of discovery 14 centuries later following the introduction of lateen sails and sternpost rudders. Mariners discovered that the compass's magnetised needle did not actually point directly north. Investigations into the nature of magnetism by Gilbert led to the discovery of electricity by way of the sulphur ball of von Guericke. Further interest in atmospheric electricity at the Ben Nevis weather station led to Wilson's cloud chamber which in turn allowed development of both Watson-Watt's radar and (by way of Rutherford's insights) nuclear weaponry.
 
 3. 

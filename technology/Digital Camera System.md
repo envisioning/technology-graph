@@ -7,6 +7,7 @@ Components:
 - [[Digital Storage]] / Data Output
 - [[Battery]] / [[Electricity]]
 - [[Camera Flash]]
+- [[Memory Card]]
 
 
 Used by:
