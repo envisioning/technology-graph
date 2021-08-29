@@ -1,5 +1,3 @@
-#Method
-
 Artificial:
 - [[Natural Language Processing (NLP)]]
 - [[Machine Vision]]

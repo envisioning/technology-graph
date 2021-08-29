@@ -1,5 +1,3 @@
-#Application 
-
 Additive Manufacturing:
 - [[3D Slicer Software]]
 - [[Digital Construction Platform (DCP)]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Spellcheck.md",
+            "file": "-/-Applications (tD).md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Spellcheck.md",
+                "file": "-/-Applications (tD).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/Spellcheck.md",
+                "file": "-/-Applications (tD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,15 +110,15 @@
   },
   "active": "c7531b1ad8d3b1bf",
   "lastOpenFiles": [
-    "technology/Spellcheck.md",
-    "technology/Silica.md",
-    "technology/Silver.md",
-    "technology/Robot Communication Interface.md",
-    "technology/Self-Driving Store.md",
-    "technology/Sensor.md",
-    "technology/Retinal Projector.md",
-    "technology/Red-Green-Blue Light-Emitting Diode (RBG LED).md",
-    "technology/National Firewall.md",
-    "technology/Real-Time Mapping.md"
+    "-/-Applications (tD).md",
+    "-/-Methods (tD).md",
+    "-/What is Technology?.md",
+    "index/Connections (Wikipedia).md",
+    "-/Connections (Notes).md",
+    "-/Connections (Wikipedia).md",
+    "index/Gartner Hype Cycle 2021.md",
+    "index/Wikipedia List of Emerging Technologies.md",
+    "index/WEF Emerging Tech 2020.md",
+    "-/Gartner Hype Cycle 2021.md"
   ]
 }
