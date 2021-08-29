@@ -1,4 +1,4 @@
-#Note 
+#Index 
 
 https://www.youtube.com/watch?v=OOkcaJ0r8gc&t=163s
 
@@ -14,4 +14,3 @@ Binary system 1679
 Boolean Logic 1847
 Spyware
 
-Standardize approach to dating techs

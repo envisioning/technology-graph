@@ -10,6 +10,7 @@
 - Indicate relationships between them, such as dependencies or enablers
 - Create a comprehensive knowledge graph of Kevin Kelly's [Technium](https://kk.org/thetechnium/the-seventh-kin/).
 - Identify the interdependency between *all* technologies, as per James Burke's [Connections](https://archive.org/details/james-burke-connections_s01e01).
+- Create common understanding about the *definition* of technology ([[What is Technology?]].
 - Provide a standardized framework around which anyone can analyze the *technologial ecosystem*.
 - Help non-experts undertand the *nature* of technology and its fundamental interconnectedness.
 - Publish research findings on [GitHub](https://github.com/mz-000/TG).
@@ -52,14 +53,14 @@
 - [ ] Eliminate #Domain taxonomy and replace it with connections between Technologies.
 - [ ] Eliminate #Technology tag and replace it with #Application or #Method 
 - [ ] Unambigously distinguish #Application from #Method.
+- [ ] Standardize approach to dating entries.
 
 ---
 
 ### Tags
 - #Method - how technology is done.
 - #Application - what technology is used for.
-- #Technology (deprecated)
-- #Domain (deprecated)
+- #Technology - deprecated.
 
 ---
 

@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "technology"
+  "newFileFolderPath": "technology",
+  "showLineNumber": true
 }

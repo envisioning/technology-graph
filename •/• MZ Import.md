@@ -1,4 +1,8 @@
-#Note
+#Index
+
+Graph Filter:
+(-path:•)(-path:product)(-path:domain)
+path:technology
 
 
 https://news.ycombinator.com/item?id=28299053
@@ -6,12 +10,10 @@ https://news.ycombinator.com/item?id=28299053
 
 
 ---
-[[Quantum Machine Learning (QML)]]
 
 [[Acheulean Stone Technology (Hand Axe)]]
 [[AI-generated Art]]	
 [[Alcohol Thermometer]]
-[[Algebra]]
 [[Algorithmic Accountability]]	
 [[Alloy Steel]]
 [[Aluminum]]
@@ -21,9 +23,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Arrow]]
 [[Artificial Refrigeration Machine]]
 [[Artificial Reservoirs]]
-[[Audio-to-face Modeling]] 	
-[[Auto Labeling]] 
-[[Automated Voice Cloning]]		
 [[Automatic Speech Recognition]]	
 [[Automatic Text Replacement / Autofill]]
 [[Autopilot]]
@@ -31,9 +30,7 @@ https://news.ycombinator.com/item?id=28299053
 [[Bakelite]]
 [[Ball Bearing]]
 [[Ballistic Missile]]
-[[Ballpoint Pen]]
 [[Ball Screw]]
-[[Barometer]]
 [[Basic Oxygen Steelmaking]]
 [[Beads]]
 [[Bedding]]
@@ -69,7 +66,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Carbon Fibre]]
 [[Carbon Paper]]
 [[Carbon Pigment]]
-[[Carburetor]]
 [[Cardboard]]
 [[Cartography]]
 [[Cashmere]]
@@ -125,7 +121,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Diesel Engine]]
 [[Digital Image Sensor]]
 [[Digital Press]]
-[[Digital Video Disc (DVD)]]
 [[Diode]]
 [[Dirigible]]
 [[Dish Washer]]
@@ -134,7 +129,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Dock]]
 [[Door]]
 [[Doorbell]]
-[[Double-Entry Bookkeeping]]
 [[Dry Dock]]
 [[Dynamite]]
 [[Ejector Seat]]
@@ -186,9 +180,8 @@ https://news.ycombinator.com/item?id=28299053
 [[Fuel Cell]]
 [[Fuzzy Hashing]]	
 [[Fuzzy Logic]]	
-[[Gaslight]]
 [[Gas Turbine]]
-[[Gears]]
+[[Gear]]
 [[Geissler Tube]]
 [[General Anesthetic]]
 [[Genetics]]
@@ -254,7 +247,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Legal Code]]
 [[Lending]]
 [[Leyden Jar]]
-[[Lightning]] (Cable/Protocol)	Apple	
 [[Light Urban Rail (Tram)]]
 [[Limelight]]
 [[Linear Tape Robots]]
@@ -285,8 +277,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Microblogging]]	
 [[Microliths ]]
 [[Micropayment]]
-[[Microphone]]
-[[Microscope]]
 [[Microscope (Compound)]]
 [[Microwave Communication]]
 [[Microwave Oven]]
@@ -318,7 +308,7 @@ https://news.ycombinator.com/item?id=28299053
 [[Nickel–Cadmium Battery]]
 [[Nitroglycerin]]
 [[NoCode]]	
-[[Novamin]]	Sensodyne	Tooth Enamel in Dental Paste
+
 [[Nuclear Fission]]
 [[Nuclear Power]]
 [[Nuclear Power Reactor]]
@@ -333,7 +323,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Omni-directional Interconnect]]	Intel	
 [[Optical Disc]]
 [[Optical Fiber]]
-[[Oracle Construction Intelligence Cloud Service]]	Oracle Construction Intelligence Cloud Service
 [[Ornamental Button]]
 [[Pacemaker]]
 [[Paddle Wheel Boat]]
@@ -341,20 +330,17 @@ https://news.ycombinator.com/item?id=28299053
 [[Panopticon]]
 [[Paper Machine]]
 [[Parachute]]
-[[Paraffin Wax]]
 [[Pasteurization]]
 [[Pelton Wheel]]
 [[Pendentive Dome]]
 [[Pendulum]]
-[[Penicillin]]
+
 [[Pharming]]
 [[Phase-contrast Microscopy]]
 [[Phishing]]
-[[Phograph]]
 [[Phonograph]]
 [[Phosphorous]]
 [[Phosphorous Fertilizer]]
-[[Photovoltaic Cell]]
 [[Phrenology]]
 [[Piano]]
 [[Pigments]]
@@ -378,7 +364,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Progressive Assembly]]
 [[Progressive web App]]
 [[Propeller]]
-[[Proximity Sensor]]
 [[Public key Cryptography]]
 [[Public Transport Techs]]
 [[Pump]]
@@ -386,8 +371,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Push-button Dial Telephone]]
 [[Pyrotechnics]]
 [[Quinine]]
-[[Radar]]
-[[Radio]]
 [[Radiometer]]
 [[Railroads]]
 [[Ray Tracing]]
@@ -440,7 +423,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Ski]]
 [[Skyscraper]]
 [[Slide Rule]]
-[[SmartShift]] (AMD)	AMD	
 [[Smokeless Firearm Powder]]
 [[Soap]]
 [[Software Guard Extensions]]	
@@ -455,7 +437,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Spectroscopy]]
 [[Spinning Jenny]]
 [[Spiral Stairs]]
-[[Sponge City]]	Chinese Cities Engineered to Absorb Water in key Regions to Reduce Flooding. 
 [[Spreadsheet]]
 [[Spring-fed Magazine Metallic Cartridge]]
 [[Staining / Identifying Bacteria]]
@@ -507,7 +488,6 @@ https://news.ycombinator.com/item?id=28299053
 [[Tidal Power]]
 [[Tin]]
 [[Torpedo]]
-[[Tracking	XL Construction]]	for Instance, Senior Vice President of Integrated Solutions Chris Bailey, at General Contractor XL Construction, Based in the san Francisco bay Area, Said he can Track his Materials, Even as They Ride in a Container on a Ship Bound for the West Coast.
 [[Traction Trebuchet]]
 [[Tunnel Boring Machine]]
 [[Tunnelling Shield]]
@@ -520,17 +500,12 @@ https://news.ycombinator.com/item?id=28299053
 [[User Datagram Protocol]]
 [[User Generated Content]]
 [[Valve Tower Sluice]]
-[[Valvular Conduit]]	a Fixed-geometry Passive Check Valve. it Allows a Fluid to Flow Preferentially in one Direction, Without Moving Parts.
 [[Vault]]
 [[Vending Machine]]
 [[Verge Escapement]]
 [[Video Tape Recorder]]
-[[Virtualized Geometry]]	Unreal Engine	
-[[Virtual Product Photos]] Keyshot.Com	
-[[Voice Modulation]] (to Recreate Someones Voice With ML)	NVidia	
 [[Voice over Internet Protocol]]
 [[Voltaic Pile]]
-[[Voxel Cone Tracing]]	Unreal Engine	
 [[Water Gauge]]
 [[Water Lock]]
 [[Water Mill]]
@@ -541,5 +516,4 @@ https://news.ycombinator.com/item?id=28299053
 [[Wood Pulp Method of Paper Production]]
 [[Wool]]
 [[Yagi Antenna]]
-
 [[Zinc-carbon Battery]]

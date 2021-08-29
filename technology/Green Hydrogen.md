@@ -1,0 +1,3 @@
+When hydrogen burns, the only by-product is water – and when it’s produced through electrolysis using renewable energy it becomes “green”. Earlier this year it was predicted green hydrogen will become a $12 trillion market by 2050. Why? Because it could have a key role in the energy transition by helping decarbonize sectors – like shipping and manufacturing – that are harder to electrify because they require high-energy fuel.
+
+[[Hydrogen]]

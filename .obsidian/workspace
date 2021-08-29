@@ -7,8 +7,11 @@
         "id": "f600c0387eb5f0d4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Technology-Wikipedia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -97,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -105,15 +111,15 @@
   },
   "active": "f600c0387eb5f0d4",
   "lastOpenFiles": [
-    "•/• Gartner 2021.md",
-    "technology/Multiexperience.md",
-    "technology/Digital Human.md",
-    "technology/Active Metadata Management.md",
-    "technology/Metadata.md",
-    "technology/Real-Time Incident Center-aaS.md",
-    "technology/Decentralized Finance (DeFi).md",
-    "technology/Smart Contract.md",
-    "technology/Smart contracts.md",
-    "technology/Decentralized Finance.md"
+    "README.md",
+    "•/img/technology-graph 1.png",
+    "•/img/technology-graph.png",
+    "•/• Connections (Notes).md",
+    "•/• MZ Import.md",
+    "product/Apple iPhone 12 Pro (2020).md",
+    "technology/Novamin.md",
+    "technology/Oracle Construction Intelligence Cloud Service.md",
+    "technology/Elevator.md",
+    "technology/Radio.md"
   ]
 }

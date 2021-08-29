@@ -1,0 +1,3 @@
+Improvements in the technology needed to design genetic sequences that are then introduced into microbes are making it possible to print ever-larger amounts of genetic material and alter genomes more extensively. This can give insights into how viruses spread or help in producing vaccines and other treatments. In the future, it could help sustainably produce chemicals, fuels or construction materials from biomass or waste gases. And it could even allow scientists to design pathogen-resistant plants, or us to write our own genome – opening the door to possible misuse, of course, but also to cures for genetic diseases.
+
+Source: WEF
