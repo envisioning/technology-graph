@@ -1,6 +1,9 @@
 #Index
 
 
+![[Gartner Emerging 2021.png]]
+
+
 # Emerging Tech
 - [[Quantum Machine Learning (QML)]]
 - [[Named Data Networking (NDN)]]
@@ -19,26 +22,22 @@
 - [[Digital Human]] ???
 - [[Multiexperience]]
 
-[[Generative AI]]
-
-[[Composable Application]]
-
-[[Employee Communications Application]]
-
-[[AI Agumented Software Engineering]]
-
-[[Non-Fungible Token (NFT)]]
-
-[[Data Fabric]]
-
-[[Decentralized Identity]]
+- [[Generative AI]]
+- [[Composable Application]]
+- [[Employee Communications Application]]
+- [[AI Agumented Software Engineering]]
+- [[Non-Fungible Token (NFT)]]
+- [[Data Fabric]]
+- [[Decentralized Identity]]
 
 
 
 
 
-![[Gartner Emerging 2021.png]]
 
+
+
+---
 
 
 

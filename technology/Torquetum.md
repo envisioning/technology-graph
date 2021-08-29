@@ -1,0 +1,1 @@
+analog computer to navigate astronomical coordenates

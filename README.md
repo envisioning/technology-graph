@@ -30,31 +30,18 @@
 - Download Vault on Github and navigate it in Obsidian:
 	- https://github.com/envisioning/technology-graph/ 
 	- https://obsidian.md/
+- Recommended starting points:
+	- [[Agriculture]]
+	- [[Internet]]
+	- [[• Gartner Hype Cycle 2021]]
+	- [[• WEF Emerging Tech 2020]]
 
 ---
 
 ### Collaboration
 - Feel free to create new Technologies entries to the main branch.
-- Also consider adding \[[ Links \]] between existing Technologies.
+- Also consider adding Obsidian \[[Links\]] between existing Technologies.
 - For all new Entires, please indicate at least one Relationship and Source.
-
----
-
-### ToDo
-- [ ] Create taxonomy for Relationships (currently indicating dependencies and enabling technologies).
-- [ ] Unambigously define what is meant by *technology*.
-	- [[What is Technology?]]
-- [ ] Clearly define how the scope of this graph is different from Wikipedia.
-- [ ] Validate research approach with subject-area experts.
-	- [ ] Domain experts.
-	- [ ] Data & network experts.
-- [ ] Determine long-term solution for funding & maintaining research initative.
-- [x] Eliminate #Domain taxonomy and replace it with connections between Technologies.
-- [ ] Eliminate #Technology tag and replace it with #Application or #Method 
-- [ ] Unambigously distinguish #Application from #Method.
-- [ ] Standardize approach to dating entries.
-- [ ] Apply taxonomy (Tags) to all entries.
-- [ ] Add sources to all entries.
 
 ---
 
@@ -62,6 +49,25 @@
 - #Method - how technology is done.
 - #Application - what technology is used for.
 - #Technology - deprecated.
+
+---
+
+### ToDo
+- [ ] Define taxonomy for Relationships:
+	- Currently indicating enabling technologies.
+	- Ex: [[Gasoline]] enables [[Carburetor]] enables [[Internal Combustion Engine]] enables [[Automobile]].
+- [ ] Unambigously define what is meant by *technology*:
+	- [[What is Technology?]]
+- [ ] Clearly define how the scope of this graph is different from Wikipedia.
+- [ ] Determine long-term solution for funding & maintaining research initative.
+- [ ] Validate research approach with subject-area experts.
+	- [ ] Domain experts.
+	- [ ] Data & network experts.
+- [x] Eliminate #Domain taxonomy and replace it with connections between Technologies.
+- [ ] Eliminate #Technology tag and replace it with #Application or #Method 
+- [ ] Standardize approach to indicating entries' dates.
+- [ ] Apply taxonomy (Tags) to all entries.
+- [ ] Add sources to all entries.
 
 ---
 
