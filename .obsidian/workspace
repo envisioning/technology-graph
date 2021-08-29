@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Technology-Wikipedia",
+                "query": "tag:#Domain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,6 +113,7 @@
   "active": "f600c0387eb5f0d4",
   "lastOpenFiles": [
     "README.md",
+    "technology/Civilization.md",
     "•/img/technology-graph 1.png",
     "•/img/technology-graph.png",
     "•/• Connections (Notes).md",
@@ -119,7 +121,6 @@
     "product/Apple iPhone 12 Pro (2020).md",
     "technology/Novamin.md",
     "technology/Oracle Construction Intelligence Cloud Service.md",
-    "technology/Elevator.md",
-    "technology/Radio.md"
+    "technology/Elevator.md"
   ]
 }

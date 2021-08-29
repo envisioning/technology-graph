@@ -41,19 +41,20 @@
 ---
 
 ### ToDo
-- [ ] Apply taxonomy (Tags) to all entries.
-- [ ] Add sources to all entries.
 - [ ] Create taxonomy for Relationships (currently indicating dependencies and enabling technologies).
-- [ ] Unambigously definie what is meant by *technology*.
-- [ ] Unambigously define how the scope of this graph is different from Wikipedia.
+- [ ] Unambigously define what is meant by *technology*.
+	- [[What is Technology?]]
+- [ ] Clearly define how the scope of this graph is different from Wikipedia.
 - [ ] Validate research approach with subject-area experts.
 	- [ ] Domain experts.
 	- [ ] Data & network experts.
 - [ ] Determine long-term solution for funding & maintaining research initative.
-- [ ] Eliminate #Domain taxonomy and replace it with connections between Technologies.
+- [x] Eliminate #Domain taxonomy and replace it with connections between Technologies.
 - [ ] Eliminate #Technology tag and replace it with #Application or #Method 
 - [ ] Unambigously distinguish #Application from #Method.
 - [ ] Standardize approach to dating entries.
+- [ ] Apply taxonomy (Tags) to all entries.
+- [ ] Add sources to all entries.
 
 ---
 
