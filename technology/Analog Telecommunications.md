@@ -1,3 +1,6 @@
-[[Radio]]
+Depends:[[Radio]]
 
-[[1G Mobile Network]]
+
+
+
+Enables:[[1G Mobile Network]]

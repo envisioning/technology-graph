@@ -1,2 +1,2 @@
-[[Printing Press]]
-[[Writing]]
+Depends:[[Printing Press]]
+Depends:[[Writing]]

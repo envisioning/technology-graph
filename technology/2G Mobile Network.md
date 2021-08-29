@@ -1,4 +1,4 @@
-[[1G Mobile Network]]
+Depends:[[1G Mobile Network]]
 
 
 [[Short Message Service (SMS)]]
@@ -8,4 +8,4 @@
 [[Code-Division Multiple Access (CDMA)]]
 
 
-[[3G Mobile Network]]
+Enables:[[3G Mobile Network]]

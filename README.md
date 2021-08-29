@@ -19,7 +19,7 @@
 ---
 
 
-![TG](technology-graph.png)
+![TG](/-/img/technology-graph.png)
 
 
 ---
@@ -32,10 +32,12 @@
 	- https://obsidian.md/
 - Recommended starting points:
 	- [[Agriculture]]
-	- [[Internet]]
-	- [[Gartner Hype Cycle 2021]]
-	- [[WEF Emerging Tech 2020]]
-	- [[Wikipedia List of Emerging Technologies]]
+	- [[Internet]] 
+	- [[3G Mobile Network]] 
+	- [[Gartner Hype Cycle 2021]] #Index 
+	- [[WEF Emerging Tech 2020]] #Index 
+	- [[Wikipedia List of Emerging Technologies]] #Index 
+	- [[Apple iPhone 12 Pro (2020)]] #Product 
 
 ---
 

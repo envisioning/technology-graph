@@ -1,5 +1,5 @@
 [[Global System for Mobile Communications (GSM)]]
-[[LTE]]
+[[Long Term Evolution LTE]]
 [[WiMAX]]
 [[WiFi]]
 [[4G Mobile Network]]

@@ -1,6 +1,11 @@
-Enabled by: [[Radio]]
+Depends:[[4G Mobile Network]]
 
-[[4G Mobile Network]]
+[[Massive MIMO]]
+[[Beamforming]]
+[[Edge Computing]]
+[[Small Cell]]
+[[WiFi]]
+[[Non-Orthogonal Multiple Access (NOMA)]]
 
-#Application 
-#TRL 
+
+Enables:[[6G Mobile Network]]
