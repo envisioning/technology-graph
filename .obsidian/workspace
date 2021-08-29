@@ -7,8 +7,11 @@
         "id": "c7531b1ad8d3b1bf",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "technology/Spellcheck.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "technology/Spellcheck.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -82,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "technology/Spellcheck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,15 +111,15 @@
   },
   "active": "c7531b1ad8d3b1bf",
   "lastOpenFiles": [
-    "technology/Albedo Enhancement.md",
-    "technology/Airplane.md",
-    "technology/Wing.md",
-    "technology/Airframe.md",
-    "technology/Fuselage.md",
-    "technology/Jet Engine.md",
-    "technology/Propeller.md",
-    "technology/Propeller Engine.md",
-    "technology/Rocket Engine.md",
-    "technology/Liquid Fuel.md"
+    "technology/Spellcheck.md",
+    "technology/Silica.md",
+    "technology/Silver.md",
+    "technology/Robot Communication Interface.md",
+    "technology/Self-Driving Store.md",
+    "technology/Sensor.md",
+    "technology/Retinal Projector.md",
+    "technology/Red-Green-Blue Light-Emitting Diode (RBG LED).md",
+    "technology/National Firewall.md",
+    "technology/Real-Time Mapping.md"
   ]
 }
