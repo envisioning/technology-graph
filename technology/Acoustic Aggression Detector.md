@@ -1,1 +1,4 @@
 #Technology 
+
+[[Microphone]]
+[[Machine Learning]]

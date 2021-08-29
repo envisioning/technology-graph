@@ -1,1 +1,8 @@
 #Technology 
+
+
+An open-sourced and decentralized production model that transforms digital files into [[3D Printer]] physical goods. This method decreases the environmental impact of consuming, because it avoids transport and shipping of objects altogether, while also dispensing packaging and other unnecessary waste. Adaptable production is commonly known as [[Additive Manufacturing]] or 3D printing.
+
+The progress in physical and digital workflows of additive manufacturing is opening up unexpected possibilities and allows an integrated design of product and production system. The interoperability of these new factories – their ability to produce diverse parts while adjusting only the machine’s digital input – will create new business models and promises to integrate the customer into the design process. Offering hyper-customization without overwhelming consumer choice will be essential since studies have shown that consumers feel paralyzed when faced with too many options.
+
+By using [[Behavioral Analytics]] and [[machine learning]] models, future systems could collect a wide range of data, including customer tastes and material availability. It would allow systems to determine which type of product should be manufactured at any given time and pre-configure the multitude of design choices based on the customers’ unique taste. In combination with additive manufacturing, it would be possible to quickly adapt the product to market demands. This scenario creates an exclusive range of possibilities while increasing profit and operational efficiency and reducing waste.

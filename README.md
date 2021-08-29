@@ -27,6 +27,7 @@
 ### Instructions
 - Navigate the graph on the web:
 	- https://envisioning.app/
+	- https://publish.obsidian.md/technology-graph/
 - Download Vault on Github and navigate it in Obsidian:
 	- https://github.com/envisioning/technology-graph/ 
 	- https://obsidian.md/

@@ -1,5 +1,8 @@
 #Technology
 
+[[Metamaterial]]
+[[3D Printer]]
+
 Also known as metamaterial modeling, 4D printing is a process similar to 3D printing that precisely fabricates metamaterial objects that are able to change their shape in response to stimuli such as heat, moisture, or light.
 
 

@@ -1,1 +1,5 @@
 50 AD
+
+An aeolipile, aeolipyle, or eolipile, also known as a Hero's engine, is a simple, bladeless [[Radial Steam Turbine]] which spins when the central water container is heated. Torque is produced by steam jets exiting the turbine. The Greek-Egyptian mathematician and engineer Hero of Alexandria described the device in the 1st century AD, and many sources give him the credit for its invention.[1][2] However, Vitruvius was the first to describe this appliance in his De architectura.[3]
+
+The aeolipile is popularly thought to be the first recorded [[steam engine]] or reaction [[Steam Turbine]],[4] but in fact, was not a true version or predecessor to the steam engine as invented during the Industrial Revolution.[5] The name – derived from the Greek word Αἴολος and Latin word pila – translates to "the ball of Aeolus", Aeolus being the Greek god of the air and wind. 

@@ -1,1 +1,4 @@
 #Technology 
+
+[[Software]]
+[[Machine Learning]]

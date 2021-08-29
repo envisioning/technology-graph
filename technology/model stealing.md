@@ -1,0 +1,1 @@
+[[Machine Learning]] a black box machine learning system is used to reconstruct the model or extract the data it was trained on

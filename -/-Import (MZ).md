@@ -3,7 +3,7 @@
 Graph Filter:
 (-path:•)(-path:product)(-path:domain)
 path:technology
-
+-/\[\[
 
 https://news.ycombinator.com/item?id=28299053
 
@@ -447,7 +447,7 @@ https://news.ycombinator.com/item?id=28299053
 [[Steam Locomotive]]
 [[Steam Piston Engine]]
 [[Steam Shovel]]
-[[Steam Turbine]]
+[[Radial Steam Turbine]]
 [[Steel Making]]
 [[Stepwell]]
 [[Sternpost-mounted Rudder]]

@@ -18,59 +18,52 @@ from Greek tekhnologia ‘systematic treatment’
     _word, the utterance by which inward thought is expressed, a saying, or an expression._
 
 
+## Oxford
+> We use the term “technology” to mean “the application of scientific knowledge for practical purposes” as defined by the Oxford English dictionary. We use the term “emerging technologies” to identify “technologies that have the potential to have accelerated adoption and thereby make a significant impact on their market or wider society”.
+
 
 ## Interpretations
 
 > An ongoing attempt to bring the world closer to the way one wishes it to be. Whereas science aims to understand the world as it is, technology aims to change the world.
-
-[[Maarten Franssen]]
-–
+Maarten Franssen
 
 
-> Everything invented after we were born.
- 
-[[Kevin Kelly]]
-–
-
-
-> The human making and using of material artifacts in all forms and aspects.
-
-[[Carl Mitcham]]
-–
-
-
-
-> The human modification of the natural world.
-
-[[Edward Tenner]]
-–
-
-
-> Everything that doesn’t work yet.
-
-[[W. Danny Hillis]]
-–
+---
 
 > Organization, procedures, symbols, new words, equations, and, most of all, a mindset.
+Ursula Franklin
 
-[[Ursula Franklin]]
-–
+---
+
+> Everything invented after we were born.
+Kevin Kelly
+
+---
+
+> The human making and using of material artifacts in all forms and aspects.
+Carl Mitcham
+
+---
+
+> The human modification of the natural world.
+Edward Tenner
+
+---
+
+> Everything that doesn’t work yet.
+W. Danny Hillis
+
+---
 
 > Every technology is both a burden and a blessing; not either-or, but this-and-that.
+Neil Postman
 
-[[Neil Postman]]
-–
-
-
+---
 
 > An improved means to an unimproved end.
+Henry David Thoreau
 
-[[Henry David Thoreau]]
-–
-
-
-
-![[Kranzberg's Law]]
+---
 
 Technology is everything we create. Everything which is not of the natural world is technological. This includes artifacts such as smartphones, supersonic jets and the printing press. However it also includes abstract practices like agriculture, the harnessing of fire, and the concept of money.
 

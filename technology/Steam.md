@@ -7,7 +7,7 @@ En- ables:
 - [[steam hammer]]
 - [[Steam Shovel]]
 - [[Steam Locomotive]]
-- [[Steam Turbine]]
+- [[Radial Steam Turbine]]
 - [[Steam Piston Engine]]
 - [[steam engine (separate condenser)]]
 - [[Locomotive (Steam)]]

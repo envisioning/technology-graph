@@ -1,8 +1,13 @@
 Enabled by:
 - [[Computer]]
 
-[[Card Operating System (COS)]]
-[[Robot Operating System (ROS)]]
+
+Variants:
+- [[Card Operating System (COS)]]
+- [[Robot Operating System (ROS)]]
+- [[Mobile Operating System]]
+
 
 Enables:
 - [[Software]]
+- [[Application Store]]

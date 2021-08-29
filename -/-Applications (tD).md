@@ -1,4 +1,4 @@
-- #Application 
+#Application 
 
 Additive Manufacturing:
 - [[3D Slicer Software]]
@@ -107,7 +107,7 @@ Electronics:
 
 
 Geoengineering:
-- - [[Herbicide-Tolerance Trait]]
+- [[Herbicide-Tolerance Trait]]
 
 
 IOT
