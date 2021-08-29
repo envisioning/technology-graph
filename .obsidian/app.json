@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "technology",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "readableLineLength": false
 }

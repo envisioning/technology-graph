@@ -1,27 +1,23 @@
 #Method
 
 Artificial:
-[[Natural Language Processing (NLP)]]
-[[Machine Vision]]
-[[Deep Learning]]
-[[Maximum Likelihood Classification (MLC)]]
-[[Satellite Image Processing (SIP)]]
-[[Building Information Modeling (BIM)]]
-[[Adversarial Machine Learning]]
-[[Yield Mapping]]
-[[Machine Learning]]
-[[Machine Reasoning]]
-
-[[Neural Machine Translation]]
-
-
+- [[Natural Language Processing (NLP)]]
+- [[Machine Vision]]
+- [[Deep Learning]]
+- [[Maximum Likelihood Classification (MLC)]]
+- [[Satellite Image Processing (SIP)]]
+- [[Building Information Modeling (BIM)]]
+- [[Adversarial Machine Learning]]
+- [[Yield Mapping]]
+- [[Machine Learning]]
+- [[Machine Reasoning]]
+- [[Neural Machine Translation]]
 
 
 Additive:
-[[3D Modeling]]
-[[Contour Crafting (CC)]]
-
-
+- [[3D Modeling]]
+- [[Contour Crafting (CC)]]
+- 
 
 Biotechnology:
 - [[Stem Cell Manufacturing]]
@@ -57,21 +53,21 @@ Biotechnology:
 
 
 Computing:
-[[Maximum Likelihood Classification (MLC)]]
-[[Satellite Image Processing (SIP)]]
-[[Building Information Modeling (BIM)]]
-[[Yield Mapping]]
-[[Spatial Optimization]]
-[[Spatial Computing]]
-[[Information Pooling]]
-[[Microtasking]]
-[[Neural Machine Translation]]
-[[3D Modeling]]
-[[Honeypot-based Social Engineering Defense]]
-[[Edge Computing]]
-[[Natural Language Processing (NLP)]]
-[[User-Defined Data Sharing]]
-[[Real-Time Mapping]]
+- [[Maximum Likelihood Classification (MLC)]]
+- [[Satellite Image Processing (SIP)]]
+- [[Building Information Modeling (BIM)]]
+- [[Yield Mapping]]
+- [[Spatial Optimization]]
+- [[Spatial Computing]]
+- [[Information Pooling]]
+- [[Microtasking]]
+- [[Neural Machine Translation]]
+- [[3D Modeling]]
+- [[Honeypot-based Social Engineering Defense]]
+- [[Edge Computing]]
+- [[Natural Language Processing (NLP)]]
+- [[User-Defined Data Sharing]]
+- [[Real-Time Mapping]]
 
 
 
@@ -100,7 +96,6 @@ Geoengineering
 
 
 Internet Of Things
-
 [[Real-Time Mapping]]
 [[Microtasking]]
 [[Information Pooling]]

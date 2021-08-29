@@ -1,0 +1,1 @@
+Dynamic random-access memory (dynamic RAM or DRAM) is a type of [[Random Access Memory (RAM)]] random-access semiconductor memory that stores each bit of data in a memory cell consisting of a tiny [[capacitor]] and a [[transistor]], both typically based on [[Metal-Oxide-Semiconductor (MOS)]] technology. 

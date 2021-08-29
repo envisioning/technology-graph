@@ -1,5 +1,5 @@
+ 
 # Technology Graph
-
 ## An experiment in identifying relationships between all technologies.
 
 
@@ -33,8 +33,9 @@
 - Recommended starting points:
 	- [[Agriculture]]
 	- [[Internet]]
-	- [[• Gartner Hype Cycle 2021]]
-	- [[• WEF Emerging Tech 2020]]
+	- [[Gartner Hype Cycle 2021]]
+	- [[WEF Emerging Tech 2020]]
+	- [[Wikipedia List of Emerging Technologies]]
 
 ---
 
@@ -48,6 +49,8 @@
 ### Tags
 - #Method - how technology is done.
 - #Application - what technology is used for.
+- #Index - lists of technologies from external sources.
+- #Product - technology stack of known products.
 - #Technology - deprecated.
 
 ---
@@ -63,14 +66,25 @@
 - [ ] Validate research approach with subject-area experts.
 	- [ ] Domain experts.
 	- [ ] Data & network experts.
-- [x] Eliminate #Domain taxonomy and replace it with connections between Technologies.
+- [x] Eliminate Domain taxonomy and replace it with connections between Technologies.
 - [ ] Eliminate #Technology tag and replace it with #Application or #Method 
-- [ ] Standardize approach to indicating entries' dates.
-- [ ] Apply taxonomy (Tags) to all entries.
-- [ ] Add sources to all entries.
+- [ ] Organize related non-technological entities:
+	- [x] #Product 
+	- [ ] Organizations
+	- [ ] People
+	- [ ] 118 Chemical Elements
+	- [ ] Nation States
+- [ ] Improve Technology entry quality:
+	- [ ] Eliminate Orphans (unlinked entries)
+	- [ ] Standardize approach to indicate year of invention.
+	- [ ] Apply taxonomy/tags to all entries.
+	- [ ] Add external sources to all entries.
+	- [ ] Add links to Wikidata.
+	- [ ] Add links to Envisioning TDB.
 
 ---
 
 ### About
 - An Envisioning initiative by Michell Zappa.
-- Find out more on https://envisioning.io/welcome -> #tg
+- Find out more on https://envisioning.io/welcome -> \#tg
+

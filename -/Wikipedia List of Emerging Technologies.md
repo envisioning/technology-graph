@@ -1,6 +1,17 @@
 #Index
 
+Source:https://en.wikipedia.org/wiki/List_of_emerging_technologies
+Wikidata:https://www.wikidata.org/wiki/Q120208
 
+> Emerging technologies are those technical innovations that represent progressive innovations within a field for competitive advantage. The criteria for this list is that the technology must:
+
+  1. Exist in some way; purely hypothetical technologies cannot be considered emerging and should be covered at list of hypothetical technologies instead. However, technologies being actively researched and prototyped are acceptable.
+  2. Have a Wikipedia article covering them.
+  3. Not be widely used yet. Mainstream technologies cannot be considered emerging.
+
+---
+*Snapshot from August 2021.*
+---
 
 [[Agricultural Robotics]]
 [[Airborne Wind Turbine]]
