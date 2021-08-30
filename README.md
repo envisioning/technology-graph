@@ -10,11 +10,9 @@
 - Indicate relationships between them, such as dependencies or enablers
 - Create a comprehensive knowledge graph of Kevin Kelly's [Technium](https://kk.org/thetechnium/the-seventh-kin/).
 - Identify the interdependency between *all* technologies, as per James Burke's [Connections](https://archive.org/details/james-burke-connections_s01e01).
-- Create common understanding about the *definition* of technology ([[What is Technology?]].
+- Create common understanding about the *definition* of technology ([[What is Technology]].
 - Provide a standardized framework around which anyone can analyze the *technologial ecosystem*.
 - Help non-experts undertand the *nature* of technology and its fundamental interconnectedness.
-- Publish research findings on [GitHub](https://github.com/mz-000/TG).
-
 
 ---
 
@@ -63,7 +61,7 @@
 	- Currently indicating enabling technologies.
 	- Ex: [[Gasoline]] enables [[Carburetor]] enables [[Internal Combustion Engine]] enables [[Automobile]].
 - [ ] Unambigously define what is meant by *technology*:
-	- [[What is Technology?]]
+	- [[What is Technology]]
 - [ ] Clearly define how the scope of this graph is different from Wikipedia.
 - [ ] Determine long-term solution for funding & maintaining research initative.
 - [ ] Validate research approach with subject-area experts.
