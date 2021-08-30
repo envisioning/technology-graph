@@ -133,6 +133,6 @@
 ### [[Software]]
 - [[Operating System (OS)]]
 - [[Web Browser]]
-- [[Email]] Client
+- [[E-Mail]] Client
 - [[Music Player]]
 - [[E-Commerce]]

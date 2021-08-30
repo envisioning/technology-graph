@@ -5,7 +5,7 @@ Enabled by:
 [[Metaverse]]
 [[World Wide Web (WWW)]]
 
-[[Email]]
+[[E-Mail]]
 
 [[File Transfer Protocol (FTP)]]
 

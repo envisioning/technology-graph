@@ -1,0 +1,3 @@
+The Earth Simulator (ES) (地球シミュレータ, Chikyū Shimyurēta), developed by the Japanese government's initiative "Earth Simulator Project", was a highly parallel vector supercomputer system for running global climate models to evaluate the effects of global warming and problems in solid earth geophysics. The system was developed for Japan Aerospace Exploration Agency, Japan Atomic Energy Research Institute, and Japan Marine Science and Technology Center (JAMSTEC) in 1997. Construction started in October 1999, and the site officially opened on 11 March 2002. The project cost 60 billion yen. 
+
+Wikipedia:https://en.wikipedia.org/wiki/Earth_Simulator

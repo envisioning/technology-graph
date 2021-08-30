@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "507fa9ba1d8522b3",
+    "id": "5faec9efb594c3c0",
     "type": "split",
     "children": [
       {
-        "id": "c7531b1ad8d3b1bf",
+        "id": "a5838959e741ac16",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Plastic.md",
+            "file": "technology/E-Mail.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "29b6baa57372ee85",
+    "id": "902343ff362eaaa6",
     "type": "split",
     "children": [
       {
-        "id": "2f140123856cdc55",
+        "id": "cfb8658a190742c0",
         "type": "tabs",
         "children": [
           {
-            "id": "5710e5c472905f09",
+            "id": "db4dee885b931f23",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "27b3922f84120bbf",
+            "id": "f56d8ef64f0406d3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "-/\\[\\[",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,47 +52,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 300
   },
   "right": {
-    "id": "477344dabbbeeece",
+    "id": "bb88727b5128d407",
     "type": "split",
     "children": [
       {
-        "id": "7ffade379f55766e",
+        "id": "b85c6518cae612f7",
         "type": "tabs",
         "children": [
           {
-            "id": "e0f8960ea8e8a7f2",
+            "id": "919e01d3a59dbd13",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Plastic.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "technology/E-Mail.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f7d6285c0bfc2c99",
+            "id": "0fcda350b05a0b46",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/Plastic.md",
+                "file": "technology/E-Mail.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fc9f2256176751da",
+            "id": "6e37ae5977198c92",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,19 +106,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 300
   },
-  "active": "c7531b1ad8d3b1bf",
+  "active": "a5838959e741ac16",
   "lastOpenFiles": [
-    "technology/Plastic.md",
-    "technology/Unsorted Waste Treatment.md",
-    "technology/thermoplastic.md",
-    "technology/Shipping API.md",
-    "technology/Truck Platooning.md",
-    "technology/Unstructured Supplementary Service Data (USSD).md",
-    "technology/Urban Vehicle Restriction Policy.md",
-    "technology/Geofencing.md",
-    "technology/Metadata.md",
-    "technology/File System.md"
+    "technology/E-Mail.md",
+    "technology/E-Mail Address.md",
+    "technology/Email.md",
+    "README.md",
+    "technology/Control of Fire.md",
+    "technology/Untitled 2.md",
+    "technology/Solid State Drive (SSD).md",
+    "product/- PIX (2020).md",
+    "product/Instant Payment.md",
+    "product/Untitled.md"
   ]
 }

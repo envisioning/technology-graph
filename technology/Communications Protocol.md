@@ -3,5 +3,5 @@
 [[Hypertext Transfer Protocol (HTTP)]]
 [[Hypertext Transfer Protocol Secure (HTTPS)]]
 [[BitTorrent]]
-[[Email]]
+[[E-Mail]]
 [[World Wide Web (WWW)]]
