@@ -3,9 +3,33 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 
 const technology_folder = '../technology/';
+const in_ctx = true;
 
 const wikipedia_search_template = (find) => {
   return `https://en.wikipedia.org/w/index.php?title=Special%3AWhatLinksHere&target=${find}&namespace=&limit=500`
+}
+
+function shouldAddToList(tech, title, href, definer, files, title_log) {
+  
+  if(in_ctx) {
+  
+    if ((title != 'WhatLinksHere') && !(href.includes("action=edit")) 
+      && (definer == 'default') && (files.indexOf(`${title}.md`) > -1)  && 
+      (title != tech)  && (title_log.indexOf(title) == -1)) {
+        return true;
+    } else {
+      return false;
+    }
+
+  } else {
+    if ((title != 'WhatLinksHere') && !(href.includes("action=edit")) &&
+       (definer == 'default') && (title != tech) && (title_log.indexOf(title) == -1)) {
+        return true;
+    } else {
+      return false;
+    }
+  }
+  
 }
 
 async function parseWikipediaRelations(tech, _files) {
@@ -23,7 +47,6 @@ async function parseWikipediaRelations(tech, _files) {
 
           let tech_list = '';
           let tech_related_raw = $("#mw-whatlinkshere-list li a");
-
 
           let iterations = tech_related_raw.length;
           let old_titles = [];
@@ -48,13 +71,10 @@ async function parseWikipediaRelations(tech, _files) {
                   title = title[0];
                 }
 
-                if((title != 'WhatLinksHere') && !(href.includes("action=edit")) 
-                    && (definer == 'default') && (_files.indexOf(`${title}.md`) > -1)  && 
-                    (title != tech)  && (old_titles.indexOf(title) == -1) ) {
-                  // tech_list = tech_list.concat('[[', title, ']]', ' - ', href, ' - wikipedia_status: ', definer, '\n');
+
+                if(shouldAddToList(tech, title, href, definer, _files, old_titles)) {
                   tech_list = tech_list.concat('[[', title, ']]', '\n');
                   old_titles.push(title);
-                  
                 }
 
               }  

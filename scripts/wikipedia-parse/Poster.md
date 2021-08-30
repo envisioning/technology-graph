@@ -1,2 +1,2 @@
 [[Typography]]
-[[Hyperlink]]
+[[Painting]]

@@ -1,3 +1,0 @@
-[[Astrolabe]]
-[[Autofocus]]
-[[Radio]]

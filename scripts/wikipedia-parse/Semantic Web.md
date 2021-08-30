@@ -1,3 +1,0 @@
-[[Hypertext]]
-[[Internet]]
-[[Geotagging]]

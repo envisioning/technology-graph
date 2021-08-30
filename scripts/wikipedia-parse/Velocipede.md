@@ -1,3 +1,0 @@
-[[Bicycle]]
-[[City]]
-[[Wheelbarrow]]

@@ -1,4 +1,0 @@
-[[Algorithm]]
-[[Microscope]]
-[[Telephone]]
-[[Lightning]]

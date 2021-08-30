@@ -1,4 +1,0 @@
-[[Aquaculture]]
-[[Antibiotic]]
-[[Microscope]]
-[[Mining]]

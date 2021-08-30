@@ -1,7 +1,0 @@
-[[Accounting]]
-[[City]]
-[[Civilization]]
-[[Tax]]
-[[Commerce]]
-[[Equestrianism]]
-[[Metalworking]]
