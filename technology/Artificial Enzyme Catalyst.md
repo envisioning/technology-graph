@@ -1,1 +1,3 @@
 #Method 
+
+A photosynthetic system in which a synthetic enzyme is inserted into a living cell, enabling plants or bacteria to generate [[Hydrogen]] gas from solar energy. This process happens through the application of an artificial enzyme that operates as a biomimetic catalyst for water oxidation in [[artificial photosynthesis]]. During water oxidation, oxygen evolution occurs, and electrons and protons are also produced, which could be used in [[Liquid Fuel]] synthesis and the creation of other useful compounds.

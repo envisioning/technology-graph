@@ -1,0 +1,5 @@
+#Method 
+
+[[Water Filter]]
+
+A method that recovers cellulose fibers from wastewater, thus turning [[Cellulose]] into a circular raw material. In the process, wastewater enters a treatment plant and passes through a coarse screen to remove oversized particles. Then, the sewage water gets pumped through a grit chamber to remove the easily sinkable solids. After, this water passes by a washer that separates cellulose fibers from bigger particles. The remaining wastewater is finally directed to a filter responsible for improving the water quality and discharging non-usable residues. The cellulose fibers recovered from the filter are dewatered, so dry solid materials become ready to be cleaned and polished. The final result is a raw product used in [[Biocomposite]] and construction, such as an insulation material, asphalt, pulp, or paper.

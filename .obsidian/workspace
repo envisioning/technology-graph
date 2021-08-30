@@ -7,11 +7,8 @@
         "id": "c7531b1ad8d3b1bf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "-/-Applications (tD).md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-/-Applications (tD).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-/-Applications (tD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,15 +105,15 @@
   },
   "active": "c7531b1ad8d3b1bf",
   "lastOpenFiles": [
-    "-/-Applications (tD).md",
-    "-/-Methods (tD).md",
-    "-/What is Technology?.md",
-    "index/Connections (Wikipedia).md",
-    "-/Connections (Notes).md",
-    "-/Connections (Wikipedia).md",
-    "index/Gartner Hype Cycle 2021.md",
-    "index/Wikipedia List of Emerging Technologies.md",
-    "index/WEF Emerging Tech 2020.md",
-    "-/Gartner Hype Cycle 2021.md"
+    "technology/Metadata.md",
+    "technology/File System.md",
+    "technology/Robot Communication Interface.md",
+    "technology/Sulfur Match.md",
+    "technology/Sulfur.md",
+    "technology/Financial Assistant.md",
+    "technology/Risk Assessment.md",
+    "technology/Tailored Financial Assistant.md",
+    "technology/Microlith.md",
+    "technology/Satellite Quantum Key Distribution.md"
   ]
 }

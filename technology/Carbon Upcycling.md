@@ -1,1 +1,3 @@
 #Method
+
+[[Carbon]] upcycling is a circular method using CO2 emissions captured from industrial activities to produce a cement-like and potentially carbon-neutral building material, transforming waste into raw material. This process takes captured CO2 and injects it into [[Concrete]] during the mixing process. When combined with limestone minerals, CO2 creates a cementing agent. Once the concrete hardens, carbon is sequestered forever, since it chemically reacts with the concrete and becomes a mineral. This process could create a stronger and more lightweight form of concrete while ensuring a closed-loop production cycle in terms of greenhouse gases.

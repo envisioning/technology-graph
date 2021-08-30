@@ -1,1 +1,3 @@
 #Method 
+A method used in the separation and purification of [[Lithium]] material, which in turn creates new [[Battery]] from recycled ones. By combining reagents and unit operations, this method enables the high extraction of cathode metals from lithium-ion batteries at battery-grade purity. While generating a cathode precursor, the combination of stages reveals a high recovery and purity potential. This process comprises different stages, such as pre-treatment, purification, and recovery, achieved mainly by chemical reactions. This method has a hundred percent recovery rate of valuable metals, including cobalt, nickel, manganese, aluminum, and lithium. 
+

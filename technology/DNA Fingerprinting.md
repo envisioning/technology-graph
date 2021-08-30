@@ -1,1 +1,3 @@
 #Method 
+
+A chemical identity test that separates strands of DNA and reveals the unique parts of the genome. This is done in a laboratory by collecting the desired sample and isolating the DNA, which is processed and multiplied using one or a combination of different techniques such as [[Polymerase Chain Reaction (PCR)]]. Using gel [[Electrophoresis]], it is possible to separate DNA fragments according to size and Southern blotting helps to detect specific DNA molecules, which reveals its unique DNA fingerprint. This technology is vastly used in criminal investigations to match DNA samples. By fingerprinting the DNA in food, for instance, one could accurately determine the strain, ancestry, and even origin of plant materials.

@@ -1,1 +1,4 @@
 #Method
+
+
+A microscopic natural organism, classified as a macromolecular virus that seeks out and destroys specific strains of bacteria, also known as phage or bacterial virus. Bacteriophages are the natural enemies of bacteria and can be used as an [[Antibiotic]] replacement. Also, they can have simple or elaborated structures and are made of DNA or RNA genome encapsulated by proteins, encoding from four to hundreds of genes. After injecting their genome into bacteria cytoplasm, they replicate, devouring the virus. Unlike harmful viruses, bacteriophage therapy specifically recognizes and attacks only bacteria and does not affect or harm humans or other living beings.

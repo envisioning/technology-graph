@@ -1,1 +1,10 @@
 #Technology 
+
+
+[[Malware]] and hackers that target banks and digital services could be thwarted through a combination of online and offline security methods. One of the techniques with the most significant potential for security involves the isolation of the server through virtualization or quantum key distribution. As cybersecurity improves, it becomes harder for fraudsters to avoid the barriers erected both physically and digitally.
+
+Satellite quantum key distribution is a secure process for data transfer between two authorized computers, in which the next-generation encryption key uses laser links from satellites where a laser terminal photon transmits quantum keys. This process is possible because such particles, when paired, get entangled together, and it does not matter how far away they are from each other, they keep their connection.
+
+A hypothetical chain of these entangled particles could be created with photons that are thousands of kilometers apart from each other and still be extremely safe, once their entanglement instantly reports any change in a single part of the whole. Hackers could theoretically intercept the transferred data; however, the mathematical certainty from a key prevents any severe damage from occurring.
+
+For governments and defense agencies, data sovereignty is one of the most critical issues, especially as cyberwars and attacks increase annually against organizations that increasingly centralize more sensitive data. As [[quantum computing]] becomes more commonplace, conventional digital [[cryptography]] will be easier to crack, making it necessary to implement mutual authentication fraud-proof servers to guarantee data security against these new technological threats. Even though satellite quantum key distribution seems to be a prevalent and safe innovative solution, the sovereignty of data creates controversy because satellites are owned and maintained by specific countries; other countries would need to sign treaties to use an allied nation's satellite. Intercontinental information could then be sent quickly and safely, accessible only by entities holding the key.

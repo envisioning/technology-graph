@@ -1,1 +1,3 @@
 #Method 
+
+A textile dyeing method that involves pre-treating of natural textile fibers and using different carriers for the dye, reducing the amount of water, energy, dye, and toxic chemicals in the dying process. First, the process requires pre-treating natural fibers using cationic chemistry principles, which can alter their molecular structure to attract the dye naturally and more easily. Then, using [[Disperse Reactive Dye]] and special machinery, supercritical carbon dioxide is used as a carrier instead of water, creating a closed-loop coloration system. The main hurdles in this method lie in the high cost of the CO2 dye machinery and the synthesis of special dyes.

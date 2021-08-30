@@ -1,1 +1,3 @@
 #Method 
+
+A process that harnesses the ability of natural microorganisms to remove pollutants from a contaminated environment effectively. This technique exploits properties from different naturally occurring bacteria and fungi that can process toxic chemicals and [[Microplastic]] found in water and land. This happens due to these organisms' xenobiotic metabolism, a natural mechanism that enables toxic compounds to be converted into nontoxic byproducts.

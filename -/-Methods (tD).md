@@ -18,31 +18,10 @@ Additive:
 - 
 
 Biotechnology:
-- [[Stem Cell Manufacturing]]
-- [[Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)]]
-- [[Cellvation®]]
-- [[DNA Fingerprinting]]
-- [[DNA Barcoding]]
-- [[Carbon Upcycling]]
-- [[Pyrolysis Chemical Recycling]]
-- [[Inductive Transport Charging]]
-- [[Waterless Textile Dyeing]]
-- [[Albedo Enhancement]]
-- [[Atmospheric Water Harvesting]]
-- [[Nanophotonic Water Desalination]]
-- [[Artificial Enzyme Catalyst]]
-- [[Bacteriophage Therapy]]
-- [[Microbial Degradation]]
-- [[Nanobioremediation]]
-- [[Nano Coating]]
-- [[Lithium Recycling Process]]
-- [[Forward Osmosis]]
-- [[Electromagnetic Kinetic Energy Harvesting]]
-- [[Piezoelectric Kinetic Energy Harvesting]]
 - [[Electrostatic Kinetic Energy Harvesting]]
 - [[Diffused Aeration Process]]
 - [[Plant Tissue Culture]]
-- [[High-Efficiency Reverse Osmosis]]
+- [[Reverse Osmosis]]
 - [[Selective Compound Removal]]
 - [[Eutrophic Bioremediation]]
 - [[Water Electrolysis]]
@@ -105,7 +84,7 @@ Internet Of Things
 
 
 Nanotechnology
-[[Forward Osmosis]]
+[[Forward Osmosis (FO)]]
 [[Nano Coating]]
 [[Nanobioremediation]]
 [[Nanophotonic Water Desalination]]

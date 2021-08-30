@@ -1,1 +1,2 @@
 #Method 
+[[Nanomaterial]] applied to a matrix of molecules on a particular surface, becoming a robust outer layer of protection for surfaces to create these materials. This nano-sealing, ultra-thin coating method self-assembles on the surface of objects and organic products such as fruits and vegetables to protect them from dirt, ripeness, UV-light, and bacteria. Nanocoatings are extraordinarily slippery and water-resistant, and as [[Hydrophobic]] or hydrophilic materials, they can protect nearly every type of surface from the effects produced by humidity and corrosion.
