@@ -5,4 +5,4 @@ A blockchain-based identification protocol that either restricts or allows acces
 In order to ensure users' privacy, all collected personal information is encrypted and stored in blockchain-based cloud servers. In terms of cybersecurity, even the host companies that provide the service should not be able to retrieve the original data. All data should be eliminated after the emergencies are over, or only accessed if the user grants authorization to the stored data.
 
 [[Blockchain]]
-[[Geofencing]]
+[[Geofence]]

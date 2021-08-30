@@ -5,4 +5,4 @@ Used by:
 - [[Delivery Robot]]
 - [[Geotagging]]
 - [[Spatial Computing]]
-- [[Geofencing]]
+- [[Geofence]]

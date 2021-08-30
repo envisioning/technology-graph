@@ -1,3 +1,4 @@
 [[Velcro]]
 [[Nylon]]
 [[Microplastic]]
+[[Thermoplastic]]

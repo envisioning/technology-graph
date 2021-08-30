@@ -7,8 +7,11 @@
         "id": "c7531b1ad8d3b1bf",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "technology/Plastic.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "technology/Plastic.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "technology/Plastic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -105,15 +110,15 @@
   },
   "active": "c7531b1ad8d3b1bf",
   "lastOpenFiles": [
+    "technology/Plastic.md",
+    "technology/Unsorted Waste Treatment.md",
+    "technology/thermoplastic.md",
+    "technology/Shipping API.md",
+    "technology/Truck Platooning.md",
+    "technology/Unstructured Supplementary Service Data (USSD).md",
+    "technology/Urban Vehicle Restriction Policy.md",
+    "technology/Geofencing.md",
     "technology/Metadata.md",
-    "technology/File System.md",
-    "technology/Robot Communication Interface.md",
-    "technology/Sulfur Match.md",
-    "technology/Sulfur.md",
-    "technology/Financial Assistant.md",
-    "technology/Risk Assessment.md",
-    "technology/Tailored Financial Assistant.md",
-    "technology/Microlith.md",
-    "technology/Satellite Quantum Key Distribution.md"
+    "technology/File System.md"
   ]
 }

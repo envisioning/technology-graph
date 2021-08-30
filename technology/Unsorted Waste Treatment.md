@@ -1,1 +1,5 @@
 #Technology 
+
+A biobased modular and adaptive conversion process, able to transform unsorted household garbage, such as bones, food scraps, diapers, and even [[plastic]], into a fully recyclable [[Thermoplastic]] substitute. In short, this method transforms waste into more basic natural particles that will be later reconstituted, bonded, and shaped in several grades.
+
+First, the waste is collected and directed to a processing plant. There, it gets transformed, despite the varying compositions, thus reducing residual waste stream into a more basic natural component by breaking up waste into a nearly molecular level. Then, it treats the garbage within a closed-loop system that combines the most basic organic elements such as cellulose, sugar, and fibers with bioplastic. This process produces no emissions, does not use water, and leaves no residual waste.
