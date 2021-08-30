@@ -1,2 +1,0 @@
-[[Display (disambiguation)]]
-[[Viewscreen]]

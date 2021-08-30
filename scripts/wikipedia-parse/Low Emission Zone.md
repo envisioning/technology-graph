@@ -1,2 +1,0 @@
-[[Low-emission zone]]
-[[Leonberg]]

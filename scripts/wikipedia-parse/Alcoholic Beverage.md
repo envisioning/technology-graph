@@ -1,5 +1,0 @@
-[[G. Heileman Brewing Company]]
-[[War Horse Brewing Company]]
-[[ABMRF/The Foundation for Alcohol Research]]
-[[John Distilleries]]
-[[Fatal Vision (goggles)]]

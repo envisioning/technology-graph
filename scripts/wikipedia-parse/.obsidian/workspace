@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "a45eddaf0f45ec00",
+    "type": "split",
+    "children": [
+      {
+        "id": "41081c07fad20964",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0de275c58cbc7e08",
+    "type": "split",
+    "children": [
+      {
+        "id": "f38b76525ed2e1a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df0bafe9c978e242",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "21bff6fa9f05e869",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "caaf7d38675a717d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f56e6c1b51f0ae01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3376c81517bae55f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41081c07fad20964",
+  "lastOpenFiles": [
+    "Microscope.md"
+  ]
+}

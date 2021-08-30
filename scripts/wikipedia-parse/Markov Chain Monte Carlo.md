@@ -1,1 +1,0 @@
-[[Glauber dynamics]]

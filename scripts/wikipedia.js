@@ -8,7 +8,7 @@ const wikipedia_search_template = (find) => {
   return `https://en.wikipedia.org/w/index.php?title=Special%3AWhatLinksHere&target=${find}&namespace=&limit=500`
 }
 
-async function parseWikipediaRelations(tech) {
+async function parseWikipediaRelations(tech, _files) {
   const map_point = wikipedia_search_template(tech);
   // console.log(map_point);
   let final_url = encodeURI(decodeURI(map_point)).replace("%25", '%');
@@ -26,8 +26,8 @@ async function parseWikipediaRelations(tech) {
 
 
           let iterations = tech_related_raw.length;
-          
-
+          let old_titles = [];
+  
           for(var prop in tech_related_raw) {
             
             let cursor = tech_related_raw[prop];
@@ -37,17 +37,24 @@ async function parseWikipediaRelations(tech) {
               if(cursor.name = "a") {
                 let href = (cursor.attribs.href);
                 let title = (cursor.attribs.title);
-
+                
                 let definer = 'default';
                 title = title.split(":");
+
                 if(title[1]) {
                   definer = title[0];
                   title = title[1];
+                } else {
+                  title = title[0];
                 }
 
-                if((title != 'WhatLinksHere') && !(href.includes("action=edit")) && (definer == 'default')) {
+                if((title != 'WhatLinksHere') && !(href.includes("action=edit")) 
+                    && (definer == 'default') && (_files.indexOf(`${title}.md`) > -1)  && 
+                    (title != tech)  && (old_titles.indexOf(title) == -1) ) {
                   // tech_list = tech_list.concat('[[', title, ']]', ' - ', href, ' - wikipedia_status: ', definer, '\n');
                   tech_list = tech_list.concat('[[', title, ']]', '\n');
+                  old_titles.push(title);
+                  
                 }
 
               }  
@@ -70,10 +77,10 @@ async function parseWikipediaRelations(tech) {
 
 
 fs.readdir(technology_folder, (err, files) => {
+
   files.forEach(file => {
     let tech_string = file.replace('.md', '');
-    parseWikipediaRelations(tech_string).then((result) => {
-      // console.log(result);
+    parseWikipediaRelations(tech_string, files).then((result) => {
       if(result) {
         fs.writeFile(`./wikipedia-parse/${tech_string}.md`, result, 'utf8', function() {
           console.log("file")

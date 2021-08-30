@@ -1,5 +1,0 @@
-[[LG Voyager]]
-[[Samsung i900 Omnia]]
-[[Youmail]]
-[[Criticism of Apple Inc.]]
-[[IPhone (1st generation)]]

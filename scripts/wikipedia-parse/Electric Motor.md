@@ -1,6 +1,0 @@
-[[Frank J. Sprague]]
-[[Ward's 10 Best Engines]]
-[[Rotor (electric)]]
-[[Enabling technology]]
-[[Mini Hatch]]
-[[Yamaha Tesseract]]

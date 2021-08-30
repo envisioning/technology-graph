@@ -1,5 +1,0 @@
-[[Quantum information]]
-[[Ramsey's theorem]]
-[[Quanta Computer]]
-[[Qiskit]]
-[[Glossary of nanotechnology]]

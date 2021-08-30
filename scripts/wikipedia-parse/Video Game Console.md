@@ -1,5 +1,0 @@
-[[Index of electronics articles]]
-[[JoJo's Bizarre Adventure (video game)]]
-[[Blaze Europe]]
-[[Video games in the United States]]
-[[Kodenshi AUK Group]]

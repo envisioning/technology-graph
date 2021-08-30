@@ -1,8 +1,0 @@
-[[Canon EF 100mm lens]]
-[[Canon EF 200mm lens]]
-[[Suril Shah]]
-[[Nikon Coolpix P6000]]
-[[Nikon AF-S DX Zoom-Nikkor 55-200mm f/4-5.6G]]
-[[Canon PowerShot SX520 HS]]
-[[Nikon Z-mount]]
-[[OnePlus 7]]

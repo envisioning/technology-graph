@@ -1,2 +1,0 @@
-[[Reed's]]
-[[QMCF Technology]]

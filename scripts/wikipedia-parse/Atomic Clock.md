@@ -1,2 +1,0 @@
-[[Microsemi]]
-[[John Hartnett (physicist)]]

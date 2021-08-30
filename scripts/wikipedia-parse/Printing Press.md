@@ -1,8 +1,0 @@
-[[Cowell College]]
-[[Drupa]]
-[[Renaissance literature]]
-[[Claude Garamond]]
-[[Samuel Dyer]]
-[[Wang Zhen (inventor)]]
-[[Akron News-Reporter]]
-[[Enabling technology]]

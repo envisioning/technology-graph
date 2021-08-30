@@ -1,1 +1,0 @@
-[[Christopher W. Jones]]

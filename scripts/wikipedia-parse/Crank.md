@@ -1,8 +1,0 @@
-[[Cranks]]
-[[Crank (disambiguation)]]
-[[Crank! A Record Company]]
-[[Krank]]
-[[Cranky]]
-[[CrankS]]
-[[Crank (album)]]
-[[Crank]]

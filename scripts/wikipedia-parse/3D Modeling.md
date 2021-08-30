@@ -1,2 +1,0 @@
-[[ArchiCAD]]
-[[Palpa, Peru]]

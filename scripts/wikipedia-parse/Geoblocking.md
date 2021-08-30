@@ -1,6 +1,0 @@
-[[TVP Polonia]]
-[[Lexi Alexander]]
-[[Kurkure]]
-[[TV Everywhere]]
-[[Whistler Film Festival]]
-[[2020 Vancouver International Film Festival]]
