@@ -2,7 +2,7 @@
 
 [[Cargo Airship]]
 
-> Buoyant developed a “hybrid” battery [[Electric Airship]], meaning that it generates around 70% of its lift using [[lighter-than-air gas]] — in this case, [[helium]]. The remaining 30% of the lift comes from its [[tilt-rotor architecture]]. 
+> Buoyant developed a “hybrid” battery [[Electric Airship]], meaning that it generates around 70% of its lift using [[lighter-than-air gas]] — in this case, [[Helium]]. The remaining 30% of the lift comes from its [[tilt-rotor architecture]]. 
 
 > the ultimate aim is to build an airship that’s capable of delivering up to 650 pounds of cargo at a cruise speed of around 60 miles per hour.
 

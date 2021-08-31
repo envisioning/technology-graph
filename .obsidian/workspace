@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "-/What is Technology.md",
+            "file": "product/Earthship.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "247f4e241a10cccb",
+    "id": "4ea67c19dfdb6c34",
     "type": "split",
     "children": [
       {
-        "id": "07251280d569d9e3",
+        "id": "0e64e7372fd73a8c",
         "type": "tabs",
         "children": [
           {
-            "id": "485497fa6f6fda5d",
+            "id": "d8bfd93ec592fd2d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "66ab82aeeac2f450",
+            "id": "5044519d1672aa5f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "-/\\[\\[",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,23 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313
   },
   "right": {
-    "id": "8febdeea59addf2a",
+    "id": "052839ddecc0ef99",
     "type": "split",
     "children": [
       {
-        "id": "1a74200a1130efed",
+        "id": "3217b1085f78c40d",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf10efbcb13c04e",
+            "id": "e1daaeb71908b9e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-/What is Technology.md",
+                "file": "product/Earthship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,19 +80,19 @@
             }
           },
           {
-            "id": "a26567407cf97e03",
+            "id": "9f343160f2b6551f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-/What is Technology.md",
+                "file": "product/Earthship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "be2aee5a6729a2ec",
+            "id": "3914c8871dfc2091",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -111,15 +111,15 @@
   },
   "active": "c7531b1ad8d3b1bf",
   "lastOpenFiles": [
-    "-/What is Technology?.md",
+    "product/Untitled.md",
     "README.md",
-    "technology/Spatial Audio.md",
-    "technology/Untitled.md",
-    "technology/Anti-surveillance Fashion.md",
-    "technology/Glycerin.md",
-    "technology/6G Mobile Network.md",
-    "technology/Wireless Cognition.md",
-    "technology/Satellite Internet Constellation.md",
-    "technology/Space Tether.md"
+    "technology/LED Light.md",
+    "technology/Iron Smelting.md",
+    "technology/Galley.md",
+    "technology/Gamification.md",
+    "-/img/Gartner Emerging 2021.png",
+    "technology/Grinder.md",
+    "technology/Hydrogen Fuel Assembly.md",
+    "technology/Hydrogen Fuel Cell.md"
   ]
 }

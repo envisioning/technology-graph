@@ -11,11 +11,10 @@ Artificial:
 - [[Machine Reasoning]]
 - [[Neural Machine Translation]]
 
-
 Additive:
 - [[3D Modeling]]
 - [[Contour Crafting (CC)]]
-- 
+
 
 Biotechnology:
 - [[Electrostatic Kinetic Energy Harvesting]]
@@ -25,9 +24,6 @@ Biotechnology:
 - [[Selective Compound Removal]]
 - [[Eutrophic Bioremediation]]
 - [[Water Electrolysis]]
-
-
-
 
 Computing:
 - [[Maximum Likelihood Classification (MLC)]]
@@ -46,22 +42,14 @@ Computing:
 - [[User-Defined Data Sharing]]
 - [[Real-Time Mapping]]
 
-
-
 Drone:
 [[Drone Monitoring]]
 [[Remote Sensing Data]]
 
-
-
-
-Electronics
-Methods:
+Electronics:
 [[Electrostatic Kinetic Energy Harvesting]]
 [[Piezoelectric Kinetic Energy Harvesting]]
 [[Electromagnetic Kinetic Energy Harvesting]]
-
-
 
 Geoengineering
 [[Cirrus Cloud Thinning]]
@@ -69,8 +57,6 @@ Geoengineering
 [[Albedo Enhancement]]
 [[Tree-lined Desert Barrier]]
 [[Enhanced Weathering]]
-
-
 
 Internet Of Things
 [[Real-Time Mapping]]
@@ -81,8 +67,6 @@ Internet Of Things
 [[Nanotagging]]
 [[Blockchain Asset Tracking]]
 
-
-
 Nanotechnology
 [[Forward Osmosis (FO)]]
 [[Nano Coating]]
@@ -91,5 +75,3 @@ Nanotechnology
 [[DNA Barcoding]]
 [[Nanotagging]]
 [[Nanofiltration]]
-
-

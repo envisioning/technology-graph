@@ -63,6 +63,7 @@
 - [ ] Unambigously define what is meant by *technology*:
 	- [[What is Technology]]
 - [ ] Clearly define how the scope of this graph is different from Wikipedia.
+- [ ] [Automate Wikipedia import of entries & relationships](https://github.com/envisioning/technology-graph/pull/1) @felipescb
 - [ ] Determine long-term solution for funding & maintaining research initative.
 - [ ] Validate research approach with subject-area experts.
 	- [ ] Domain experts.
