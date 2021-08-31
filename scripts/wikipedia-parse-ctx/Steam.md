@@ -1,0 +1,4 @@
+[[Coal]]
+[[Electricity]]
+[[Food]]
+[[Furnace]]

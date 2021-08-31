@@ -1,0 +1,7 @@
+[[Microscope]]
+[[Rocket]]
+[[Wheel]]
+[[Compass]]
+[[Magnetometer]]
+[[Smartphone]]
+[[Accelerometer]]

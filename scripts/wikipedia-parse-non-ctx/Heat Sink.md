@@ -1,0 +1,1 @@
+[[John Moore (American author)]]

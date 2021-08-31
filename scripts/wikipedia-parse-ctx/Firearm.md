@@ -1,0 +1,4 @@
+[[Crossbow]]
+[[Gunpowder]]
+[[Weapon]]
+[[Sword]]

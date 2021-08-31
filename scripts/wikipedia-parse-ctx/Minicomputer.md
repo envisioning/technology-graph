@@ -1,0 +1,5 @@
+[[Calculator]]
+[[Microprocessor]]
+[[Microcontroller]]
+[[Smartphone]]
+[[Computer]]

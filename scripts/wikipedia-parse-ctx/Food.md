@@ -1,0 +1,5 @@
+[[Aquaculture]]
+[[Cooking]]
+[[Mining]]
+[[Wood]]
+[[Irrigation]]

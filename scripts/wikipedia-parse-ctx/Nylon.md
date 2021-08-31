@@ -1,0 +1,8 @@
+[[Aquaculture]]
+[[Leather]]
+[[Shoe]]
+[[Weaving]]
+[[Thermoplastic]]
+[[Zipper]]
+[[Button]]
+[[Rope]]

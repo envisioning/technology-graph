@@ -1,0 +1,6 @@
+[[Clock]]
+[[Microscope]]
+[[Astronomy]]
+[[Sundial]]
+[[Astrolabe]]
+[[Cremation]]

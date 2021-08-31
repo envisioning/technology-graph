@@ -1,0 +1,7 @@
+[[Abacus]]
+[[Algorithm]]
+[[Minicomputer]]
+[[Microcontroller]]
+[[Transistor]]
+[[Smartphone]]
+[[Computer]]

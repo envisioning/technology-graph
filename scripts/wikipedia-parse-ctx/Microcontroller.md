@@ -1,0 +1,7 @@
+[[Calculator]]
+[[Microprocessor]]
+[[Minicomputer]]
+[[Transistor]]
+[[Compass]]
+[[Smartphone]]
+[[Sensor]]

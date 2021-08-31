@@ -1,0 +1,7 @@
+[[Agriculture]]
+[[Aquaculture]]
+[[Hydroponics]]
+[[Microscope]]
+[[Mining]]
+[[Irrigation]]
+[[Equestrianism]]

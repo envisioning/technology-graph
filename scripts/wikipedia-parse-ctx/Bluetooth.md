@@ -1,0 +1,4 @@
+[[GLONASS]]
+[[Chatbot]]
+[[Smartphone]]
+[[WiMAX]]

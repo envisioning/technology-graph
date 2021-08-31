@@ -1,0 +1,853 @@
+1G Mobile Network
+2G Mobile Network
+3D Earth Scanning
+3D Laser Scanner
+3D Printed Architecture
+3D Printed Biological Tissue
+3D Printed Food
+3D Printed Vehicle
+3D Slicer Software
+3G Mobile Network
+4D Printing
+4G Mobile Network
+5G Mobile Network
+6G Mobile Network
+Accelerated Raytracing
+Acoustic Aggression Detector
+Acoustic Leak Detection
+Active Metadata Management
+Active Monitoring Drone
+Active RFID Tag
+Activity Sensor
+Adaptable Floating Station
+Adaptable Production
+Advanced Self-healing Software
+Adversarial Machine Learning
+Aerial Urban Gondola (Gondola Lift)
+Aerial Wireless Network
+Agro-waste Biodegradable Coating
+AI Bionic Partner
+AI Chef
+AI Game Opponent
+AI Health Coach
+AI Lifetime Companion
+AI Mentorship Software
+AI Singleton
+AI Therapist
+AI Voice Assistant
+AI-Augmented Design
+AI-powered Interrogation Software
+Air Purification System
+Air Purifier Tower
+Air Source Heat Pump
+Air-Cleaning Building
+Albedo Enhancement
+Alcohol Residual Byproduct
+Algae Biofuel
+Algae-Based Meal Replacement
+Algal Photobioreactor
+Algorithmic Bias Detection Tool
+Ambulance Drone
+Analog Telecommunications
+Animal Domestication
+Anti-Filter Bubble Algorithm
+Anti-pollution Moss Culture
+Anti-surveillance Fashion
+Antibacterial Universal Spray
+Anticipatory Shipping
+Antimicrobial Bio-peptide Postbiotic
+Antimicrobial Peptide
+Antiviral Silver Polymer
+Application-Specific Integrated Circuits (ASIC)
+Aquatic Drone
+AR Fiducial Marker
+AR Retail Platform
+AR Workforce Assistance
+Artificial Diamond
+Artificial Enzyme Catalyst
+Artificial Organ
+Artificial Seed
+Artificial Superintelligence
+Artificially Intelligent Governor
+Asset Tokenization
+Asteroid Mining
+Atmospheric Water Harvesting
+Atomizer Nozzle
+Attention Awareness
+Attention Token
+Audio-to-face Modeling
+Augmented Reality (AR)
+Augmented Reality Surveillance
+Auto Correct
+Auto Labeling
+Automated Border Control System
+Automated Compliance
+Automated Compulsory Labor Audit
+Automated Data Theft Detection Tool
+Automated Diagnosis Software
+Automated Diagnosis System
+Automated Home Appliance
+Automated Home Farming
+Automated Image Correction
+Automated Laundry Care
+Automated Personal Shopper
+Automated Pharmacy
+Automated Stem Cell Factory
+Automated Triage Nurse
+Automated Underground Bike Parking
+Automated UVC-Sterilization Device
+Automated Voice Cloning
+Automatic Door
+Automatic Essay Scoring
+Automatic Information Control
+Automatic Legislative Tracking
+Automatic Litter Analysis
+Automatic Self-Cleaning Filter
+Automatic Teller Machine (ATM)
+Autonomic Self-Healing Polymer
+Autonomous Agriculture Vehicle
+Autonomous Maintenance Software
+Autonomous Parcel Locker
+Autonomous Railway Shuttle
+Autonomous Street Sweeper
+Autonomous Sustainability Monitoring
+Autonomous Vehicle Zone
+Auxetic Material
+Back Breeding
+Backpropagation (BP)
+Bacterial Bioreactor
+Bacterial Diaper
+Bacterial Microplastic Biodegradation
+Bacteriophage Therapy
+Bartering Platform
+Base Transceiver Station (BTS)
+Behavioral Analytics
+Bike Commuting Tax Incentive
+Bimbot
+Bio-based Street Furniture
+Biodegradable Mushroom Packaging
+Bioengineered Yeast
+Biofiltration Swale
+Biogenic Scrap
+Biological Aerated Filter
+Biological Odor Control
+Bioluminescence-powered Lightning
+Biometric Identification
+Bionaphtha
+Biopolymer-based Hydrogel
+Biopreciptation
+Biosafety Border Control
+Block and Tackle
+Blockchain Asset Tracking
+Blockchain Carbon Credit
+Blockchain Certificate
+Blockchain Digital Identification
+Blockchain Epigenetic Signature
+Blockchain Notary
+Blockchain Prediction Market
+Blockchain Sharing Economy
+Blockchain Tracked Education
+Blockchain Work Permit
+Blockchain-based Carbon Credit
+Blockchain-based Chama
+Blockchain-based IoT System
+Blockchain-based Remittance
+Blue Light Blocker
+Bluetooth Low Energy (BLE)
+Body-Worn Police Camera
+Bone Flute
+Borderless Biosafety Regulation
+Brain Digital Reconstruction
+Brain Mood Map
+Brain-to-Brain Communication Device
+Brainwave Signature
+Branded Currency
+Bronze Forging
+Building Information Model (BIM)
+Building Information Modeling (BIM)
+Buried Interconnect
+Butterfly Valve
+Cable Transport
+Camera Flash
+Camera Lens
+Candidate Matching
+Canned Food
+Car-free Highway
+Carbon Eater Patch
+Carbon Upcycling
+Card Operating System (COS)
+Carrier Bag
+Cashless Vending Machine
+CDMA EV-DO
+Cellulose Nanofiber
+Cellvation
+Central Processing Unit (CPU)
+Centralized Government Bidding
+Ceramic Membrane
+Chat UI
+Chemostable Microencapsulated Probiotic Bead
+Circadian Polyphenolic Bioactive Modulator
+Circadian Resynchronizer Phytoextract
+Circular Cycle Bridge
+Circular Packaging Platform
+Citizen Legal Support App
+Citizen-sourced Anticipated Data
+City Information Modeling
+Civic Engagement App
+Closed-Loop Filtration System
+Cloud Education
+Cloud Mining
+Cloud-Connected Supply Chain
+Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)
+CO2 Absorbing Streetlight
+CO2 Capture Power Plant
+CO2 Extractor Array
+CO2 Scrubber
+Code-Division Multiple Access (CDMA)
+Cognitive Twin
+Collaborative Culture-Sensitive AI
+Collaborative On-Demand Delivery
+Collaborative Robot (Cobot)
+Communications Protocol
+Community Chlorine Dispenser
+Community Health Platform
+Community Solar Billing
+Community-Scale Composting Tank
+Composable Network
+Computable General Equilibrium (CGE)
+Computational Photography
+Computer Bus
+Concentration Gradient
+Configurable Liquid Metal
+Connected Road
+Connected Traffic Lights
+Consortium Blockchain
+Construction Intelligence Cloud Service
+Context-Aware Behavioral Analytics
+Contour Crafting (CC)
+Control of Fire
+ConvNet Gait Recognition System
+Cooperative Housing
+Cosmetotextiles
+Crop Epigenetics
+Crowdsourced Journalism
+Crowdsourced Public Transportation Platform
+Cryptocurrency Over The Counter (OTC)
+Cryptographic Mining
+Crystal Lens Cover
+Cultured Protein
+Cybernetic Control
+Cyborg Citizen
+Data Backup Embassy
+Data Enclave
+Data Marketplace
+Decentralized Autonomous Organization (DAO)
+Decentralized Biogas Platform
+Decentralized Energy Grid
+Decentralized Finance (DeFi)
+Decentralized Wastewater Treatment
+Deep Fake Detection Algorithm
+Deep Fake Detection Tool
+Delivery Drone
+Delivery Robot
+Diffuse Optical Tomography (DOT)
+Diffused Aeration Process
+Digital Audio Processor
+Digital Audio Zoom
+Digital Camera System
+Digital Compass
+Digital Construction Platform (DCP)
+Digital Debate Council
+Digital Freight Matching
+Digital Image Zoom
+Digital Memory Laboratory
+Digital Negative (DNG)
+Digital Platform Conductor Tool
+Digital Video Disc (DVD)
+Digital Video Format
+Directed Energy Deposition (DED)
+Disperse Reactive Dye
+Distributed Leak Control System
+DIY Face Mask Maker
+DIY Independent Server
+DNA Data Storage
+DNA Editing
+DNA-coated Halloysite Clay Nanocontainer
+Domed City
+Domestication of Animals
+Double-Entry Bookkeeping
+Downloadable Content (DLC)
+Driverless Public Pod
+Drone Air-flight Zone
+Drone Highway
+Drone Hub
+Drone Monitoring
+Drone Wireless Network
+Dynamic Neural Avatar
+Dynamic Random-Access Memory (DRAM)
+Dynamic Redistributive Tax
+Dynamic Transport Ticket Pricing
+E-Book Reader
+E-Ink Display
+E-Mail Address
+e-Residency
+E-Scooter Sharing System
+E-waste Recycling Kiosk
+Eco-ethical Marker
+Edible Packaging
+Educational Coins
+Educational Token System
+Electric Aircraft Skyport
+Electric Airplane
+Electric Airship
+Electric Bioreactor
+Electric Light
+Electric Powertrain
+Electric Signal
+Electric Smell Stimulation Device
+Electric Water Bicycle
+Electric Wire
+Electrochemical Nano Biosensor
+Electromagnetic Induction
+Electromagnetic Kinetic Energy Harvesting
+Electronic Book
+Electronic Circuit
+Electronic Drug-delivery Pill
+Electronic File
+Electronic Identity
+Electronic Payment
+Electronic Vacuum Tube
+Electrostatic Kinetic Energy Harvesting
+Emergency Citizen Responder
+Emerging Magnetic Data Storage
+Emerging Memory Technologies
+Emissions-control Sticker
+Emoji Keyboard
+Emotion Controlling Implant
+Emotion-based Interactive Storytelling
+Emotion-Triggered Lifelogging
+Endophytic Plant Protection
+Engineered Bacteriophage
+Enhanced Data rates for GSM Evolution (EDGE)
+Enhanced Photosynthesis
+Enhanced Weathering
+Epigenetic Enhancement
+Equitable Dynamic Pricing
+Essential Oil Additivated Packaging
+Eutrophic Bioremediation
+Express Cards
+Extended City Map
+Extreme Ultraviolet Lithography (EUV)
+Eye-Tracker
+Face Unlock
+Facial Recognition System
+Facial Recognition
+Farmscraper
+Fast Charge
+Feminization of Agriculture Policy
+Fertility Tracker
+Fiber-optic Biosensor
+Field Programmable Gate Array (FPGA)
+File Compression
+File Transfer Protocol (FTP)
+Financial Assistant
+Fire-stick Farming
+Flexible Color Display
+Floating Farm Barge
+Floodplain Zoning
+Foldable Prefabricated House
+Food Waste Monitoring Platform
+Forest Gardening
+Forward Osmosis (FO)
+Fully Automated Self-driving Vehicle
+Fully Untraceable Cryptocurrency
+Fungi-grown Material
+Fused Deposition Modeling (FDM)
+Gasoline Carburetor
+Gaze Detection
+General Packet Radio Service (GPRS)
+General Purpose Robot
+Generative Design Software
+Geospatial Data Generation Tool
+Germplasm Bank
+Gesture Recognition
+Gesture Tracking
+Gigabit LTE
+Glass Lens
+Glass Making
+Global Positioning System (GPS)
+Global System for Mobile Communications (GSM)
+Globally Unique Identifier (GUID)
+Gov-Citizen Communication Channel
+GovCloud
+Granny Smith Apple
+Graphene Cytobot
+Graphene Sensor
+Graphical Processing Unit (GPU)
+Graphical User Interface (GUI)
+Green Hydrogen
+Grip Detection
+Gyrometer
+Hands-Free Voice Activation
+Hard Disk Drive (HDD)
+Healthcare Blockchain System
+HEPA Air Purifier
+Herbicide-Tolerance Trait
+High Definition (HD)
+High Dynamic Range (HDR)
+High-Albedo Crop
+High-Efficiency Image Format (HEIF)
+Highly Automated Self-driving Vehicle
+Holographic Body
+Holographic Mask
+Honeypot-based Social Engineering Defense
+Human Memory Digital Storage
+Human Monitoring
+Human-machine Interaction Ethics
+Hydrogen Engine
+Hydrogen Fuel Assembly
+Hygiene Monitoring System
+Hyper-tailored AI Communication
+Hypermedia Distribution Protocol
+Hyperspectral Imaging (HSI) Sensor
+Hyperspectral Imaging (HSI)
+HyperText Markup Language (HTML)
+Hypertext Transfer Protocol (HTTP)
+Hypertext Transfer Protocol Secure (HTTPS)
+Hypoallergenic Plant
+Ice Covering
+Image Burst
+Image Processor
+Image-based Deforestation Tracking
+Immersive Food Education
+Immune Engineering
+Immunity Passport
+Implantable Sensor
+In Silico Farming
+In-Vitro Meat
+Inclusionary Zoning
+Indoor Positioning
+Inductive Transport Charging
+Industrial 3D Printing
+Influence Engineering
+Information Pooling
+Infrasound Haptics
+Ingestible Gastrointestinal Biosensor
+Injectable Implantable Brain
+Injectable Regenerative Gel
+Input Device
+Instant Payment
+Instant Transaction App
+Integrated Autonomous Energy Grid
+Integrated Operations Center
+Integrated Water Management Platform
+Interactive City Kiosk
+Interactive Environment
+Interactive Sidewalk
+Interactive Source-Code Editor
+Internet Protocol (IP)
+Interplanetary Space Travel
+Interstellar Terraforming
+Invisible Traceable Marker
+IoT Crosswalk Network
+IoT Device
+Iron Smelting
+Itinerary School Station
+Jaquard Loom
+Kinaesthetic Communication Device
+Kinetic Energy Harvesting
+Large Capacity ICU Ambulance
+LED Light
+Lens Crafting
+Lens System
+Letter Press
+Light Detection and Ranging (LiDAR)
+Lighter Than Air Vehicles (LTA)
+Liquid Air Energy Storage
+Liquid Fuel
+Liquid Sensor
+Lithium Recycling Process
+Lithium-air Battery
+Lithium-ion Battery
+Live Contract
+Local Delivery Robot
+Local Hub for Autonomous Delivery
+Location-Based Learning
+Long Term Evolution LTE
+Low Earth Orbit (LEO) Satellite
+Low-Carbon Cement
+Low-Impact Tourism Modeling
+Lunar Space Elevator
+Mach Effect Gravity Assist (MEGA Drive)
+Machine Learning Ad-targeting
+Machine Learning Compliance Algorithm
+Machine Learning Data Analytics Tool
+Machine Learning Dermoscopy
+Machine Learning Weather Model
+Machine Reasoning
+Machine Vision Recycling System
+Machine Vision Waste Sorting
+Machine-Readable Legislation
+Machinery as a Service
+Magnetic Colonoscopy Sensor
+Magnetic Identity Card
+Magnetic Storage
+Magnetic Underground Delivery Trail
+Man-In-The-Middle Attack (MITM)
+Massive MIMO
+Mastery-based Learning
+Maximum Likelihood Classification (MLC)
+Mechanical Calculator
+Mechanical Clock
+Medical Nanobot
+Medical Tricorder
+Melanin-like Molecular Code
+Membrane Bioreactor Treatment
+Mesh Education
+Metal Powder Reclaiming System
+Metal-organic Water Harvester
+Metal-Oxide-Semiconductor (MOS)
+Metering Network
+Micro-Democracy
+Micro-learning Platform
+Microbial Degradation
+Microbiome Analytics Platform
+Microbiota Nutrition
+Microelectromechanical System (MEMS)
+Mind Hacking
+Mind Upload
+Mind-Controlled Nanobot
+Mixed Reality (MR)
+Mixed Reality Contact Lenses
+Mobile Broadband Modem
+Mobile Crowdsensing Platform
+Mobile Edge Computing
+Mobile Hygiene Station
+Mobility as a Service (MaaS)
+model stealing
+Modular Nuclear Reactor
+Mood Responsive System
+Multi-diagnosis Blood Sensor
+Multi-Factor Authentication (MFA)
+Multi-Touch LCD Screen
+Multiexperience
+Multimodal Acoustic Trap Display (MATD)
+Multimodal Pay-as-you-go Ticketing
+Multimodal Transportation System
+Multimodal Transportation Ticketing
+Multisensory Hacking
+Multistage Rocket
+Music Player
+Named Data Networking (NDN)
+Nano Biopesticide
+Nano Camouflage
+Nano Coating
+Nano Diamond Battery
+Nano Satellite
+Nano Silica Fertilizer
+Nano Thermal Sensor
+Nano-Hyaluronic Acid
+Nanobioremediation
+Nanoelectromechanical System (NEMS)
+Nanofiber Forest Contaminant Detector
+Nanophotonic Water Desalination
+Nanopore Sequencing
+Nanotagging
+Nanotracking
+Nano‑SIM
+Nasal Air Purifier
+National Firewall
+Natural Amino Acids
+Natural Language Processing (NLP)
+Natural Nootropic
+Nature-Restoring Biobot
+Near-Field Communication (NFC)
+Network-Attached Storage (NAS)
+Neural Engine
+Neural Machine Translation
+Neural Network (NN)
+Neural Processing Unit (NPU)
+Neuromodulation Headset
+Neuromorphic Chip
+Nitrogen Fixing Bacteria
+Nitrogen-fixing Bacteria Coating
+NoCode
+Noise Cancellation Metamaterial
+Noisy Intermediate-Scale Quantum Devices (NISQ)
+Non-aging Mammal
+Non-Fungible Token (NFT)
+Non-Orthogonal Multiple Access (NOMA)
+Novamin
+Nuclear Fusion Reactor
+Nutrient Recovery
+Nutrigenomic Food
+Object Detection
+Off-shore Station
+Oleophobic Coating
+On-Demand Learning
+On-Demand Shuttle Network
+Open Payment API
+Open-Sourced City Platform
+Operating System (OS)
+Optical Waveguide Glass
+Optical Zoom Lens
+Organic Light-Emitting Diode (OLED)
+P2P Delivery
+P2P Sharing Platform
+Panorama Mode
+Paper-based Electrical Gas Sensor
+Partially Assisted Self-driving Vehicle
+Partially Automated Self-driving Vehicle
+Pascal’s Calculator
+Pay-as-you-throw (PAYT)
+Pedestrian Zone
+Peer-to-peer Energy
+Peer-to-Peer File Sharing (P2P)
+Peer-To-Peer Lending
+Personalized Learning
+Photochemical Machining
+Photographic Film
+PhotoPlethysmoGraphy (PPG) Sensor
+Photostable Bamboo Agent
+Physics-Informed Neural Network (PINN)
+Phytoplankton Stimulation
+Piezoelectric Crystal
+Piezoelectric Inkjet
+Piezoelectric Kinetic Energy Harvesting
+Plant Domestication
+Plant Tissue Culture
+Plantscraper
+Plasma-based Water Purification
+Plastic Lens
+Plastic Road
+Platinum-based Alloy Catalyst
+Point of Interest (POI)
+Polymerase Chain Reaction (PCR)
+Polyvinyl Chloride (PVC)
+Porous Pavement
+Portable Air Monitoring Tracker
+Portable Document Format (PDF)
+Portable Factory
+Portable Faraday Zone
+Portrait Mode
+Post-growth Metrics
+Potter’s Wheel
+Power Connector
+Power Delivery (PD)
+Power Loom
+Precious Metals as Currency
+Predictive Conflict Modeling
+Predictive Policing
+Private Set Intersection
+Procedural Geometry
+Prognostic Artificial Intelligence
+Programmable Automata
+Programmable Law Enforcement
+Programmable Matter
+Proof-of-Stake Blockchain
+Propeller Engine
+Punch Card
+Pyrolysis Chemical Recycling
+Qi Wireless
+Quantum Cash
+Quantum Compass
+Quantum Dots (QDs)
+Quantum Machine Learning (QML)
+Quantum Sneakernet
+Quartz Clock
+Quick Reponse Code (QR)
+Radar Imaging
+Radial Steam Turbine
+Radio-Frequency Identification (RFID)
+RadioNavigation-Satellite Service (RNSS)
+Railway Energy Harvesting Sleeper
+Random Access Memory (RAM)
+Rapid Liquid 3D Printing
+Reader Mode
+Real-time CCTV System
+Real-Time Crime Mapping
+Real-Time Diminished Reality
+Real-Time Incident Center-aaS
+Real-Time Location
+Real-Time Mapping
+Really Simple Syndication (RSS)
+Recommendation Algorithm
+Recycling Match Mobile Application
+Red-Green-Blue Light-Emitting Diode (RBG LED)
+Regenerative Agriculture
+Remote Hospital
+Remote Sensing Data
+Resale as a Service (RaaS)
+Resonant Inductive Coupling
+Retinal Projector
+Retinal Scanning
+Retractable Bollard
+Reverse Electrodialysis (RED)
+RNAi Spray
+Robot Caregiver
+Robot Communication Interface
+Robot Pet
+Robotic Arm
+Robotic Police
+Robotic Swarm
+Salt Cultivation
+Satellite Image Processing (SIP)
+Satellite Internet Constellation
+Satellite Quantum Key Distribution
+Screw Pump
+Seaweed Biofertilizer
+Secure IoT Router
+Secure Multi-Party Computation (SMPC)
+Selective Compound Removal
+Selective Laser Sintering (SLS)
+Self-Dissolving Micro-needling Patch
+Self-Driving Store
+Self-Driving Vehicle
+Self-Healing Concrete
+Self-Healing Material
+Self-Healing Polymer
+Self-Healing Soft Robot
+Self-Integrating Applications
+Sensing Hairbrush
+Sensitive ATM
+Sensor-Shift Optical Image Stabilization
+Sensory Extension Device
+Sentiment Detection
+Sequential Learning
+Shared Mobility Policy
+Shipping API
+Short Message Service (SMS)
+Short-Packet Communication
+SigStore
+Silicon-based Energy Storage
+Silicon-based Skin Tightened
+Silk Garments
+Silk Weaving
+Simultaneous Localization and Mapping (SLAM)
+Single e-Payment Platform
+Skin Climbing Robot
+Skin Exposome Map
+Skin Patch Monitoring System
+Skin Patch
+Skincare Companion Device
+Sleep Posture Monitor Router
+Sluice Gate
+Small Modular Reactor (SMR)
+Smart Grid Architectural Model (SGAM)
+Smart Traffic Lights
+Social Program Matching Database
+Social Sentiment Analysis
+Sociometric Badge
+Solar Road
+Solar Roof Tile
+Solid State Drive (SSD)
+Sovereign Cloud
+Sovereign Cryptocurrency
+Spatial Audio
+Spatial Computing
+Spatial Mapping
+Spatial Optimization
+Sponge City
+Sprayable User Interface
+Stacking Concrete Energy Storage
+Status Message
+Steel Aloy
+Steel Spring
+Stem Cell Manufacturing
+Stone Oven
+Store of Value
+Stored-Value Card (SVC)
+Streetlight CO2 Absorbing
+Structured fabrics with tunable mechanical properties
+Sub-orbital Spaceflight
+Subscriber Identification Module (SIM)
+Sulfur Match
+Sun-powered Chemistry
+Superhemophobic Material
+Surface Tension Control Ink
+Swarm 3D-Printing
+Synthetic Apiary Environment
+Synthetic Chromosome
+Synthetic Doppelgänger
+Synthetic Dye
+Synthetic External Womb
+Synthetic Speech Alert Device
+System on a Chip (SOC)
+Tabulating Machine
+Tactile Response Hologram
+Targeted Bisulfite Sequencing
+Temperature Checking Point
+Temperature Swing Solvent Extraction (TSSE)
+Temperature Tracking System
+Thermal Camera
+Time-Division Multiplexing (TDM)
+Trandsducer
+Translating Earbud
+Transmission Control Protocol (TCP)
+Tree-lined Desert Barrier
+Triode Tube
+Triple-Entry Accounting
+Truck Platooning
+Typing Indicator
+Ultra Wide Lens
+Ultra Wideband (UWB)
+Ultra-high RFID Tag
+Unbundled Education
+Under-Display Camera
+Underground Waste Collection
+Underwater Farm
+Unit of Account
+Universal Mobile Telecommunications System (UMTS)
+Universal Physical Camouflage (UPC) Attack
+Universal Serial Bus (USB)
+Universally Unique Identifier (UUID)
+Unsorted Waste Treatment
+Unstructured Supplementary Service Data (USSD)
+Untraceable Browser
+Urban Vehicle Restriction Policy
+User-Defined Data Sharing
+Valvular Conduit
+Video Game Controller
+Virtual Good
+Virtual Product Photos
+Virtual Reality (VR)
+Virtual Surgery
+Virtualized Geometry
+Voice Modulation
+Voice over LTE (VoLTE)
+Voiceless Speech Interface
+Volumetric 3D Printing
+Voting Algorithm
+Voxel Cone Tracing
+VR Classroom
+VR Pay
+Waste as a Currency
+Wastewater Algae Treatment
+Wastewater Analytics Platform
+Wastewater Bioplastic
+Wastewater Cellulose Recycling
+Water Desalination
+Water Filter
+Water Heater
+water-attracting metal-organic devices
+Water-Inflatable Dam
+Waterless Textile Dyeing
+Waterless Toilet
+Wearable UV Sensor
+Weaving Loom
+Whole-Genome Synthesis
+Wireless Cognition
+Wireless Energy Transfer
+Wireless Parking Sensor
+Wireless Power Transfer (WPT)
+Wireless Skin Patch Sensor
+Wireless Soil Sensor
+Wi‑Fi 6
+Wi‑Fi Calling
+Wooden Skyscraper
+World Wide Web (WWW)
+XR Glasses
+XR Mental Care
+Yield Mapping
+Zero Energy Building
+ZIP File

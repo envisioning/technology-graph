@@ -1,0 +1,7 @@
+[[Algorithm]]
+[[Calculator]]
+[[Mathematics]]
+[[Microscope]]
+[[Counting]]
+[[Computer]]
+[[Plastic]]

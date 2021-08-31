@@ -1,0 +1,5 @@
+[[Ethernet]]
+[[Telephone]]
+[[Loudspeaker]]
+[[Magnet]]
+[[Smartphone]]

@@ -1,0 +1,8 @@
+[[Abacus]]
+[[Algorithm]]
+[[Braille]]
+[[Chess]]
+[[Calculus]]
+[[Chemistry]]
+[[Civilization]]
+[[Calculator]]

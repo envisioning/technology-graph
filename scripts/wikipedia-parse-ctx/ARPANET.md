@@ -1,0 +1,4 @@
+[[Bluetooth]]
+[[Internet]]
+[[Telephone]]
+[[Smartphone]]

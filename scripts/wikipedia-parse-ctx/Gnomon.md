@@ -1,0 +1,3 @@
+[[Clock]]
+[[Sundial]]
+[[Astrolabe]]

@@ -1,0 +1,4 @@
+[[Bridge]]
+[[Gyroscope]]
+[[Magnetometer]]
+[[Smartphone]]

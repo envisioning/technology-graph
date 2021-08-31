@@ -1,0 +1,4 @@
+[[Compass]]
+[[Gyroscope]]
+[[Smartphone]]
+[[Accelerometer]]

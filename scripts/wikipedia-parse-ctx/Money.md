@@ -1,0 +1,7 @@
+[[Accounting]]
+[[Civilization]]
+[[Coin]]
+[[Microscope]]
+[[Bread]]
+[[Commerce]]
+[[Banknote]]

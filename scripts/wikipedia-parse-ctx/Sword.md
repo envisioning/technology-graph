@@ -1,0 +1,3 @@
+[[Steel]]
+[[Weapon]]
+[[Stirrup]]

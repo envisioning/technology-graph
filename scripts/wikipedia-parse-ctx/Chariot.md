@@ -1,0 +1,7 @@
+[[Bridge]]
+[[Chess]]
+[[Coin]]
+[[Weapon]]
+[[Wheel]]
+[[Equestrianism]]
+[[Stirrup]]

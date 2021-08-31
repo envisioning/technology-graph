@@ -1,0 +1,3 @@
+[[Catapult]]
+[[Sword]]
+[[Chariot]]
