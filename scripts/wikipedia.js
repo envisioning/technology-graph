@@ -89,6 +89,7 @@ async function parseWikipediaRelations(tech, _files, delay, round) {
                   href = cursor.attribs.href;
                   title = cursor.attribs.title;
                 } else {
+                  //debug
                   console.log("=======================");
                   console.log(cursor);
                   console.log("=======================");
