@@ -1,0 +1,6 @@
+[[Leather]]
+[[Nylon]]
+[[Clothing]]
+[[Sewing]]
+[[Button]]
+[[Velcro]]
