@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "product/Earthship.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4ea67c19dfdb6c34",
+    "id": "247f4e241a10cccb",
     "type": "split",
     "children": [
       {
-        "id": "0e64e7372fd73a8c",
+        "id": "07251280d569d9e3",
         "type": "tabs",
         "children": [
           {
-            "id": "d8bfd93ec592fd2d",
+            "id": "485497fa6f6fda5d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "5044519d1672aa5f",
+            "id": "66ab82aeeac2f450",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "-/\\[\\[",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,47 +52,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313
+    "width": 300
   },
   "right": {
-    "id": "052839ddecc0ef99",
+    "id": "8febdeea59addf2a",
     "type": "split",
     "children": [
       {
-        "id": "3217b1085f78c40d",
+        "id": "c647eb992e4e2026",
         "type": "tabs",
+        "dimension": 55.74817518248175,
         "children": [
           {
-            "id": "e1daaeb71908b9e6",
+            "id": "4ac9ae9cc1658632",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a74200a1130efed",
+        "type": "tabs",
+        "dimension": 44.25182481751825,
+        "children": [
+          {
+            "id": "2bf10efbcb13c04e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product/Earthship.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "9f343160f2b6551f",
+            "id": "a26567407cf97e03",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product/Earthship.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3914c8871dfc2091",
+            "id": "be2aee5a6729a2ec",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,20 +122,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 635
   },
   "active": "c7531b1ad8d3b1bf",
   "lastOpenFiles": [
-    "product/Untitled.md",
     "README.md",
-    "technology/LED Light.md",
-    "technology/Iron Smelting.md",
-    "technology/Galley.md",
-    "technology/Gamification.md",
-    "-/img/Gartner Emerging 2021.png",
-    "technology/Grinder.md",
-    "technology/Hydrogen Fuel Assembly.md",
-    "technology/Hydrogen Fuel Cell.md"
+    "technology/Money.md",
+    "technology/Computer.md",
+    "technology/General Purpose Robot.md",
+    "-/-Methods (tD).md",
+    "-/-Applications (tD).md",
+    "technology/5G Mobile Network.md",
+    "technology/4G Mobile Network.md",
+    "technology/3G Mobile Network.md",
+    "technology/2G Mobile Network.md"
   ]
 }
