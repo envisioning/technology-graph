@@ -1,8 +1,0 @@
-[[Brick]]
-[[Chemistry]]
-[[Civilization]]
-[[Microscope]]
-[[Mining]]
-[[Platinum]]
-[[Silver]]
-[[Metalworking]]

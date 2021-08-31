@@ -1,7 +1,0 @@
-[[Bronze]]
-[[Coin]]
-[[Gold]]
-[[Microscope]]
-[[Mining]]
-[[Platinum]]
-[[Silver]]

@@ -1,0 +1,8 @@
+[[Civilization]]
+[[Food]]
+[[Gunpowder]]
+[[Microscope]]
+[[Steel]]
+[[Shoe]]
+[[Wood]]
+[[Irrigation]]

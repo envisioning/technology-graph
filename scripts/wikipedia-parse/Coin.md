@@ -1,6 +1,0 @@
-[[Bronze]]
-[[Gold]]
-[[Microscope]]
-[[Banknote]]
-[[Silver]]
-[[Money]]

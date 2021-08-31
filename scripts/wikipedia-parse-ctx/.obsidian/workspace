@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "1e0c9396c54b421a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb43163bf2dcedda",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad103c93e68eb2e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "01ca2d3e7679eddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05227dc5fb1592be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6354fea6aa2e8bf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1fd13d03c8d68fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "90efe49f55e1ad69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27dd0297eeeee417",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fb43163bf2dcedda",
+  "lastOpenFiles": [
+    "WiFi.md"
+  ]
+}

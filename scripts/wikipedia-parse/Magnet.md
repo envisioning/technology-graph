@@ -1,6 +1,0 @@
-[[Chemistry]]
-[[Platinum]]
-[[Loudspeaker]]
-[[Electricity]]
-[[Microphone]]
-[[Button]]

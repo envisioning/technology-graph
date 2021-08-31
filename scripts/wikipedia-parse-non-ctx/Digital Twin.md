@@ -1,0 +1,7 @@
+[[Computer simulation]]
+[[STEP-NC]]
+[[Rescale]]
+[[Centre for Digital Built Britain]]
+[[Thing Description]]
+[[Mark Enzer]]
+[[NGSI-LD]]

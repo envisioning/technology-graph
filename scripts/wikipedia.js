@@ -1,9 +1,22 @@
+/*
+* TODO: optmize script by doing paralell assync requests + axios interceptors to 
+* remake 429 and other wikipedia blocked requests until parse everything possible
+*/
+
 const fs = require('fs');
 const axios = require('axios');
 const cheerio = require('cheerio');
+const args = process.argv.slice(2);
 
 const technology_folder = '../technology/';
-const in_ctx = true;
+const in_ctx = (args[0] == '--in-ctx');
+
+let save_folder;
+if(in_ctx) {
+  save_folder = "./wikipedia-parse-ctx/";
+} else {
+  save_folder = "./wikipedia-parse-non-ctx/";
+}
 
 const not_there_list = [];
 const should_repeat_list = [];
@@ -34,18 +47,21 @@ function shouldAddToList(tech, title, href, definer, files, title_log) {
   } 
 }
 
-async function parseWikipediaRelations(tech, _files, delay) {
+async function parseWikipediaRelations(tech, _files, delay, round) {
   let final_url = encodeURI(
     decodeURI(
         wikipedia_search_template(tech)
     )).replace("%25", '%');
   
+  console.log(tech, " - Round:", round, "/", _files.length);
+  if(round == _files.length) delay = true;
+
   if(delay) await new Promise(resolve => setTimeout(resolve, 5000));
 
   return await axios
       .get(final_url)
       .then((res) => {
-        
+        console.log("Parsing Techs from:", tech)
         //all the cool kids love $
         let $ = cheerio.load(res.data);
 
@@ -56,7 +72,7 @@ async function parseWikipediaRelations(tech, _files, delay) {
           let tech_list = '';
           let tech_related_raw = $("#mw-whatlinkshere-list li a");
 
-          let iterations = tech_related_raw.length;
+          let iterations = tech_related_raw.length+1;
           let old_titles = [];
   
           for(var prop in tech_related_raw) {
@@ -65,10 +81,18 @@ async function parseWikipediaRelations(tech, _files, delay) {
             
             //horrible
             if (cursor) {
-              if(cursor.name = "a") {
-                let href = (cursor.attribs.href);
-                let title = (cursor.attribs.title);
-                
+              if(cursor.name == "a") {
+                let href = 'null';
+                let title = 'null';
+
+                if(cursor.attribs) {
+                  href = cursor.attribs.href;
+                  title = cursor.attribs.title;
+                } else {
+                  console.log("=======================");
+                  console.log(cursor);
+                  console.log("=======================");
+                }
                 let definer = 'default';
                 title = title.split(":");
 
@@ -106,20 +130,20 @@ async function parseWikipediaRelations(tech, _files, delay) {
         if (status == 404) {
           console.log("not present, ", tech);
           not_there_list.push(tech);
-          fs.writeFile(`./not-found.txt`, not_there_list, 'utf8', function() {
+          fs.writeFile(`${save_folder}/not-found.txt`, not_there_list.join('\n'), 'utf8', function() {
           }); 
           return false;
         }
 
-        if (status == 0 || status == 429) {
+        if (status == 0 || status == 429 || status != 404) {
           console.log("not able to retrieve,", tech);
-          should_repeat_list.push(tech);
-          fs.writeFile(`./should-repeat.txt`, should_repeat_list, 'utf8', function() {
+          should_repeat_list.push(`${tech} - ${status} - ${error}`);
+          fs.writeFile(`${save_folder}/should-repeat.txt`, should_repeat_list.join('\n'), 'utf8', function() {
           });
           return false;
         }
 
-        return "we dont know";
+        return false;
   })
 }
 
@@ -127,15 +151,15 @@ async function parseWikipediaRelations(tech, _files, delay) {
     try {
         const files = await fs.promises.readdir(technology_folder);
         let iterations = files.length;
-
+        let iterator = 1;
         console.log("Techs in folder: ", iterations);
         
         for( const file of files ) {
           let tech_string = file.replace('.md', '');
           
-          await parseWikipediaRelations(tech_string, files, false).then((result) => {
+          await parseWikipediaRelations(tech_string, files, false, iterator++).then((result) => {
               if(result) {
-                fs.writeFile(`./wikipedia-parse/${tech_string}.md`, result, 'utf8', function() {
+                fs.writeFile(`${save_folder}${tech_string}.md`, result, 'utf8', function() {
                   console.log("Parsed, ", tech_string);
                 });  
               }

@@ -1,4 +1,0 @@
-[[Gold]]
-[[Metallurgy]]
-[[Astronomy]]
-[[Hydraulics]]

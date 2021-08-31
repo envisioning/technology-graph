@@ -1,3 +1,0 @@
-[[Microscope]]
-[[Loudspeaker]]
-[[Microphone]]
