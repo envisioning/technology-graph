@@ -1,0 +1,7 @@
+[[Keyboards]]
+[[Keyboard (disambiguation)]]
+[[History of home keyboards]]
+[[Keybord]]
+[[Key-board]]
+[[Key board]]
+[[Touch keyboard]]

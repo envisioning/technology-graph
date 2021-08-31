@@ -1,0 +1,6 @@
+[[Touchstone (character)]]
+[[Touch stone]]
+[[Touchstone (disambiguation)]]
+[[Touchstone (assaying tool)]]
+[[Touchstones Rochdale]]
+[[Touchstone (metaphor)]]
