@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Content Delivery Network (CDN).md",
+            "file": "technology/Central Bank Digital Currencies (CBDC).md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "35bab5725cde32ee",
+    "id": "a062912b1214b67a",
     "type": "split",
     "children": [
       {
-        "id": "1ff489661c9268d2",
+        "id": "1fe94bd4fdde99ac",
         "type": "tabs",
         "children": [
           {
-            "id": "e87c7bc2c70c7147",
+            "id": "9208ce44616a5b24",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "5d452a64d79b95d0",
+            "id": "68d6cea349f4d202",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "4b1670748be66eee",
+    "id": "7fdd5d43a34b4bd5",
     "type": "split",
     "children": [
       {
-        "id": "e57d2ba8055785cf",
+        "id": "df991e596c807040",
         "type": "tabs",
         "children": [
           {
-            "id": "985bd43332d21ea6",
+            "id": "a776960f3b4df687",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Content Delivery Network (CDN).md",
+                "file": "technology/Central Bank Digital Currencies (CBDC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,19 +80,19 @@
             }
           },
           {
-            "id": "1e5741271d9f4a6a",
+            "id": "dfda5a2ee675e6c5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/Content Delivery Network (CDN).md",
+                "file": "technology/Central Bank Digital Currencies (CBDC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e2724427a0d5434f",
+            "id": "5b9a310f2021f638",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,19 +106,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "c7531b1ad8d3b1bf",
   "lastOpenFiles": [
+    "technology/Central Bank Digital Currencies (CBDC).md",
+    "technology/Code Obfuscation.md",
+    "technology/Source Code.md",
     "technology/Untitled.md",
-    "technology/vpn.md",
-    "-/What is Technology.md",
-    "technology/Equestrianism.md",
-    "technology/Domestication of Animals.md",
-    "technology/Dog Breeding.md",
-    "product/Tesla Series S (2021).md",
-    "product/Apple iPhone 12 Pro (2020).md",
-    "README.md",
-    "technology/3G Mobile Network.md"
+    "technology/InterPlanetary File System (IPFS).md",
+    "technology/Versioning.md",
+    "technology/Git.md",
+    "product/Untitled.md",
+    "technology/Software.md",
+    "technology/Social Credit Score.md"
   ]
 }
