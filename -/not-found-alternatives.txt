@@ -1,0 +1,853 @@
+1G Mobile Network - 1G - /wiki/1G
+2G Mobile Network - 3G - /wiki/3G
+3D Earth Scanning - 3D scanning - /wiki/3D_scanning
+3D Laser Scanner
+3D Printed Architecture - Construction 3D printing - /wiki/Construction_3D_printing
+3D Printed Biological Tissue - 3D bioprinting - /wiki/3D_bioprinting
+3D Printed Food
+3D Printed Vehicle - Construction 3D printing - /wiki/Construction_3D_printing
+3D Slicer Software - 3D Slicer - /wiki/3D_Slicer
+3G Mobile Network - 3G - /wiki/3G
+4D Printing
+4G Mobile Network - 4G - /wiki/4G
+5G Mobile Network - 3G - /wiki/3G
+6G Mobile Network - 6G (network) - /wiki/6G_(network)
+Accelerated Raytracing - GeForce 30 series - /wiki/GeForce_30_series
+Acoustic Aggression Detector - Sound recognition - /wiki/Sound_recognition
+Acoustic Leak Detection - Leak detection - /wiki/Leak_detection
+Active Metadata Management - Metadata management - /wiki/Metadata_management
+Active Monitoring Drone - Drone music - /wiki/Drone_music
+Active RFID Tag - Radio-frequency identification - /wiki/Radio-frequency_identification
+Activity Sensor - Sensor fusion - /wiki/Sensor_fusion
+Adaptable Floating Station - Quake (video game) - /wiki/Quake_(video_game)
+Adaptable Production - Desilu Productions - /wiki/Desilu_Productions
+Advanced Self-healing Software - Ceph (software) - /wiki/Ceph_(software)
+Adversarial Machine Learning
+Aerial Urban Gondola (Gondola Lift) - Gondola lift - /wiki/Gondola_lift
+Aerial Wireless Network - Wireless network - /wiki/Wireless_network
+Agro-waste Biodegradable Coating - Biodegradable polymer - /wiki/Biodegradable_polymer
+AI Bionic Partner - Ai City - /wiki/Ai_City
+AI Chef - Michael White (chef) - /wiki/Michael_White_(chef)
+AI Game Opponent - Artificial intelligence in video games - /wiki/Artificial_intelligence_in_video_games
+AI Health Coach - Boltt - /wiki/Boltt
+AI Lifetime Companion - Ai Weiwei - /wiki/Ai_Weiwei
+AI Mentorship Software - KLE Technological University - /wiki/KLE_Technological_University
+AI Singleton - Singleton (global governance) - /wiki/Singleton_(global_governance)
+AI Therapist - Physical therapy - /wiki/Physical_therapy
+AI Voice Assistant - Google Assistant - /wiki/Google_Assistant
+AI-Augmented Design - Intelligence amplification - /wiki/Intelligence_amplification
+AI-powered Interrogation Software - Government by algorithm - /wiki/Government_by_algorithm
+Air Purification System - Super-Kamiokande - /wiki/Super-Kamiokande
+Air Purifier Tower - Air purifier - /wiki/Air_purifier
+Air Source Heat Pump
+Air-Cleaning Building - Duct (flow) - /wiki/Duct_(flow)
+Albedo Enhancement - Marine cloud brightening - /wiki/Marine_cloud_brightening
+Alcohol Residual Byproduct - Ethanol - /wiki/Ethanol
+Algae Biofuel
+Algae-Based Meal Replacement - Soylent (meal replacement) - /wiki/Soylent_(meal_replacement)
+Algal Photobioreactor - Algae - /wiki/Algae
+Algorithmic Bias Detection Tool - Algorithmic bias - /wiki/Algorithmic_bias
+Ambulance Drone - Passenger drone - /wiki/Passenger_drone
+Analog Telecommunications - Telecommunication - /wiki/Telecommunication
+Animal Domestication
+Anti-Filter Bubble Algorithm - Shadow banning - /wiki/Shadow_banning
+Anti-pollution Moss Culture - Lichen - /wiki/Lichen
+Anti-surveillance Fashion - Computer vision dazzle - /wiki/Computer_vision_dazzle
+Antibacterial Universal Spray - Surfactant - /wiki/Surfactant
+Anticipatory Shipping - Breach of contract - /wiki/Breach_of_contract
+Antimicrobial Bio-peptide Postbiotic - Probiotic - /wiki/Probiotic
+Antimicrobial Peptide
+Antiviral Silver Polymer - Antimicrobial surface - /wiki/Antimicrobial_surface
+Application-Specific Integrated Circuits (ASIC) - Application-specific integrated circuit - /wiki/Application-specific_integrated_circuit
+Aquatic Drone
+AR Fiducial Marker - Augmented reality - /wiki/Augmented_reality
+AR Retail Platform - Degiro - /wiki/Degiro
+AR Workforce Assistance - Army Substance Abuse Program - /wiki/Army_Substance_Abuse_Program
+Artificial Diamond
+Artificial Enzyme Catalyst - Artificial enzyme - /wiki/Artificial_enzyme
+Artificial Organ
+Artificial Seed - Cloud seeding - /wiki/Cloud_seeding
+Artificial Superintelligence
+Artificially Intelligent Governor - Existential risk from artificial general intelligence - /wiki/Existential_risk_from_artificial_general_intelligence
+Asset Tokenization - Non-fungible token - /wiki/Non-fungible_token
+Asteroid Mining
+Atmospheric Water Harvesting - Atmospheric water generator - /wiki/Atmospheric_water_generator
+Atomizer Nozzle
+Attention Awareness - Awareness - /wiki/Awareness
+Attention Token - Brave (web browser) - /wiki/Brave_(web_browser)
+Audio-to-face Modeling - FaceTime - /wiki/FaceTime
+Augmented Reality (AR) - Augmented reality - /wiki/Augmented_reality
+Augmented Reality Surveillance - Augmented reality - /wiki/Augmented_reality
+Auto Correct
+Auto Labeling - Grand Theft Auto - /wiki/Grand_Theft_Auto
+Automated Border Control System
+Automated Compliance - Environmental compliance - /wiki/Environmental_compliance
+Automated Compulsory Labor Audit - Pakistan - /wiki/Pakistan
+Automated Data Theft Detection Tool - Data center security - /wiki/Data_center_security
+Automated Diagnosis Software - Computer-aided diagnosis - /wiki/Computer-aided_diagnosis
+Automated Diagnosis System - Computer-aided diagnosis - /wiki/Computer-aided_diagnosis
+Automated Home Appliance - Fisher & Paykel - /wiki/Fisher_%26_Paykel
+Automated Home Farming - Vertical farming - /wiki/Vertical_farming
+Automated Image Correction - Digital ICE - /wiki/Digital_ICE
+Automated Laundry Care - Washing machine - /wiki/Washing_machine
+Automated Personal Shopper - Virtual assistant - /wiki/Virtual_assistant
+Automated Pharmacy - Pharmacy management system - /wiki/Pharmacy_management_system
+Automated Stem Cell Factory - Somatic cell nuclear transfer - /wiki/Somatic_cell_nuclear_transfer
+Automated Triage Nurse - Triage - /wiki/Triage
+Automated Underground Bike Parking - Bicycle parking - /wiki/Bicycle_parking
+Automated UVC-Sterilization Device - Light meter - /wiki/Light_meter
+Automated Voice Cloning - Automated teller machine - /wiki/Automated_teller_machine
+Automatic Door
+Automatic Essay Scoring - Automated essay scoring - /wiki/Automated_essay_scoring
+Automatic Information Control - Automatic gain control - /wiki/Automatic_gain_control
+Automatic Legislative Tracking - Issue tracking system - /wiki/Issue_tracking_system
+Automatic Litter Analysis - Garbage collection (computer science) - /wiki/Garbage_collection_(computer_science)
+Automatic Self-Cleaning Filter - Automatic Self-Cleansing Filter Syndicate Co Ltd v Cuninghame - /wiki/Automatic_Self-Cleansing_Filter_Syndicate_Co_Ltd_v_Cuninghame
+Automatic Teller Machine (ATM) - Automated teller machine - /wiki/Automated_teller_machine
+Autonomic Self-Healing Polymer - Self-healing material - /wiki/Self-healing_material
+Autonomous Agriculture Vehicle - Agricultural robot - /wiki/Agricultural_robot
+Autonomous Maintenance Software - Software evolution - /wiki/Software_evolution
+Autonomous Parcel Locker - Last mile (transportation) - /wiki/Last_mile_(transportation)
+Autonomous Railway Shuttle - Vehicular automation - /wiki/Vehicular_automation
+Autonomous Street Sweeper - Vacuum cleaner - /wiki/Vacuum_cleaner
+Autonomous Sustainability Monitoring - Environmental technology - /wiki/Environmental_technology
+Autonomous Vehicle Zone - Self-driving car - /wiki/Self-driving_car
+Auxetic Material - Auxetics - /wiki/Auxetics
+Back Breeding
+Backpropagation (BP) - Backpropagation - /wiki/Backpropagation
+Bacterial Bioreactor - Single-use bioreactor - /wiki/Single-use_bioreactor
+Bacterial Diaper - Irritant diaper dermatitis - /wiki/Irritant_diaper_dermatitis
+Bacterial Microplastic Biodegradation - Microplastics - /wiki/Microplastics
+Bacteriophage Therapy
+Bartering Platform - HelpX - /wiki/HelpX
+Base Transceiver Station (BTS) - Base transceiver station - /wiki/Base_transceiver_station
+Behavioral Analytics
+Bike Commuting Tax Incentive - Victoria, British Columbia - /wiki/Victoria,_British_Columbia
+Bimbot - Melodic expectation - /wiki/Melodic_expectation
+Bio-based Street Furniture - FYI (American TV channel) - /wiki/FYI_(American_TV_channel)
+Biodegradable Mushroom Packaging - Ecovative Design - /wiki/Ecovative_Design
+Bioengineered Yeast - THC production by yeast - /wiki/THC_production_by_yeast
+Biofiltration Swale - Water-sensitive urban design - /wiki/Water-sensitive_urban_design
+Biogenic Scrap - Waste-to-energy - /wiki/Waste-to-energy
+Biological Aerated Filter - Trickling filter - /wiki/Trickling_filter
+Biological Odor Control - Odor - /wiki/Odor
+Bioluminescence-powered Lightning - Balance of nature - /wiki/Balance_of_nature
+Biometric Identification
+Bionaphtha
+Biopolymer-based Hydrogel - Hydrogel dressing - /wiki/Hydrogel_dressing
+Biopreciptation
+Biosafety Border Control - Biosafety - /wiki/Biosafety
+Block and Tackle
+Blockchain Asset Tracking - Blockchain - /wiki/Blockchain
+Blockchain Carbon Credit - Blockchain - /wiki/Blockchain
+Blockchain Certificate - Non-fungible token - /wiki/Non-fungible_token
+Blockchain Digital Identification - Digital currency - /wiki/Digital_currency
+Blockchain Epigenetic Signature - Precision medicine - /wiki/Precision_medicine
+Blockchain Notary - Privacy and blockchain - /wiki/Privacy_and_blockchain
+Blockchain Prediction Market - Augur (software) - /wiki/Augur_(software)
+Blockchain Sharing Economy - Sharing economy - /wiki/Sharing_economy
+Blockchain Tracked Education - Cardano (blockchain platform) - /wiki/Cardano_(blockchain_platform)
+Blockchain Work Permit - Proof of work - /wiki/Proof_of_work
+Blockchain-based Carbon Credit - Blockchain - /wiki/Blockchain
+Blockchain-based Chama - Rotating savings and credit association - /wiki/Rotating_savings_and_credit_association
+Blockchain-based IoT System - Cardano (blockchain platform) - /wiki/Cardano_(blockchain_platform)
+Blockchain-based Remittance - Remittance - /wiki/Remittance
+Blue Light Blocker - Glasses - /wiki/Glasses
+Bluetooth Low Energy (BLE) - Bluetooth Low Energy - /wiki/Bluetooth_Low_Energy
+Body-Worn Police Camera - Police body camera - /wiki/Police_body_camera
+Bone Flute
+Borderless Biosafety Regulation
+Brain Digital Reconstruction - Blue Brain Project - /wiki/Blue_Brain_Project
+Brain Mood Map - Convergent thinking - /wiki/Convergent_thinking
+Brain-to-Brain Communication Device - Brain implant - /wiki/Brain_implant
+Brainwave Signature - Brain Electrical Oscillation Signature Profiling - /wiki/Brain_Electrical_Oscillation_Signature_Profiling
+Branded Currency - Currency - /wiki/Currency
+Bronze Forging - Forging - /wiki/Forging
+Building Information Model (BIM) - Building information modeling - /wiki/Building_information_modeling
+Building Information Modeling (BIM) - Building information modeling - /wiki/Building_information_modeling
+Buried Interconnect - PCB Via - /wiki/PCB_Via
+Butterfly Valve
+Cable Transport
+Camera Flash
+Camera Lens
+Candidate Matching - Scale-invariant feature transform - /wiki/Scale-invariant_feature_transform
+Canned Food
+Car-free Highway - Car-Free Days - /wiki/Car-Free_Days
+Carbon Eater Patch - Detritivore - /wiki/Detritivore
+Carbon Upcycling - Upcycling - /wiki/Upcycling
+Card Operating System (COS) - SIM card - /wiki/SIM_card
+Carrier Bag
+Cashless Vending Machine - Cantaloupe, Inc. - /wiki/Cantaloupe,_Inc.
+CDMA EV-DO - CDMA2000 - /wiki/CDMA2000
+Cellulose Nanofiber - Nanocellulose - /wiki/Nanocellulose
+Cellvation - Fortress Biotech - /wiki/Fortress_Biotech
+Central Processing Unit (CPU) - Central processing unit - /wiki/Central_processing_unit
+Centralized Government Bidding - Decentralization - /wiki/Decentralization
+Ceramic Membrane
+Chat UI - One UI - /wiki/One_UI
+Chemostable Microencapsulated Probiotic Bead
+Circadian Polyphenolic Bioactive Modulator
+Circadian Resynchronizer Phytoextract
+Circular Cycle Bridge - Circular economy - /wiki/Circular_economy
+Circular Packaging Platform - Circular economy - /wiki/Circular_economy
+Citizen Legal Support App - WhatsApp - /wiki/WhatsApp
+Citizen-sourced Anticipated Data - Citizen Kane - /wiki/Citizen_Kane
+City Information Modeling - Building information modeling - /wiki/Building_information_modeling
+Civic Engagement App - Civic technology - /wiki/Civic_technology
+Closed-Loop Filtration System - Circulatory system - /wiki/Circulatory_system
+Cloud Education - Alibaba Cloud - /wiki/Alibaba_Cloud
+Cloud Mining
+Cloud-Connected Supply Chain - Back-office software - /wiki/Back-office_software
+Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) - CRISPR - /wiki/CRISPR
+CO2 Absorbing Streetlight - Street Lights (Kanye West song) - /wiki/Street_Lights_(Kanye_West_song)
+CO2 Capture Power Plant - Carbon capture and storage - /wiki/Carbon_capture_and_storage
+CO2 Extractor Array - DNA microarray - /wiki/DNA_microarray
+CO2 Scrubber
+Code-Division Multiple Access (CDMA) - Code-division multiple access - /wiki/Code-division_multiple_access
+Cognitive Twin - Post-chemotherapy cognitive impairment - /wiki/Post-chemotherapy_cognitive_impairment
+Collaborative Culture-Sensitive AI - Artificial intelligence - /wiki/Artificial_intelligence
+Collaborative On-Demand Delivery - Internet Protocol television - /wiki/Internet_Protocol_television
+Collaborative Robot (Cobot) - Cobot - /wiki/Cobot
+Communications Protocol
+Community Chlorine Dispenser - Deep Springs International - /wiki/Deep_Springs_International
+Community Health Platform - LGBT community - /wiki/LGBT_community
+Community Solar Billing - Community solar farm - /wiki/Community_solar_farm
+Community-Scale Composting Tank - Compost - /wiki/Compost
+Composable Network - Composability - /wiki/Composability
+Computable General Equilibrium (CGE) - Computable general equilibrium - /wiki/Computable_general_equilibrium
+Computational Photography
+Computer Bus
+Concentration Gradient
+Configurable Liquid Metal - IBM Z - /wiki/IBM_Z
+Connected Road - Ring road - /wiki/Ring_road
+Connected Traffic Lights - Traffic light - /wiki/Traffic_light
+Consortium Blockchain - Blockchain - /wiki/Blockchain
+Construction Intelligence Cloud Service - Amazon Web Services - /wiki/Amazon_Web_Services
+Context-Aware Behavioral Analytics - Fractal Analytics - /wiki/Fractal_Analytics
+Contour Crafting (CC) - Contour crafting - /wiki/Contour_crafting
+Control of Fire
+ConvNet Gait Recognition System - Andalusia - /wiki/Andalusia
+Cooperative Housing
+Cosmetotextiles - Cosmetotextile - /wiki/Cosmetotextile
+Crop Epigenetics - Somaclonal variation - /wiki/Somaclonal_variation
+Crowdsourced Journalism - Crowdsourcing - /wiki/Crowdsourcing
+Crowdsourced Public Transportation Platform - Crowdsourcing - /wiki/Crowdsourcing
+Cryptocurrency Over The Counter (OTC) - OTC Markets Group - /wiki/OTC_Markets_Group
+Cryptographic Mining - Cryptographic hash function - /wiki/Cryptographic_hash_function
+Crystal Lens Cover - IPad Pro - /wiki/IPad_Pro
+Cultured Protein - Cultured meat - /wiki/Cultured_meat
+Cybernetic Control - Cybernetics - /wiki/Cybernetics
+Cyborg Citizen - Citizen Cyborg - /wiki/Citizen_Cyborg
+Data Backup Embassy - Data embassy - /wiki/Data_embassy
+Data Enclave - Data hub - /wiki/Data_hub
+Data Marketplace - Online marketplace - /wiki/Online_marketplace
+Decentralized Autonomous Organization (DAO) - Decentralized autonomous organization - /wiki/Decentralized_autonomous_organization
+Decentralized Biogas Platform - Sanitation - /wiki/Sanitation
+Decentralized Energy Grid - Distributed generation - /wiki/Distributed_generation
+Decentralized Finance (DeFi) - Decentralized finance - /wiki/Decentralized_finance
+Decentralized Wastewater Treatment - Decentralized wastewater system - /wiki/Decentralized_wastewater_system
+Deep Fake Detection Algorithm - Deepfake - /wiki/Deepfake
+Deep Fake Detection Tool - Deepfake - /wiki/Deepfake
+Delivery Drone
+Delivery Robot
+Diffuse Optical Tomography (DOT) - Optical tomography - /wiki/Optical_tomography
+Diffused Aeration Process - Aeration - /wiki/Aeration
+Digital Audio Processor - Audio signal processing - /wiki/Audio_signal_processing
+Digital Audio Zoom - Digital audio - /wiki/Digital_audio
+Digital Camera System - Digital camera - /wiki/Digital_camera
+Digital Compass
+Digital Construction Platform (DCP) - Construction 3D printing - /wiki/Construction_3D_printing
+Digital Debate Council - Debate chamber - /wiki/Debate_chamber
+Digital Freight Matching - Freight technology - /wiki/Freight_technology
+Digital Image Zoom - Digital zoom - /wiki/Digital_zoom
+Digital Memory Laboratory - Semiconductor memory - /wiki/Semiconductor_memory
+Digital Negative (DNG) - Digital Negative - /wiki/Digital_Negative
+Digital Platform Conductor Tool - Conductor (company) - /wiki/Conductor_(company)
+Digital Video Disc (DVD) - DVD - /wiki/DVD
+Digital Video Format - Video - /wiki/Video
+Directed Energy Deposition (DED) - 3D printing processes - /wiki/3D_printing_processes
+Disperse Reactive Dye - Dyeing - /wiki/Dyeing
+Distributed Leak Control System - Leak detection - /wiki/Leak_detection
+DIY Face Mask Maker - Face masks during the COVID-19 pandemic - /wiki/Face_masks_during_the_COVID-19_pandemic
+DIY Independent Server - Impose (magazine) - /wiki/Impose_(magazine)
+DNA Data Storage
+DNA Editing
+DNA-coated Halloysite Clay Nanocontainer
+Domed City
+Domestication of Animals
+Double-Entry Bookkeeping
+Downloadable Content (DLC) - Downloadable content - /wiki/Downloadable_content
+Driverless Public Pod - Waymo - /wiki/Waymo
+Drone Air-flight Zone - Flight information region - /wiki/Flight_information_region
+Drone Highway - Amazon Prime Air - /wiki/Amazon_Prime_Air
+Drone Hub - OpenDroneMap - /wiki/OpenDroneMap
+Drone Monitoring - Agricultural drone - /wiki/Agricultural_drone
+Drone Wireless Network - Wireless ad hoc network - /wiki/Wireless_ad_hoc_network
+Dynamic Neural Avatar - Artbreeder - /wiki/Artbreeder
+Dynamic Random-Access Memory (DRAM) - Random-access memory - /wiki/Random-access_memory
+Dynamic Redistributive Tax - Carbon tax - /wiki/Carbon_tax
+Dynamic Transport Ticket Pricing - Dynamic pricing - /wiki/Dynamic_pricing
+E-Book Reader
+E-Ink Display - E Ink - /wiki/E_Ink
+E-Mail Address
+e-Residency - E-Residency of Estonia - /wiki/E-Residency_of_Estonia
+E-Scooter Sharing System - Scooter-sharing system - /wiki/Scooter-sharing_system
+E-waste Recycling Kiosk - Waste Management (corporation) - /wiki/Waste_Management_(corporation)
+Eco-ethical Marker - 2013 Dhaka garment factory collapse - /wiki/2013_Dhaka_garment_factory_collapse
+Edible Packaging
+Educational Coins - Coin - /wiki/Coin
+Educational Token System - Token economy - /wiki/Token_economy
+Electric Aircraft Skyport - Vertical Aerospace - /wiki/Vertical_Aerospace
+Electric Airplane
+Electric Airship - R38-class airship - /wiki/R38-class_airship
+Electric Bioreactor - Product inhibition - /wiki/Product_inhibition
+Electric Light
+Electric Powertrain
+Electric Signal - Electric fish - /wiki/Electric_fish
+Electric Smell Stimulation Device - Cattle prod - /wiki/Cattle_prod
+Electric Water Bicycle - Electric bicycle - /wiki/Electric_bicycle
+Electric Wire
+Electrochemical Nano Biosensor - Biosensor - /wiki/Biosensor
+Electromagnetic Induction
+Electromagnetic Kinetic Energy Harvesting - Energy harvesting - /wiki/Energy_harvesting
+Electronic Book
+Electronic Circuit
+Electronic Drug-delivery Pill - Modified-release dosage - /wiki/Modified-release_dosage
+Electronic File
+Electronic Identity - Electronic identification - /wiki/Electronic_identification
+Electronic Payment
+Electronic Vacuum Tube - Vacuum tube - /wiki/Vacuum_tube
+Electrostatic Kinetic Energy Harvesting - Energy harvesting - /wiki/Energy_harvesting
+Emergency Citizen Responder - Emergency medical responder - /wiki/Emergency_medical_responder
+Emerging Magnetic Data Storage - Holographic data storage - /wiki/Holographic_data_storage
+Emerging Memory Technologies - List of emerging technologies - /wiki/List_of_emerging_technologies
+Emissions-control Sticker - Vehicle inspection in the United States - /wiki/Vehicle_inspection_in_the_United_States
+Emoji Keyboard - Emoji - /wiki/Emoji
+Emotion Controlling Implant - Brain implant - /wiki/Brain_implant
+Emotion-based Interactive Storytelling - Interactive storytelling - /wiki/Interactive_storytelling
+Emotion-Triggered Lifelogging - Personal information management - /wiki/Personal_information_management
+Endophytic Plant Protection - Plant use of endophytic fungi in defense - /wiki/Plant_use_of_endophytic_fungi_in_defense
+Engineered Bacteriophage - Bacteriophage MS2 - /wiki/Bacteriophage_MS2
+Enhanced Data rates for GSM Evolution (EDGE) - Enhanced Data rates for GSM Evolution - /wiki/Enhanced_Data_rates_for_GSM_Evolution
+Enhanced Photosynthesis - Evolution of photosynthesis - /wiki/Evolution_of_photosynthesis
+Enhanced Weathering
+Epigenetic Enhancement - Epigenetics - /wiki/Epigenetics
+Equitable Dynamic Pricing - Congestion pricing - /wiki/Congestion_pricing
+Essential Oil Additivated Packaging
+Eutrophic Bioremediation - Lemnoideae - /wiki/Lemnoideae
+Express Cards - American Express - /wiki/American_Express
+Extended City Map - Tube map - /wiki/Tube_map
+Extreme Ultraviolet Lithography (EUV) - Extreme ultraviolet lithography - /wiki/Extreme_ultraviolet_lithography
+Eye-Tracker
+Face Unlock
+Facial Recognition System
+Facial Recognition
+Farmscraper
+Fast Charge - Quick Charge - /wiki/Quick_Charge
+Feminization of Agriculture Policy - Feminization of agriculture - /wiki/Feminization_of_agriculture
+Fertility Tracker - Fertility awareness - /wiki/Fertility_awareness
+Fiber-optic Biosensor - Fiber-optic sensor - /wiki/Fiber-optic_sensor
+Field Programmable Gate Array (FPGA) - Field-programmable gate array - /wiki/Field-programmable_gate_array
+File Compression
+File Transfer Protocol (FTP) - File Transfer Protocol - /wiki/File_Transfer_Protocol
+Financial Assistant - Assistant Secretary of the Treasury for Financial Markets - /wiki/Assistant_Secretary_of_the_Treasury_for_Financial_Markets
+Fire-stick Farming
+Flexible Color Display - Flexible display - /wiki/Flexible_display
+Floating Farm Barge - Floating wind turbine - /wiki/Floating_wind_turbine
+Floodplain Zoning - Earthquake zones of India - /wiki/Earthquake_zones_of_India
+Foldable Prefabricated House - Prefabs in the United Kingdom - /wiki/Prefabs_in_the_United_Kingdom
+Food Waste Monitoring Platform - Food loss and waste - /wiki/Food_loss_and_waste
+Forest Gardening
+Forward Osmosis (FO) - Forward osmosis - /wiki/Forward_osmosis
+Fully Automated Self-driving Vehicle - Self-driving car - /wiki/Self-driving_car
+Fully Untraceable Cryptocurrency - Firo (cryptocurrency) - /wiki/Firo_(cryptocurrency)
+Fungi-grown Material - Fungus - /wiki/Fungus
+Fused Deposition Modeling (FDM) - Fused filament fabrication - /wiki/Fused_filament_fabrication
+Gasoline Carburetor - Carburetor - /wiki/Carburetor
+Gaze Detection - Psychic staring effect - /wiki/Psychic_staring_effect
+General Packet Radio Service (GPRS) - General Packet Radio Service - /wiki/General_Packet_Radio_Service
+General Purpose Robot - Robot - /wiki/Robot
+Generative Design Software - Generative design - /wiki/Generative_design
+Geospatial Data Generation Tool - Metadata - /wiki/Metadata
+Germplasm Bank
+Gesture Recognition
+Gesture Tracking - Gesture recognition - /wiki/Gesture_recognition
+Gigabit LTE - LTE Advanced - /wiki/LTE_Advanced
+Glass Lens - Lens - /wiki/Lens
+Glass Making
+Global Positioning System (GPS) - Global Positioning System - /wiki/Global_Positioning_System
+Global System for Mobile Communications (GSM) - GSM - /wiki/GSM
+Globally Unique Identifier (GUID) - Universally unique identifier - /wiki/Universally_unique_identifier
+Gov-Citizen Communication Channel - Citizens band radio - /wiki/Citizens_band_radio
+GovCloud - Amazon Neptune - /wiki/Amazon_Neptune
+Granny Smith Apple
+Graphene Cytobot - Potential applications of graphene - /wiki/Potential_applications_of_graphene
+Graphene Sensor - Potential applications of graphene - /wiki/Potential_applications_of_graphene
+Graphical Processing Unit (GPU) - Graphics processing unit - /wiki/Graphics_processing_unit
+Graphical User Interface (GUI) - Graphical user interface - /wiki/Graphical_user_interface
+Green Hydrogen
+Grip Detection - Rootkit - /wiki/Rootkit
+Gyrometer
+Hands-Free Voice Activation - BMW X5 (G05) - /wiki/BMW_X5_(G05)
+Hard Disk Drive (HDD) - Hybrid drive - /wiki/Hybrid_drive
+Healthcare Blockchain System - Blockchain - /wiki/Blockchain
+HEPA Air Purifier - HEPA - /wiki/HEPA
+Herbicide-Tolerance Trait - Agricultural biotechnology - /wiki/Agricultural_biotechnology
+High Definition (HD) - High-definition television - /wiki/High-definition_television
+High Dynamic Range (HDR) - High dynamic range - /wiki/High_dynamic_range
+High-Albedo Crop - Solar geoengineering - /wiki/Solar_geoengineering
+High-Efficiency Image Format (HEIF) - High Efficiency Image File Format - /wiki/High_Efficiency_Image_File_Format
+Highly Automated Self-driving Vehicle - Self-driving car - /wiki/Self-driving_car
+Holographic Body - Garnet (Steven Universe) - /wiki/Garnet_(Steven_Universe)
+Holographic Mask - Holography - /wiki/Holography
+Honeypot-based Social Engineering Defense - Network security - /wiki/Network_security
+Human Memory Digital Storage - Computer data storage - /wiki/Computer_data_storage
+Human Monitoring - Monitoring - /wiki/Monitoring
+Human-machine Interaction Ethics - Machine ethics - /wiki/Machine_ethics
+Hydrogen Engine - Hydrogen internal combustion engine vehicle - /wiki/Hydrogen_internal_combustion_engine_vehicle
+Hydrogen Fuel Assembly - Fuel cell - /wiki/Fuel_cell
+Hygiene Monitoring System - Gojo Industries - /wiki/Gojo_Industries
+Hyper-tailored AI Communication - Apple Inc. - /wiki/Apple_Inc.
+Hypermedia Distribution Protocol - Peer-to-peer - /wiki/Peer-to-peer
+Hyperspectral Imaging (HSI) Sensor - Hyperspectral imaging - /wiki/Hyperspectral_imaging
+Hyperspectral Imaging (HSI) - Hyperspectral imaging - /wiki/Hyperspectral_imaging
+HyperText Markup Language (HTML)
+Hypertext Transfer Protocol (HTTP) - Hypertext Transfer Protocol - /wiki/Hypertext_Transfer_Protocol
+Hypertext Transfer Protocol Secure (HTTPS) - HTTPS - /wiki/HTTPS
+Hypoallergenic Plant - Bengal cat - /wiki/Bengal_cat
+Ice Covering - Greenland ice sheet - /wiki/Greenland_ice_sheet
+Image Burst - Burst mode (photography) - /wiki/Burst_mode_(photography)
+Image Processor
+Image-based Deforestation Tracking - Deforestation - /wiki/Deforestation
+Immersive Food Education - Cooking - /wiki/Cooking
+Immune Engineering - Immunity (medical) - /wiki/Immunity_(medical)
+Immunity Passport
+Implantable Sensor - Implantable myoelectric sensors - /wiki/Implantable_myoelectric_sensors
+In Silico Farming - In situ - /wiki/In_situ
+In-Vitro Meat
+Inclusionary Zoning
+Indoor Positioning
+Inductive Transport Charging - Inductive charging - /wiki/Inductive_charging
+Industrial 3D Printing - 3D printing - /wiki/3D_printing
+Influence Engineering - Engineering - /wiki/Engineering
+Information Pooling - Convolutional neural network - /wiki/Convolutional_neural_network
+Infrasound Haptics - List of emerging technologies - /wiki/List_of_emerging_technologies
+Ingestible Gastrointestinal Biosensor - Auto-brewery syndrome - /wiki/Auto-brewery_syndrome
+Injectable Implantable Brain - Microchip implant (human) - /wiki/Microchip_implant_(human)
+Injectable Regenerative Gel - Gel - /wiki/Gel
+Input Device
+Instant Payment
+Instant Transaction App - Instant messaging - /wiki/Instant_messaging
+Integrated Autonomous Energy Grid - Distributed generation - /wiki/Distributed_generation
+Integrated Operations Center - Integrated operations - /wiki/Integrated_operations
+Integrated Water Management Platform - Integrated farming - /wiki/Integrated_farming
+Interactive City Kiosk - Interactive kiosk - /wiki/Interactive_kiosk
+Interactive Environment - Integrated development environment - /wiki/Integrated_development_environment
+Interactive Sidewalk - Sidewalk chalk - /wiki/Sidewalk_chalk
+Interactive Source-Code Editor - Snippet (programming) - /wiki/Snippet_(programming)
+Internet Protocol (IP) - Internet Protocol - /wiki/Internet_Protocol
+Interplanetary Space Travel
+Interstellar Terraforming - The Future of Humanity - /wiki/The_Future_of_Humanity
+Invisible Traceable Marker - List of American television programs - /wiki/List_of_American_television_programs
+IoT Crosswalk Network - Insurance - /wiki/Insurance
+IoT Device - Internet of things - /wiki/Internet_of_things
+Iron Smelting
+Itinerary School Station - Naval Air Station North Island - /wiki/Naval_Air_Station_North_Island
+Jaquard Loom
+Kinaesthetic Communication Device - Haptic technology - /wiki/Haptic_technology
+Kinetic Energy Harvesting - Energy harvesting - /wiki/Energy_harvesting
+Large Capacity ICU Ambulance - Hospital ship - /wiki/Hospital_ship
+LED Light
+Lens Crafting - LensCrafters - /wiki/LensCrafters
+Lens System - Mirrorless camera - /wiki/Mirrorless_camera
+Letter Press - Printing press - /wiki/Printing_press
+Light Detection and Ranging (LiDAR) - Lidar - /wiki/Lidar
+Lighter Than Air Vehicles (LTA) - Hybrid Air Vehicles - /wiki/Hybrid_Air_Vehicles
+Liquid Air Energy Storage
+Liquid Fuel
+Liquid Sensor - Sensor - /wiki/Sensor
+Lithium Recycling Process - Battery recycling - /wiki/Battery_recycling
+Lithium-air Battery
+Lithium-ion Battery
+Live Contract - Social contract - /wiki/Social_contract
+Local Delivery Robot - Delivery drone - /wiki/Delivery_drone
+Local Hub for Autonomous Delivery - Package delivery - /wiki/Package_delivery
+Location-Based Learning - Location-based game - /wiki/Location-based_game
+Long Term Evolution LTE - LTE (telecommunication) - /wiki/LTE_(telecommunication)
+Low Earth Orbit (LEO) Satellite - Low Earth orbit - /wiki/Low_Earth_orbit
+Low-Carbon Cement - Limestone Calcined Clay Cement - /wiki/Limestone_Calcined_Clay_Cement
+Low-Impact Tourism Modeling - Impacts of tourism - /wiki/Impacts_of_tourism
+Lunar Space Elevator
+Mach Effect Gravity Assist (MEGA Drive) - List of Mega Man characters - /wiki/List_of_Mega_Man_characters
+Machine Learning Ad-targeting - List of datasets for machine-learning research - /wiki/List_of_datasets_for_machine-learning_research
+Machine Learning Compliance Algorithm - Government by algorithm - /wiki/Government_by_algorithm
+Machine Learning Data Analytics Tool - Machine learning - /wiki/Machine_learning
+Machine Learning Dermoscopy - List of datasets for machine-learning research - /wiki/List_of_datasets_for_machine-learning_research
+Machine Learning Weather Model - Federated learning - /wiki/Federated_learning
+Machine Reasoning
+Machine Vision Recycling System - Recycling - /wiki/Recycling
+Machine Vision Waste Sorting - Recycling - /wiki/Recycling
+Machine-Readable Legislation - Machine-readable passport - /wiki/Machine-readable_passport
+Machinery as a Service - Machinery Directive - /wiki/Machinery_Directive
+Magnetic Colonoscopy Sensor - Colonoscopy - /wiki/Colonoscopy
+Magnetic Identity Card - Magnetic stripe card - /wiki/Magnetic_stripe_card
+Magnetic Storage
+Magnetic Underground Delivery Trail - Operation Fishbowl - /wiki/Operation_Fishbowl
+Man-In-The-Middle Attack (MITM) - Man-in-the-middle attack - /wiki/Man-in-the-middle_attack
+Massive MIMO - MIMO - /wiki/MIMO
+Mastery-based Learning - Mastery learning - /wiki/Mastery_learning
+Maximum Likelihood Classification (MLC) - Land cover mapping - /wiki/Land_cover_mapping
+Mechanical Calculator
+Mechanical Clock
+Medical Nanobot - Nanorobotics - /wiki/Nanorobotics
+Medical Tricorder
+Melanin-like Molecular Code - Dopamine - /wiki/Dopamine
+Membrane Bioreactor Treatment - Membrane bioreactor - /wiki/Membrane_bioreactor
+Mesh Education - Medical Subject Headings - /wiki/Medical_Subject_Headings
+Metal Powder Reclaiming System - Bulk material handling - /wiki/Bulk_material_handling
+Metal-organic Water Harvester - Fog desert - /wiki/Fog_desert
+Metal-Oxide-Semiconductor (MOS) - MOSFET - /wiki/MOSFET
+Metering Network - Smart meter - /wiki/Smart_meter
+Micro-Democracy - Microstate - /wiki/Microstate
+Micro-learning Platform - Coursmos - /wiki/Coursmos
+Microbial Degradation - Natural rubber - /wiki/Natural_rubber
+Microbiome Analytics Platform - Human microbiome - /wiki/Human_microbiome
+Microbiota Nutrition - Gut microbiota - /wiki/Gut_microbiota
+Microelectromechanical System (MEMS) - Microelectromechanical systems - /wiki/Microelectromechanical_systems
+Mind Hacking - Mind Hacks - /wiki/Mind_Hacks
+Mind Upload
+Mind-Controlled Nanobot - Nanobots (album) - /wiki/Nanobots_(album)
+Mixed Reality (MR) - Mixed reality - /wiki/Mixed_reality
+Mixed Reality Contact Lenses - Augmented reality - /wiki/Augmented_reality
+Mobile Broadband Modem
+Mobile Crowdsensing Platform - Internet of things - /wiki/Internet_of_things
+Mobile Edge Computing
+Mobile Hygiene Station - Occupational hygiene - /wiki/Occupational_hygiene
+Mobility as a Service (MaaS) - Mobility as a service - /wiki/Mobility_as_a_service
+model stealing - Adversarial machine learning - /wiki/Adversarial_machine_learning
+Modular Nuclear Reactor
+Mood Responsive System - Bipolar disorder - /wiki/Bipolar_disorder
+Multi-diagnosis Blood Sensor - Pulse oximetry - /wiki/Pulse_oximetry
+Multi-Factor Authentication (MFA) - Multi-factor authentication - /wiki/Multi-factor_authentication
+Multi-Touch LCD Screen - Multi-touch - /wiki/Multi-touch
+Multiexperience - Customer experience - /wiki/Customer_experience
+Multimodal Acoustic Trap Display (MATD) - List of datasets for machine-learning research - /wiki/List_of_datasets_for_machine-learning_research
+Multimodal Pay-as-you-go Ticketing - MIFARE - /wiki/MIFARE
+Multimodal Transportation System - Intelligent transportation system - /wiki/Intelligent_transportation_system
+Multimodal Transportation Ticketing - Intelligent transportation system - /wiki/Intelligent_transportation_system
+Multisensory Hacking - Mental image - /wiki/Mental_image
+Multistage Rocket
+Music Player
+Named Data Networking (NDN) - Named data networking - /wiki/Named_data_networking
+Nano Biopesticide - Propadu Konair Tarahubun - /wiki/Propadu_Konair_Tarahubun
+Nano Camouflage - Vantablack - /wiki/Vantablack
+Nano Coating - Superhydrophobic coating - /wiki/Superhydrophobic_coating
+Nano Diamond Battery - Atomic battery - /wiki/Atomic_battery
+Nano Satellite - Small satellite - /wiki/Small_satellite
+Nano Silica Fertilizer - Potash - /wiki/Potash
+Nano Thermal Sensor - List of sensors - /wiki/List_of_sensors
+Nano-Hyaluronic Acid - Biodegradable polymer - /wiki/Biodegradable_polymer
+Nanobioremediation
+Nanoelectromechanical System (NEMS) - Nanoelectromechanical systems - /wiki/Nanoelectromechanical_systems
+Nanofiber Forest Contaminant Detector - Potential applications of carbon nanotubes - /wiki/Potential_applications_of_carbon_nanotubes
+Nanophotonic Water Desalination - Qilin Li - /wiki/Qilin_Li
+Nanopore Sequencing
+Nanotagging
+Nanotracking - Magnetic skyrmion - /wiki/Magnetic_skyrmion
+Nano‑SIM - SIM card - /wiki/SIM_card
+Nasal Air Purifier - Sniffle - /wiki/Sniffle
+National Firewall - Great Firewall - /wiki/Great_Firewall
+Natural Amino Acids - Essential amino acid - /wiki/Essential_amino_acid
+Natural Language Processing (NLP) - Natural language processing - /wiki/Natural_language_processing
+Natural Nootropic - Nootropic - /wiki/Nootropic
+Nature-Restoring Biobot
+Near-Field Communication (NFC) - Near-field communication - /wiki/Near-field_communication
+Network-Attached Storage (NAS)
+Neural Engine - Apple A11 - /wiki/Apple_A11
+Neural Machine Translation
+Neural Network (NN) - Neural network - /wiki/Neural_network
+Neural Processing Unit (NPU) - Processor (computing) - /wiki/Processor_(computing)
+Neuromodulation Headset - Electroanalgesia - /wiki/Electroanalgesia
+Neuromorphic Chip
+Nitrogen Fixing Bacteria
+Nitrogen-fixing Bacteria Coating - Peanut - /wiki/Peanut
+NoCode
+Noise Cancellation Metamaterial - Stealth technology - /wiki/Stealth_technology
+Noisy Intermediate-Scale Quantum Devices (NISQ) - Noisy intermediate-scale quantum era - /wiki/Noisy_intermediate-scale_quantum_era
+Non-aging Mammal - Mammal - /wiki/Mammal
+Non-Fungible Token (NFT) - Non-fungible token - /wiki/Non-fungible_token
+Non-Orthogonal Multiple Access (NOMA) - 5G - /wiki/5G
+Novamin
+Nuclear Fusion Reactor
+Nutrient Recovery - Resource recovery - /wiki/Resource_recovery
+Nutrigenomic Food - Food science - /wiki/Food_science
+Object Detection
+Off-shore Station - South Shore Line - /wiki/South_Shore_Line
+Oleophobic Coating - Lipophobicity - /wiki/Lipophobicity
+On-Demand Learning
+On-Demand Shuttle Network - Demand-responsive transport - /wiki/Demand-responsive_transport
+Open Payment API - Payment Services Directive - /wiki/Payment_Services_Directive
+Open-Sourced City Platform - Free and open-source software - /wiki/Free_and_open-source_software
+Operating System (OS) - Operating system - /wiki/Operating_system
+Optical Waveguide Glass - Waveguide (optics) - /wiki/Waveguide_(optics)
+Optical Zoom Lens - Zoom lens - /wiki/Zoom_lens
+Organic Light-Emitting Diode (OLED) - OLED - /wiki/OLED
+P2P Delivery - Peer-to-peer - /wiki/Peer-to-peer
+P2P Sharing Platform - Peer-to-peer file sharing - /wiki/Peer-to-peer_file_sharing
+Panorama Mode - Mavic (UAV) - /wiki/Mavic_(UAV)
+Paper-based Electrical Gas Sensor - Gas detector - /wiki/Gas_detector
+Partially Assisted Self-driving Vehicle - Self-driving car - /wiki/Self-driving_car
+Partially Automated Self-driving Vehicle - Self-driving car - /wiki/Self-driving_car
+Pascal’s Calculator
+Pay-as-you-throw (PAYT) - Pay as you throw - /wiki/Pay_as_you_throw
+Pedestrian Zone
+Peer-to-peer Energy - Peer-to-peer - /wiki/Peer-to-peer
+Peer-to-Peer File Sharing (P2P) - Peer-to-peer - /wiki/Peer-to-peer
+Peer-To-Peer Lending
+Personalized Learning
+Photochemical Machining
+Photographic Film
+PhotoPlethysmoGraphy (PPG) Sensor - Photoplethysmogram - /wiki/Photoplethysmogram
+Photostable Bamboo Agent
+Physics-Informed Neural Network (PINN) - Physics-informed neural networks - /wiki/Physics-informed_neural_networks
+Phytoplankton Stimulation - Plankton - /wiki/Plankton
+Piezoelectric Crystal
+Piezoelectric Inkjet - Piezoelectricity - /wiki/Piezoelectricity
+Piezoelectric Kinetic Energy Harvesting - Piezoelectricity - /wiki/Piezoelectricity
+Plant Domestication
+Plant Tissue Culture
+Plantscraper
+Plasma-based Water Purification - Synthesis of carbon nanotubes - /wiki/Synthesis_of_carbon_nanotubes
+Plastic Lens - Lens - /wiki/Lens
+Plastic Road
+Platinum-based Alloy Catalyst - Platinum - /wiki/Platinum
+Point of Interest (POI) - Point of interest - /wiki/Point_of_interest
+Polymerase Chain Reaction (PCR) - Polymerase chain reaction - /wiki/Polymerase_chain_reaction
+Polyvinyl Chloride (PVC) - Vinyl chloride - /wiki/Vinyl_chloride
+Porous Pavement
+Portable Air Monitoring Tracker - Environmental monitoring - /wiki/Environmental_monitoring
+Portable Document Format (PDF) - PDF - /wiki/PDF
+Portable Factory - List of PlayStation Portable games - /wiki/List_of_PlayStation_Portable_games
+Portable Faraday Zone - Magnetometer - /wiki/Magnetometer
+Portrait Mode
+Post-growth Metrics - Post-growth - /wiki/Post-growth
+Potter’s Wheel
+Power Connector
+Power Delivery (PD) - USB hardware - /wiki/USB_hardware
+Power Loom
+Precious Metals as Currency - Precious metal - /wiki/Precious_metal
+Predictive Conflict Modeling - Conflict management - /wiki/Conflict_management
+Predictive Policing
+Private Set Intersection
+Procedural Geometry - Constructive solid geometry - /wiki/Constructive_solid_geometry
+Prognostic Artificial Intelligence - Prognostics - /wiki/Prognostics
+Programmable Automata - Automata-based programming - /wiki/Automata-based_programming
+Programmable Law Enforcement - Law enforcement agency - /wiki/Law_enforcement_agency
+Programmable Matter
+Proof-of-Stake Blockchain - Proof of stake - /wiki/Proof_of_stake
+Propeller Engine
+Punch Card
+Pyrolysis Chemical Recycling - Plastic recycling - /wiki/Plastic_recycling
+Qi Wireless - Qi (standard) - /wiki/Qi_(standard)
+Quantum Cash - Spin quantum number - /wiki/Spin_quantum_number
+Quantum Compass
+Quantum Dots (QDs) - Quantum dot - /wiki/Quantum_dot
+Quantum Machine Learning (QML) - Cambridge Quantum Computing - /wiki/Cambridge_Quantum_Computing
+Quantum Sneakernet - Timeline of quantum computing and communication - /wiki/Timeline_of_quantum_computing_and_communication
+Quartz Clock
+Quick Reponse Code (QR) - QR code - /wiki/QR_code
+Radar Imaging
+Radial Steam Turbine - Radial turbine - /wiki/Radial_turbine
+Radio-Frequency Identification (RFID) - Radio-frequency identification - /wiki/Radio-frequency_identification
+RadioNavigation-Satellite Service (RNSS) - Radionavigation-satellite service - /wiki/Radionavigation-satellite_service
+Railway Energy Harvesting Sleeper - Indian Railways - /wiki/Indian_Railways
+Random Access Memory (RAM) - Random-access memory - /wiki/Random-access_memory
+Rapid Liquid 3D Printing - 3D printing processes - /wiki/3D_printing_processes
+Reader Mode - Mode of production - /wiki/Mode_of_production
+Real-time CCTV System - Real Time Streaming Protocol - /wiki/Real_Time_Streaming_Protocol
+Real-Time Crime Mapping - Real Time Crime Center - /wiki/Real_Time_Crime_Center
+Real-Time Diminished Reality - Reality television - /wiki/Reality_television
+Real-Time Incident Center-aaS - Anuel AA - /wiki/Anuel_AA
+Real-Time Location - Real-time locating system - /wiki/Real-time_locating_system
+Real-Time Mapping - Texture mapping - /wiki/Texture_mapping
+Really Simple Syndication (RSS) - RSS - /wiki/RSS
+Recommendation Algorithm
+Recycling Match Mobile Application - Mobile phone - /wiki/Mobile_phone
+Red-Green-Blue Light-Emitting Diode (RBG LED) - Subpixel rendering - /wiki/Subpixel_rendering
+Regenerative Agriculture
+Remote Hospital - Remote surgery - /wiki/Remote_surgery
+Remote Sensing Data - Remote sensing - /wiki/Remote_sensing
+Resale as a Service (RaaS) - Israel Fire and Rescue Services - /wiki/Israel_Fire_and_Rescue_Services
+Resonant Inductive Coupling
+Retinal Projector
+Retinal Scanning - Retinal scan - /wiki/Retinal_scan
+Retractable Bollard - Bollard - /wiki/Bollard
+Reverse Electrodialysis (RED) - Reversed electrodialysis - /wiki/Reversed_electrodialysis
+RNAi Spray - RNA interference - /wiki/RNA_interference
+Robot Caregiver - Companion robot - /wiki/Companion_robot
+Robot Communication Interface - Brain–computer interface - /wiki/Brain%E2%80%93computer_interface
+Robot Pet - Robotic pet - /wiki/Robotic_pet
+Robotic Arm
+Robotic Police - Robotics - /wiki/Robotics
+Robotic Swarm
+Salt Cultivation - Salt (chemistry) - /wiki/Salt_(chemistry)
+Satellite Image Processing (SIP) - Satellite - /wiki/Satellite
+Satellite Internet Constellation
+Satellite Quantum Key Distribution - Quantum key distribution - /wiki/Quantum_key_distribution
+Screw Pump
+Seaweed Biofertilizer - Biofertilizer - /wiki/Biofertilizer
+Secure IoT Router - Internet of things - /wiki/Internet_of_things
+Secure Multi-Party Computation (SMPC)
+Selective Compound Removal - Silyl ether - /wiki/Silyl_ether
+Selective Laser Sintering (SLS) - Selective laser sintering - /wiki/Selective_laser_sintering
+Self-Dissolving Micro-needling Patch - Injection (medicine) - /wiki/Injection_(medicine)
+Self-Driving Store - Self-driving car - /wiki/Self-driving_car
+Self-Driving Vehicle
+Self-Healing Concrete - Self-healing material - /wiki/Self-healing_material
+Self-Healing Material
+Self-Healing Polymer - Self-healing material - /wiki/Self-healing_material
+Self-Healing Soft Robot - Soft robotics - /wiki/Soft_robotics
+Self-Integrating Applications - Continuous integration - /wiki/Continuous_integration
+Sensing Hairbrush - Barbie: The Princess & the Popstar - /wiki/Barbie:_The_Princess_%26_the_Popstar
+Sensitive ATM - Automated teller machine - /wiki/Automated_teller_machine
+Sensor-Shift Optical Image Stabilization - Image stabilization - /wiki/Image_stabilization
+Sensory Extension Device - Responsive web design - /wiki/Responsive_web_design
+Sentiment Detection - Sentiment analysis - /wiki/Sentiment_analysis
+Sequential Learning - Catastrophic interference - /wiki/Catastrophic_interference
+Shared Mobility Policy - Shared transport - /wiki/Shared_transport
+Shipping API - API - /wiki/API
+Short Message Service (SMS) - SMS - /wiki/SMS
+Short-Packet Communication - Connection-oriented communication - /wiki/Connection-oriented_communication
+SigStore - SIG Sauer SIG516 - /wiki/SIG_Sauer_SIG516
+Silicon-based Energy Storage - Energy storage - /wiki/Energy_storage
+Silicon-based Skin Tightened - Buddhas of Bamiyan - /wiki/Buddhas_of_Bamiyan
+Silk Garments - Sari - /wiki/Sari
+Silk Weaving
+Simultaneous Localization and Mapping (SLAM) - Simultaneous localization and mapping - /wiki/Simultaneous_localization_and_mapping
+Single e-Payment Platform - Paytm - /wiki/Paytm
+Skin Climbing Robot - Robotics - /wiki/Robotics
+Skin Exposome Map - Race and genetics - /wiki/Race_and_genetics
+Skin Patch Monitoring System - Cardiac monitoring - /wiki/Cardiac_monitoring
+Skin Patch
+Skincare Companion Device - Mahalia Jackson - /wiki/Mahalia_Jackson
+Sleep Posture Monitor Router - Nasal congestion - /wiki/Nasal_congestion
+Sluice Gate
+Small Modular Reactor (SMR) - Small modular reactor - /wiki/Small_modular_reactor
+Smart Grid Architectural Model (SGAM) - Smart grid - /wiki/Smart_grid
+Smart Traffic Lights - Smart traffic light - /wiki/Smart_traffic_light
+Social Program Matching Database - Wolfram Language - /wiki/Wolfram_Language
+Social Sentiment Analysis - Sentiment analysis - /wiki/Sentiment_analysis
+Sociometric Badge - Humanyze - /wiki/Humanyze
+Solar Road
+Solar Roof Tile - Roof tiles - /wiki/Roof_tiles
+Solid State Drive (SSD) - Solid-state drive - /wiki/Solid-state_drive
+Sovereign Cloud - Cloud computing - /wiki/Cloud_computing
+Sovereign Cryptocurrency - Cryptocurrency wallet - /wiki/Cryptocurrency_wallet
+Spatial Audio
+Spatial Computing
+Spatial Mapping - Projection mapping - /wiki/Projection_mapping
+Spatial Optimization - Spatial database - /wiki/Spatial_database
+Sponge City
+Sprayable User Interface - YouTube - /wiki/YouTube
+Stacking Concrete Energy Storage - Energy Vault - /wiki/Energy_Vault
+Status Message
+Steel Aloy - Steel blue - /wiki/Steel_blue
+Steel Spring - Spring steel - /wiki/Spring_steel
+Stem Cell Manufacturing - Embryonic stem cell - /wiki/Embryonic_stem_cell
+Stone Oven
+Store of Value
+Stored-Value Card (SVC) - Stored-value card - /wiki/Stored-value_card
+Streetlight CO2 Absorbing - Street Lights (Kanye West song) - /wiki/Street_Lights_(Kanye_West_song)
+Structured fabrics with tunable mechanical properties - Composite material - /wiki/Composite_material
+Sub-orbital Spaceflight
+Subscriber Identification Module (SIM) - SIM card - /wiki/SIM_card
+Sulfur Match - Match - /wiki/Match
+Sun-powered Chemistry - Solar energy - /wiki/Solar_energy
+Superhemophobic Material - Chemical finishing of textiles - /wiki/Chemical_finishing_of_textiles
+Surface Tension Control Ink - Paper and ink testing - /wiki/Paper_and_ink_testing
+Swarm 3D-Printing
+Synthetic Apiary Environment - Neri Oxman - /wiki/Neri_Oxman
+Synthetic Chromosome
+Synthetic Doppelgänger - Duke (G.I. Joe) - /wiki/Duke_(G.I._Joe)
+Synthetic Dye
+Synthetic External Womb - Artificial womb - /wiki/Artificial_womb
+Synthetic Speech Alert Device - Augmentative and alternative communication - /wiki/Augmentative_and_alternative_communication
+System on a Chip (SOC) - System on a chip - /wiki/System_on_a_chip
+Tabulating Machine
+Tactile Response Hologram - Haptic technology - /wiki/Haptic_technology
+Targeted Bisulfite Sequencing - Bisulfite sequencing - /wiki/Bisulfite_sequencing
+Temperature Checking Point - Infrared thermometer - /wiki/Infrared_thermometer
+Temperature Swing Solvent Extraction (TSSE) - Desalination - /wiki/Desalination
+Temperature Tracking System - Vehicle tracking system - /wiki/Vehicle_tracking_system
+Thermal Camera
+Time-Division Multiplexing (TDM) - Time-division multiplexing - /wiki/Time-division_multiplexing
+Trandsducer - Biochemical cascade - /wiki/Biochemical_cascade
+Translating Earbud - Pixel Buds - /wiki/Pixel_Buds
+Transmission Control Protocol (TCP) - Transmission Control Protocol - /wiki/Transmission_Control_Protocol
+Tree-lined Desert Barrier - Gobi Desert - /wiki/Gobi_Desert
+Triode Tube - Triode - /wiki/Triode
+Triple-Entry Accounting
+Truck Platooning
+Typing Indicator - Myers–Briggs Type Indicator - /wiki/Myers%E2%80%93Briggs_Type_Indicator
+Ultra Wide Lens - Ultra wide angle lens - /wiki/Ultra_wide_angle_lens
+Ultra Wideband (UWB) - Ultra-wideband - /wiki/Ultra-wideband
+Ultra-high RFID Tag - Radio-frequency identification - /wiki/Radio-frequency_identification
+Unbundled Education - Angie Motshekga - /wiki/Angie_Motshekga
+Under-Display Camera - Camera phone - /wiki/Camera_phone
+Underground Waste Collection - Automated vacuum collection - /wiki/Automated_vacuum_collection
+Underwater Farm - Underwater panther - /wiki/Underwater_panther
+Unit of Account
+Universal Mobile Telecommunications System (UMTS) - UMTS - /wiki/UMTS
+Universal Physical Camouflage (UPC) Attack
+Universal Serial Bus (USB) - USB - /wiki/USB
+Universally Unique Identifier (UUID) - Universally unique identifier - /wiki/Universally_unique_identifier
+Unsorted Waste Treatment - Waste autoclave - /wiki/Waste_autoclave
+Unstructured Supplementary Service Data (USSD) - Unstructured Supplementary Service Data - /wiki/Unstructured_Supplementary_Service_Data
+Untraceable Browser - David Chaum - /wiki/David_Chaum
+Urban Vehicle Restriction Policy - Road space rationing - /wiki/Road_space_rationing
+User-Defined Data Sharing - Peer-to-peer file sharing - /wiki/Peer-to-peer_file_sharing
+Valvular Conduit
+Video Game Controller
+Virtual Good
+Virtual Product Photos - Virtual tour - /wiki/Virtual_tour
+Virtual Reality (VR)
+Virtual Surgery
+Virtualized Geometry - Id Tech 6 - /wiki/Id_Tech_6
+Voice Modulation - Single-sideband modulation - /wiki/Single-sideband_modulation
+Voice over LTE (VoLTE) - Voice over LTE - /wiki/Voice_over_LTE
+Voiceless Speech Interface - Speech production - /wiki/Speech_production
+Volumetric 3D Printing - Volumetric printing - /wiki/Volumetric_printing
+Voting Algorithm - Boyer–Moore majority vote algorithm - /wiki/Boyer%E2%80%93Moore_majority_vote_algorithm
+Voxel Cone Tracing - Global illumination - /wiki/Global_illumination
+VR Classroom - Full Sail University - /wiki/Full_Sail_University
+VR Pay - Duriense VR - /wiki/Duriense_VR
+Waste as a Currency - Cryptocurrency - /wiki/Cryptocurrency
+Wastewater Algae Treatment - Industrial wastewater treatment - /wiki/Industrial_wastewater_treatment
+Wastewater Analytics Platform - Xylem Inc. - /wiki/Xylem_Inc.
+Wastewater Bioplastic - Bioplastic - /wiki/Bioplastic
+Wastewater Cellulose Recycling - Rayon - /wiki/Rayon
+Water Desalination
+Water Filter
+Water Heater
+water-attracting metal-organic devices - Metal–organic framework - /wiki/Metal%E2%80%93organic_framework
+Water-Inflatable Dam - Inflatable rubber dam - /wiki/Inflatable_rubber_dam
+Waterless Textile Dyeing - Dyeing - /wiki/Dyeing
+Waterless Toilet
+Wearable UV Sensor - Ultraviolet - /wiki/Ultraviolet
+Weaving Loom - Loom - /wiki/Loom
+Whole-Genome Synthesis - Whole genome sequencing - /wiki/Whole_genome_sequencing
+Wireless Cognition - Cognitive network - /wiki/Cognitive_network
+Wireless Energy Transfer
+Wireless Parking Sensor - List of sensors - /wiki/List_of_sensors
+Wireless Power Transfer (WPT) - Wireless power transfer - /wiki/Wireless_power_transfer
+Wireless Skin Patch Sensor - Wearable technology - /wiki/Wearable_technology
+Wireless Soil Sensor - Wireless sensor network - /wiki/Wireless_sensor_network
+Wi‑Fi 6 - Wi-Fi 6 - /wiki/Wi-Fi_6
+Wi‑Fi Calling - Generic Access Network - /wiki/Generic_Access_Network
+Wooden Skyscraper
+World Wide Web (WWW) - World Wide Web - /wiki/World_Wide_Web
+XR Glasses - Google Glass - /wiki/Google_Glass
+XR Mental Care - Quetiapine - /wiki/Quetiapine
+Yield Mapping
+Zero Energy Building
+ZIP File

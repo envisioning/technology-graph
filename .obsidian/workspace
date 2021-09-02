@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "technology/Content Delivery Network (CDN).md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "247f4e241a10cccb",
+    "id": "35bab5725cde32ee",
     "type": "split",
     "children": [
       {
-        "id": "07251280d569d9e3",
+        "id": "1ff489661c9268d2",
         "type": "tabs",
         "children": [
           {
-            "id": "485497fa6f6fda5d",
+            "id": "e87c7bc2c70c7147",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "66ab82aeeac2f450",
+            "id": "5d452a64d79b95d0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,60 +55,44 @@
     "width": 300
   },
   "right": {
-    "id": "8febdeea59addf2a",
+    "id": "4b1670748be66eee",
     "type": "split",
     "children": [
       {
-        "id": "c647eb992e4e2026",
+        "id": "e57d2ba8055785cf",
         "type": "tabs",
-        "dimension": 55.74817518248175,
         "children": [
           {
-            "id": "4ac9ae9cc1658632",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "1a74200a1130efed",
-        "type": "tabs",
-        "dimension": 44.25182481751825,
-        "children": [
-          {
-            "id": "2bf10efbcb13c04e",
+            "id": "985bd43332d21ea6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "technology/Content Delivery Network (CDN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a26567407cf97e03",
+            "id": "1e5741271d9f4a6a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "technology/Content Delivery Network (CDN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "be2aee5a6729a2ec",
+            "id": "e2724427a0d5434f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,19 +106,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 635
+    "width": 300
   },
   "active": "c7531b1ad8d3b1bf",
   "lastOpenFiles": [
+    "technology/Untitled.md",
+    "technology/vpn.md",
+    "-/What is Technology.md",
+    "technology/Equestrianism.md",
+    "technology/Domestication of Animals.md",
+    "technology/Dog Breeding.md",
+    "product/Tesla Series S (2021).md",
+    "product/Apple iPhone 12 Pro (2020).md",
     "README.md",
-    "technology/Money.md",
-    "technology/Computer.md",
-    "technology/General Purpose Robot.md",
-    "-/-Methods (tD).md",
-    "-/-Applications (tD).md",
-    "technology/5G Mobile Network.md",
-    "technology/4G Mobile Network.md",
-    "technology/3G Mobile Network.md",
-    "technology/2G Mobile Network.md"
+    "technology/3G Mobile Network.md"
   ]
 }

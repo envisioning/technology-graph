@@ -65,6 +65,11 @@ Henry David Thoreau
 
 ---
 
+> A systemic solution to an endemic problem.
+Michell Zappa
+
+---
+
 Technology is everything we create. Everything which is not of the natural world is technological. This includes artifacts such as smartphones, supersonic jets and the printing press. However it also includes abstract practices like agriculture, the harnessing of fire, and the concept of money.
 
 Technologies are divisible as tools and techniques. Tools are physical components such as scissors, communication satellites or incandescent light bulbs. Techniques are the methods through which tools are used, like writing, business models or law.
