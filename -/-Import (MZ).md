@@ -10,6 +10,8 @@ https://news.ycombinator.com/item?id=28299053
 
 
 ---
+[[high-bandwidth memory (HBM)]]
+[[processor-in-memory (PIM)]]
 
 [[Acheulean Stone Technology (Hand Axe)]]
 [[AI-generated Art]]	

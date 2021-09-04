@@ -1,0 +1,3 @@
+LBS is gaining adoption for use in smart glasses because it uses a compact projector, produces a bright image with rich colors, consumes relatively little power, and can be integrated aesthetically into a pair of glasses, Rajagopalan says. Tiny MEMS mirrors create images by deflecting the laser beams emitted from compact diodes. They project the images onto waveguides or other combiner optics, he says. The combiner optics are typically embedded in smart-glasses lenses, onto which the images are projected, Rajagopalan says. Focals by North glasses use LBS technology.
+
+https://spectrum.ieee.org/tiny-lasers-could-finally-bring-us-really-smart-ar-glasses

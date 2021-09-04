@@ -1,0 +1,3 @@
+Biorock™ technology is an innovative process originally invented in 1976 by the late architect to produce natural building materials in the sea. Biorock materials are the only marine construction material that grow, get stronger with age, and are self-repairing. Wolf called it Mineral Accretion Technlogoy™, Seacrete™, or Seament™. In 1987,  invited Wolf to come to Jamaica to work with him to develop applications for coral reef restoration, and they decided to call the technology Biorock™, because it not only grew hard limestone rock for structural purposes, it greatly increased growth of corals and all marine organisms. They founded the  to pursue research and development of Biorock™ Technology.
+
+https://www.globalcoral.org/biorock-coral-reef-marine-habitat-restoration/

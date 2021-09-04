@@ -7,7 +7,7 @@
 
 
 ### Chip 
-- [[System on a Chip (SOC)]]
+- [[System on a Chip (SoC)]]
 - [[Central Processing Unit (CPU)]]
 - [[Graphical Processing Unit (GPU)]]
 - [[Image Processor]]

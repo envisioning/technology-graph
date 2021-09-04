@@ -10,7 +10,7 @@
 [[5G Mobile Network]]
 
 [[Microprocessor]]
-[[System on a Chip (SOC)]]
+[[System on a Chip (SoC)]]
 
 
 [[Under-Display Camera]]

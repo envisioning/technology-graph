@@ -3,6 +3,7 @@
 [[Central Bank]]
 [[Peer-to-peer Electronic Money Transfer]]
 [[Fiat Money]]
+[[Stablecoin]]
 
 ---
 

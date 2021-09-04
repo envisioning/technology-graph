@@ -1,0 +1,17 @@
+https://newatlas.com/science/dust-sized-supercapacitor-voltage-aaa-battery/
+
+By combining miniaturized electronics with some origami-inspired fabrication, scientists in Germany have developed what they say is the smallest microsupercapacitor in existence. Smaller than a speck of a dust but with a similar voltage to a AAA battery, the groundbreaking energy storage device is not only safe for use in the human body, but actually makes use of key ingredients in the blood to supercharge its performance.
+
+The scientists behind the new device were working within the realm of nano-supercapacitors (nBSC), which are conventional capacitors but scaled down to the sub-millimeter scale. Developing these types of devices is tricky enough, but the researchers sought to make one that could work safely in the human body to power tiny sensors and implants, which requires swapping out problematic materials and corrosive electrolytes for ones that are biocompatible.
+
+These devices are known as biosupercapacitors and the smallest ones developed to date is larger than 3 mm3, but the scientists have made a huge leap forward in terms of how tiny biosupercapacitors can be. The construction starts with a stack of polymeric layers that are sandwiched together with a light-sensitive photo-resist material that acts as the current collector, a separator membrane, and electrodes made from an electrically conductive biocompatible polymer called PEDOT:PSS.
+
+This stack is placed on a wafer-thin surface that is subjected to high mechanical tension, which causes the various layers to detach in a highly controlled fashion and fold up origami-style into a nano-biosupercapacitor with a volume 0.001 mm3, occupying less space than a grain of dust. These tubular biosupercapacitors are therefore 3,000 times smaller than those developed previously, but with a voltage roughly the same as an AAA battery (albeit with far lower actual current flow).
+
+These tiny devices were then placed in saline, blood plasma and blood, where they demonstrated an ability to successfully store energy. The biosupercapacitor proved particularly effective in blood, where it retained up to 70 percent of its capacity after 16 hours of operation. Another reason blood may be a suitable home for the team's biosupercapacitor is that the device works with inherent redox enzymatic reactions and living cells in the solution to supercharge its own charge storage reactions, boosting its performance by 40 percent.
+
+Prof. Dr. Oliver G. Schmidt has led the development of a novel, tiny supercapacitor that is biocompatible Jacob Müller
+
+The team also subjected the device to the forces it might experience in blood vessels where flow and pressure fluctuate, by placing them in microfluidic channels, kind of like wind-tunnel testing for aerodynamics, where it stood up well. They also used three of the devices chained together to successfully power a tiny pH sensor, which could be placed in the blood vessels to measure pH and detect abnormalities that could be indicative of disease, such as a tumor growth.
+
+"It is extremely encouraging to see how new, extremely flexible, and adaptive microelectronics is making it into the miniaturized world of biological systems," says research group leader Prof. Dr. Oliver G. Schmidt.

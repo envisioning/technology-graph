@@ -1,0 +1,4 @@
+Maryland-based [IonQ](https://ionq.com/) has unveiled a new kind of chip in its quest to scale up its type of [quantum computer](https://spectrum.ieee.org/tag/quantum-computers) technology. Its computers calculate using the quantum states of ions electromagnetically trapped in the space near a chip. Previous traps were made using silicon chipmaking processes, but the company has now switched to an evaporated glass trap technology—a way of constructing micrometer-scale features in fused silica glass often used to make microfluidic chips. Its previous trap technology, the company says, could not have supported IonQ's new quantum architecture, which is based on multiple chains of [ion-based qubits](https://spectrum.ieee.org/tag/ion-trap). Ultimately, IonQ executives say, the glass chip's reconfigurable chains of ions will allow for computers with qubits that number in the triple digits.
+
+
+https://spectrum.ieee.org/ionq-new-quantum-computing-chip

@@ -12,3 +12,4 @@
 [[Liquid Crystal Display]]
 [[Software]]
 [[Floppy Disk]]
+[[Cache]]

@@ -9,3 +9,5 @@
 [[Solid-state Battery]]
 [[Nano Diamond Battery]]
 [[Nickel–Cadmium Battery]]
+
+[[Alkali Metal-Chlorine Battery]]

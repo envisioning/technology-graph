@@ -3,7 +3,7 @@
 
 
 - [[E-Ink Display]]
-- [[System on a Chip (SOC)]]
+- [[System on a Chip (SoC)]]
 - [[Central Processing Unit (CPU)]]
 - [[Solid State Drive (SSD)]]
 - [[USB-C]]
