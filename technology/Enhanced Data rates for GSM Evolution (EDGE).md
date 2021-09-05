@@ -1,1 +1,1 @@
-[[2G Mobile Network]]
+[[2G]]

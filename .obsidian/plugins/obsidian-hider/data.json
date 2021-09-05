@@ -3,7 +3,7 @@
   "hideRibbon": false,
   "hideStatus": false,
   "hideScroll": false,
-  "hideTooltips": true,
+  "hideTooltips": false,
   "hideInstructions": false,
   "hideMeta": false
 }

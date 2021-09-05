@@ -32,7 +32,7 @@
 - Recommended starting points:
 	- [[Agriculture]]
 	- [[Internet]] 
-	- [[3G Mobile Network]] 
+	- [[3G]] 
 	- [[Gartner Hype Cycle 2021]] #Index 
 	- [[WEF Emerging Tech 2020]] #Index 
 	- [[Wikipedia List of Emerging Technologies]] #Index 

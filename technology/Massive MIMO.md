@@ -1,4 +1,4 @@
-[[5G Mobile Network]]
+[[5G]]
 
 MIMO systems use multiple antennas at the transmitter and receiver ends of a wireless communication system. Multiple antennas use the spatial dimension for multiplexing in addition to the time and frequency ones, without changing the bandwidth requirements of the system.
 

@@ -6,8 +6,8 @@
 [[Internet]]
 [[Telephone]]
 [[General Packet Radio Service (GPRS)]]
-[[4G Mobile Network]]
-[[5G Mobile Network]]
+[[4G]]
+[[5G]]
 
 [[Microprocessor]]
 [[System on a Chip (SoC)]]

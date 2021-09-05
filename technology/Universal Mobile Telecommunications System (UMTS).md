@@ -1,1 +1,1 @@
-[[3G Mobile Network]]
+[[3G]]

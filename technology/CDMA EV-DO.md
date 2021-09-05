@@ -1,3 +1,3 @@
-[[3G Mobile Network]]
+[[3G]]
 
 [[Code-Division Multiple Access (CDMA)]]

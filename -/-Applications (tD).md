@@ -53,7 +53,7 @@ Blockchain:
 
 Computing:
 - [[3D Slicer Software]]
-- [[5G Mobile Network]]
+- [[5G]]
 - [[AI Voice Assistant]]
 - [[Anticipatory Shipping]]
 - [[Automated Data Theft Detection Tool]]
@@ -109,7 +109,7 @@ Geoengineering:
 
 
 IOT
-- [[5G Mobile Network]]
+- [[5G]]
 - [[Active RFID Tag]]
 - [[AI Voice Assistant]]
 - [[Anticipatory Shipping]]

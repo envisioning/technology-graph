@@ -1,1 +1,1 @@
-[[5G Mobile Network]]
+[[5G]]

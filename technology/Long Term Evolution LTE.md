@@ -1,2 +1,2 @@
-[[5G Mobile Network]]
-[[4G Mobile Network]]
+[[5G]]
+[[4G]]

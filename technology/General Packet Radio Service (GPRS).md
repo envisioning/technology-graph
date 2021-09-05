@@ -1,4 +1,4 @@
-[[4G Mobile Network]]
-[[3G Mobile Network]]
+[[4G]]
+[[3G]]
 
 [[Global System for Mobile Communications (GSM)]]

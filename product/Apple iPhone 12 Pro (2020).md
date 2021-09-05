@@ -72,7 +72,7 @@
 
 
 ### Cellular and Wireless
-- [[5G Mobile Network]]
+- [[5G]]
 - [[Gigabit LTE]]
 - [[CDMA EV-DO]]
 - [[Universal Mobile Telecommunications System (UMTS)]]

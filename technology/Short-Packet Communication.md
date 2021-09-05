@@ -1,1 +1,1 @@
-[[6G Mobile Network]]
+[[6G]]

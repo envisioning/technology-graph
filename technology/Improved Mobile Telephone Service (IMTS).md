@@ -1,0 +1,1 @@
+[[Advanced Mobile Phone System (AMPS)]]

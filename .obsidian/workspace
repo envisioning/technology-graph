@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4e1d8ddb1ded16e4",
+        "id": "9b5aa094ad136717",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Small Cell.md",
+            "file": "technology/1G.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a062912b1214b67a",
+    "id": "e51567288193b150",
     "type": "split",
     "children": [
       {
-        "id": "1fe94bd4fdde99ac",
+        "id": "efe403800339bc7a",
         "type": "tabs",
         "children": [
           {
-            "id": "9208ce44616a5b24",
+            "id": "c25bb6d0e96ca1ce",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "68d6cea349f4d202",
+            "id": "1467ac0b6b4ce8bb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 361
   },
   "right": {
-    "id": "7fdd5d43a34b4bd5",
+    "id": "d6ee3e311af39d23",
     "type": "split",
     "children": [
       {
-        "id": "df991e596c807040",
+        "id": "30d86802c2d44577",
         "type": "tabs",
         "children": [
           {
-            "id": "a776960f3b4df687",
+            "id": "859264d17e9d2766",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Small Cell.md",
+                "file": "technology/1G.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,19 +80,19 @@
             }
           },
           {
-            "id": "dfda5a2ee675e6c5",
+            "id": "b73edf67594c4327",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/Small Cell.md",
+                "file": "technology/1G.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5b9a310f2021f638",
+            "id": "6b3f53f36fb8d427",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e1d8ddb1ded16e4",
+  "active": "9b5aa094ad136717",
   "lastOpenFiles": [
-    "technology/Small Cell.md",
-    "technology/5G Mobile Network.md",
-    "technology/Light-Emitting Diode (LED).md",
-    "technology/LCD.md",
-    "technology/Mini-LED.md",
-    "technology/LED.md",
-    "technology/LED Light.md",
-    "product/Untitled.md",
-    "technology/High Fidelity Image Generation.md",
-    "technology/Cascaded Diffusion Model.md"
+    "technology/1G.md",
+    "-/tmp/Untitled.md",
+    "technology/3G.md",
+    "README.md",
+    "technology/Advanced Mobile Phone System (AMPS).md",
+    "technology/Improved Mobile Telephone Service (IMTS).md",
+    "technology/Mobile Radio Telephone.md",
+    "technology/Transciever.md",
+    "technology/Modem.md",
+    "technology/Analog Telecommunications.md"
   ]
 }

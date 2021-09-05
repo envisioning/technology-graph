@@ -1,3 +1,3 @@
 [[CDMA EV-DO]]
 
-[[2G Mobile Network]]
+[[2G]]

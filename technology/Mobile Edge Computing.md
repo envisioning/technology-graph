@@ -1,4 +1,4 @@
-[[6G Mobile Network]]
+[[6G]]
 
 Wikipedia:https://en.wikipedia.org/wiki/Multi-access_edge_computing
 Wikidata:https://www.wikidata.org/wiki/Special:EntityPage/Q25325231

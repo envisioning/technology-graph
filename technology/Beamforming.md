@@ -1,4 +1,4 @@
 [[Loudspeaker]]
-[[5G Mobile Network]]
+[[5G]]
 
 > There are two kinds of beamforming: Digital and Analog. Digital beamforming involves sending the data across multiple streams (layers), while analog beamforming shaping the radio waves to point in a specific direction. The analog BF technique combines the power from elements of the antenna array in such a way that signals at particular angles experience constructive interference, while other signals pointing to other angles experience destructive interference. This improves signal quality in the specific direction, as well as data transfer speeds. 5G uses both digital and analog beamforming to improve the system capacity. 

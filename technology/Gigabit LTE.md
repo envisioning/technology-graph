@@ -1,2 +1,2 @@
-[[4G Mobile Network]]
+[[4G]]
 [[Long Term Evolution LTE]]

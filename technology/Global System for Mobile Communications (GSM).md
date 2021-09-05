@@ -1,5 +1,5 @@
 # Global System for Mobile Communications (GSM)
 
-[[2G Mobile Network]]
+[[2G]]
 
 [[Cellular Network]]
