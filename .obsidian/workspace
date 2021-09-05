@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/1G.md",
+            "file": "technology/Electric Motor.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/1G.md",
+                "file": "technology/Electric Motor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/1G.md",
+                "file": "technology/Electric Motor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,20 +106,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9b5aa094ad136717",
   "lastOpenFiles": [
-    "technology/1G.md",
-    "-/tmp/Untitled.md",
-    "technology/3G.md",
+    "technology/Electric Motor.md",
     "README.md",
-    "technology/Advanced Mobile Phone System (AMPS).md",
-    "technology/Improved Mobile Telephone Service (IMTS).md",
-    "technology/Mobile Radio Telephone.md",
-    "technology/Transciever.md",
-    "technology/Modem.md",
-    "technology/Analog Telecommunications.md"
+    "technology/Untitled 1.md",
+    "technology/Decentralized Finance (DeFi).md",
+    "technology/Stablecoin.md",
+    "-/tmp/Technology.md",
+    "index/Gartner Hype Cycle 2021.md",
+    "-/tmp/Untitled.md",
+    "technology/Cubesat.md",
+    "technology/Electric Propulsion.md"
   ]
 }

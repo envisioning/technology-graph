@@ -1,7 +1,14 @@
 [[Electricity]]
 [[Electromagnet]]
 
+[[Output Shaft]]
+
+[[Coil]]
+
+[[Commutator]]
+
+[[Silicon Controlled Rectifier (SCR)]]
+
 https://spectrum.ieee.org/200-years-ago-faraday-invented-the-electric-motor
 
-https://news.ycombinator.com/item?id=28420468
-
+https://en.wikipedia.org/wiki/Timeline_of_the_electric_motor
