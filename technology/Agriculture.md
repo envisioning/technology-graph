@@ -42,6 +42,11 @@ Enables:
 [[Aquaculture]]
 [[Hydroponics]]
 [[Harvesting]]
+[[Cultivator]]
+[[Driller]]
+
+[[Fence]]
+[[Electric Fence]]
 
 Modern [[Agronomy]], [[Plant Breeding]], [[Agrochemical]] such as [[Pesticide]] and [[Fertilizer]], and technological developments have sharply increased crop yields,
 

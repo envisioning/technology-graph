@@ -69,7 +69,7 @@
 	- [ ] Domain experts.
 	- [ ] Data & network experts.
 - [x] Eliminate Domain taxonomy and replace it with connections between Technologies.
-- [ ] Eliminate #Technology tag and replace it with #Application or #Method 
+- [ ] Eliminate #Technology tag and replace it with #Application, #Method or #System 
 - [ ] Organize related non-technological entities:
 	- [x] #Product 
 	- [ ] Organizations
@@ -77,6 +77,7 @@
 	- [ ] 118 Chemical Elements
 	- [ ] Nation States
 - [ ] Improve Technology entry quality:
+	- [ ] Define template for [[Technology]]
 	- [ ] Eliminate Orphans (unlinked entries)
 	- [ ] Standardize approach to indicate year of invention.
 	- [ ] Apply taxonomy/tags to all entries.
