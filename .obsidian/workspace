@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "technology/Water Engine.md",
+            "file": "technology/Mechanical Calculator.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Water Engine.md",
+                "file": "technology/Mechanical Calculator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/Water Engine.md",
+                "file": "technology/Mechanical Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "d86596e55645dfd4",
   "lastOpenFiles": [
-    "technology/Water Engine.md",
-    "technology/Piston.md",
-    "technology/Valve.md",
-    "technology/water engine.md",
-    "technology/Agriculture.md",
-    "product/Tesla Gigafactory.md",
-    "technology/Heating, Ventilation and Air Conditioning (HVAC).md",
-    "technology/Refrigeration.md",
-    "index/WEF Emerging Tech 2020.md",
-    "index/Gartner Hype Cycle 2021.md"
+    "technology/Mechanical Calculator.md",
+    "technology/Difference Engine.md",
+    "technology/Advanced Encryption Standard (AES).md",
+    "technology/Assymetric Cryptography.md",
+    "-/-Import (MZ).md",
+    "technology/Cryptography.md",
+    "technology/Public Key Cryptography.md",
+    "technology/Public-key Cryptography.md",
+    "technology/1G.md",
+    "technology/Untitled 1.md"
   ]
 }

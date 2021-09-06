@@ -367,7 +367,7 @@ https://news.ycombinator.com/item?id=28299053
 [[Progressive Assembly]]
 [[Progressive web App]]
 [[Propeller]]
-[[Public key Cryptography]]
+[[Assymetric Cryptography|Public-Key Cryptography]]
 [[Public Transport Techs]]
 [[Pump]]
 [[Punched Card]]

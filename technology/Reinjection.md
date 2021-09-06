@@ -1,0 +1,5 @@
+![[https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNzM2NDQxNS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY2ODI1OTYzOX0.OGSIKwAOqQQILwBXPhx3lJew49TtVK_xPiN1JdyWdg4/image.png?quality=80&width=992]]
+
+The HX-63 has nine rotors and also uses a technique called reinjection. Each rotor has a set of conductors that connect each and every electrical contact on one side of the rotor with a different contact on the other side. For every rotor the pattern of these connections is unique. When the operator strikes a key on the keyboard, representing one of 26 letters, current travels through the set of nine rotors twice, once in each direction, and then through a separate set of 15 rotor contacts at least two times. This reinjection technique greatly increases the complexity of the cipher.
+
+https://spectrum.ieee.org/the-scandalous-history-of-the-last-rotor-cipher-machine

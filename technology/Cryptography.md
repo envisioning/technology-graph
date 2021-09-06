@@ -2,7 +2,7 @@ Enabled by:
 - [[Computer]]
 - [[Mathematics]]
 
-[[Public Key Cryptography]]
+[[Assymetric Cryptography]]
 [[Secure Multi-Party Computation (SMPC)]]
 [[Private Set Intersection]]
 [[Homomorphic Encryption]]
