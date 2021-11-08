@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "507fa9ba1d8522b3",
+    "id": "23b53b268153df3b",
     "type": "split",
     "children": [
       {
-        "id": "d86596e55645dfd4",
+        "id": "af9e2985588f60b3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "technology/Water Engine.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -52,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361
+    "width": 269
   },
   "right": {
     "id": "d6ee3e311af39d23",
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technology/Water Engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technology/Water Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,19 +101,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "d86596e55645dfd4",
+  "active": "af9e2985588f60b3",
   "lastOpenFiles": [
-    "technology/Water Engine.md",
-    "technology/Piston.md",
-    "technology/Valve.md",
-    "technology/water engine.md",
-    "technology/Agriculture.md",
-    "product/Tesla Gigafactory.md",
-    "technology/Heating, Ventilation and Air Conditioning (HVAC).md",
-    "technology/Refrigeration.md",
+    "index/Wikipedia List of Emerging Technologies.md",
     "index/WEF Emerging Tech 2020.md",
-    "index/Gartner Hype Cycle 2021.md"
+    "index/Gartner Hype Cycle 2021.md",
+    "product/Apple iPhone 12 Pro (2020).md",
+    "technology/Live Photo.md",
+    "technology/Non-Fungible Token (NFT).md",
+    "technology/Cryptocurrency.md",
+    "technology/Cryptocurrency Over The Counter (OTC).md",
+    "technology/Blockchain.md",
+    "technology/5G.md"
   ]
 }

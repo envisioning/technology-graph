@@ -1,18 +1,17 @@
- 
+
 # Technology Graph
 ## An experiment in identifying relationships between all technologies.
 
 
 
-
 ### Objective
-- Index all publically disclosed technologies.
+- Index all publicly disclosed technologies.
 - Indicate relationships between them, such as dependencies or enablers
 - Create a comprehensive knowledge graph of Kevin Kelly's [Technium](https://kk.org/thetechnium/the-seventh-kin/).
-- Identify the interdependency between *all* technologies, as per James Burke's [Connections](https://archive.org/details/james-burke-connections_s01e01).
-- Create common understanding about the *definition* of technology ([[What is Technology]]).
-- Provide a standardized framework around which anyone can analyze the *technologial ecosystem*.
-- Help non-experts undertand the *nature* of technology and its fundamental interconnectedness.
+- Identify the interdependence between *all* technologies, as per James Burke's [Connections](https://archive.org/details/james-burke-connections_s01e01).
+- Create common understanding about the definition of technology ([[What is Technology]]).
+- Provide a standardized framework around which anyone can analyze the technological ecosystem.
+- Help non-experts understand the nature of technology and its fundamental interconnections.
 
 ---
 
@@ -29,14 +28,20 @@
 - Download Vault on Github and navigate it in Obsidian:
 	- https://github.com/envisioning/technology-graph/ 
 	- https://obsidian.md/
-- Recommended starting points:
-	- [[Agriculture]]
-	- [[Internet]] 
-	- [[3G]] 
-	- [[Gartner Hype Cycle 2021]] #Index 
-	- [[WEF Emerging Tech 2020]] #Index 
-	- [[Wikipedia List of Emerging Technologies]] #Index 
-	- [[Apple iPhone 12 Pro (2020)]] #Product 
+- Download Vault on Dropbox to view:
+ 	- https://www.dropbox.com/sh/c31jp1nndo1v1kf/AAAJWqlGXaZLVDYELOCKJv4ta
+
+---
+
+### Recommended starting points
+
+- [[Agriculture]]
+- [[Internet]] 
+- [[3G]] 
+- [[Gartner Hype Cycle 2021]] #Index 
+- [[WEF Emerging Tech 2020]] #Index 
+- [[Wikipedia List of Emerging Technologies]] #Index 
+- [[Apple iPhone 12 Pro (2020)]] #Product 
 
 ---
 

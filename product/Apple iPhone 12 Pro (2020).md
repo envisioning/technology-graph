@@ -11,7 +11,7 @@
 - [[System on a Chip (SoC)]]
 - [[Central Processing Unit (CPU)]]
 - [[Graphical Processing Unit (GPU)]]
-- [[Neural Engine]]
+- [[Neural Engine]] [[Neural Processing Unit (NPU)]]
 - [[Image Processor]]
 - [[Digital Storage]]
 - [[Random Access Memory (RAM)]]

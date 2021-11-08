@@ -146,7 +146,7 @@ Nanotech:
 - [[Nano Satellite]]
 - [[Nitrogen-fixing Bacteria Coating]]
 - [[Platinum-based Alloy Catalyst]]
-- [[Quantum Dots (QDs)]]
+- [[Quantum Dots (QD)]]
 - [[Seaweed Biofertilizer]]
 - [[Autonomic Self-Healing Polymer]]
 - [[Engineered Bacteriophage]]

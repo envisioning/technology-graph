@@ -1,6 +1,6 @@
 #Product
 
-
+Alternative:https://www.theverge.com/2021/9/21/22684552/specialized-turbo-vado-como-tero-ebike-specs-price
 
 [[Bicycle]]
 
